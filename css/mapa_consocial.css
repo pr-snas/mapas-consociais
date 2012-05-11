@@ -10,3 +10,19 @@ html, body {
 #map_canvas {
   height: 100%;
 }
+
+div.infowindow {
+  font: normal 12px/130% "Helvetica Neue", Helvetica, Arial, sans-serif;
+  max-width: 250px;
+  max-height: 250px;
+  overflow-y: auto;
+}
+
+div.infowindow h1 {
+  line-height: 130%;
+  margin-bottom: 7px;
+}
+
+div.infowindow li {
+  margin-bottom: 5px;
+}

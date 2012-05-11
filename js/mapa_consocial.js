@@ -47,7 +47,8 @@ $(function() {
           posicoes[pos] = 0;
         }
 
-        marker.content = "<h1>" + item.titulo + "</h1>";
+        marker.content = "<div class='infowindow'>";
+        marker.content += "<h1>" + item.titulo + "</h1>";
         marker.content += "<ul>";
 
         for (c = 0; c < item.campos.length; c++) {
@@ -57,6 +58,7 @@ $(function() {
         }
 
         marker.content += "</ul>";
+        marker.content += "</div>";
 
         attachClickEvent(marker);
       }
