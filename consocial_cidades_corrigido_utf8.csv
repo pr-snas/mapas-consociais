@@ -1,0 +1,1354 @@
+"ID";"CIDADE TITULO";"Tipo";"Data";"UF";"Cidade/Região";"Quantidade de municípios";"Realizada";"Relatório";"Participantes Soc. Civil";"Participantes Poder Público";"Participantes Conselhos";"Participantes convidados";"Participantes Observadores";"Total Participantes";"Proposta Eixo 1";"Propostas Eixo 2";"Propostas Eixo 3";"Propostas Eixo 4";"Total de propostas";"Delegados Sociedade Civil";"Delegados Poder Público";"Delegados Conselhos";"Total de delegados"
+1;"Mossâmedes";"Municipal";17/08/11;"GO";"Mossâmedes";1;"SIM";"FINALIZADO";18;14;8;0;0;40;3;5;6;6;20;3;1;1;5
+2;"Nossa Senhora do Socorro";"Municipal";19/08/11;"SE";"Nossa Senhora do Socorro";1;"SIM";"FINALIZADO";68;29;5;20;5;127;3;7;7;3;20;6;2;2;10
+3;"Rio Preto da Eva";"Municipal";20/08/11;"AM";"Rio Preto da Eva";1;"SIM";"FINALIZADO";43;37;3;15;10;108;5;5;5;5;20;3;2;1;6
+4;"Estância";"Municipal";26/08/11;"SE";"Estância";1;"SIM";"FINALIZADO";32;24;5;5;10;76;3;5;5;7;20;6;2;2;10
+5;"Mulungu";"Municipal";26/08/11;"CE";"Mulungu";1;"SIM";"FINALIZADO";130;16;8;0;0;154;1;1;2;2;6;2;1;0;3
+6;"Palmeirópolis";"Regional";26/08/11;"TO";"Palmeirópolis, Jaú do Tocantins,  Peixe, São Salvador do Tocantins, São Valério da Natividade ";5;"SIM";"FINALIZADO";31;40;25;7;15;118;5;6;5;4;20;2;2;1;5
+7;"Vespasiano";"Municipal";31/08/11;"MG";"Vespasiano";1;"SIM";"FINALIZADO";67;53;10;27;0;157;5;5;5;5;20;6;3;1;10
+8;"Campinápolis";"Municipal";01/09/11;"MT";"Campinápolis";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+9;"Belo Campo ";"Municipal";01/09/11;"BA";"Belo Campo ";1;"SIM";"FINALIZADO";15;8;5;9;3;40;1;1;1;1;4;1;1;1;3
+10;"Botuporã";"Municipal";01/09/11;"BA";"Botuporã";1;"SIM";"FINALIZADO";5;5;30;61;59;160;2;2;1;1;6;1;1;0;2
+11;"Bujaru";"Municipal";01/09/11;"PA";"Bujaru";1;"SIM";"FINALIZADO";121;78;46;19;9;273;2;6;1;4;13;1;1;1;3
+12;"Itaberaí";"Regional";02/09/11;"GO";"Itaberaí, Americano do Brasil, Araguapaz, Bela Vista de Goiás, Caldazinha, Caturaí, Goianira, Guapó, Heitoraí,  Itaguari, Itapuranga, Nerópolis, Nova Veneza, Sanclerlândia, São Luís de Montes Belos ";15;"SIM";"FINALIZADO";81;93;23;5;5;207;6;5;3;6;20;13;8;6;27
+13;"Almas";"Regional";06/09/11;"TO";"Almas, Dianópolis, Novo Jardim, Ponte Alta do Bom Jesus, Porto Alegre do Tocantins, Rio da Conceição, Taguatinga, Taipas do Tocantins ";8;"SIM";"FINALIZADO";22;37;31;0;0;90;4;3;7;6;20;3;3;1;7
+14;"Pacatuba";"Municipal";06/09/11;"SE";"Pacatuba";1;"SIM";"FINALIZADO";41;20;19;12;17;109;5;4;5;6;20;6;3;5;14
+15;"Campo Grande ";"Livre";12/09/11;"MS";"Campo Grande - Univ. Anhanguera";0;"SIM";"FINALIZADO";9;30;6;0;0;45;1;5;1;3;10;0;0;0;0
+16;"Acaraú";"Municipal";14/09/11;"CE";"Acaraú";1;"SIM";"FINALIZADO";22;70;20;0;0;112;5;5;5;5;20;12;6;2;20
+17;"Laranjeiras";"Municipal";14/09/11;"SE";"Laranjeiras";1;"SIM";"FINALIZADO";28;64;4;0;0;96;5;3;5;7;20;6;3;2;11
+18;"Poxoréu";"Municipal";15/09/11;"MT";"Poxoréu";1;"SIM";"FINALIZADO";40;45;20;15;10;130;5;5;5;5;20;0;1;0;1
+19;"São Sebastião de Lagoa Roça";"Municipal";15/09/11;"PB";"São Sebastião de Lagoa Roça";1;"SIM";"FINALIZADO";20;54;17;5;0;96;5;4;6;5;20;1;1;0;2
+20;"Fagundes";"Municipal";16/09/11;"PB";"Fagundes";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+21;"Peabiru";"Municipal";16/09/11;"PR";"Peabiru";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+22;"Itabaiana";"Livre";16/09/11;"SE";"Itabaiana";0;"SIM";"FINALIZADO";0;40;0;0;0;40;0;0;5;5;10;0;0;0;0
+23;"Maravilha";"Regional";16/09/11;"SC";"Maravilha, Bom Jesus do Oeste, Caibi, Campo Erê, Cunha Porã, Cunhataí, Flor do Sertão, Iraceminha,  Modelo, Palmitos, Riqueza, Romelândia, Saltinho, Santa Terezinha do Progresso, São Miguel da Boa Vista, Saudades, Tigrinhos ";17;"SIM";"FINALIZADO";81;18;42;2;0;143;5;5;5;5;20;5;2;1;8
+24;"Palmeiras de Goiás";"Regional";16/09/11;"GO";"Palmeiras de Goiás, Aporé, Aragarças, Campestre de Goiás, Cezarina, Indiara, Iporá, Jataí, Moiporá, Rio Verde, Santa Bárbara de Goiás, Santo Antônio da Barra, Turvânia ";13;"SIM";"FINALIZADO";56;60;6;0;2;124;9;3;3;5;20;8;11;3;22
+25;"Rosário Oeste";"Municipal";16/09/11;"MT";"Rosário Oeste";1;"SIM";"FINALIZADO";150;58;11;10;8;237;5;5;5;5;20;8;4;2;14
+26;"Alfenas";"Municipal";17/09/11;"MG";"Alfenas";1;"SIM";"FINALIZADO";152;62;21;4;0;239;4;4;5;5;18;8;5;2;15
+27;"Cristinápolis";"Livre";19/09/11;"SE";"Cristinápolis";0;"SIM";"FINALIZADO";1;14;1;0;0;16;5;0;0;5;10;0;0;0;0
+28;"Miracema do Tocantins";"Regional";20/09/11;"TO";"Miracema do Tocantins, Miranorte, Rio dos Bois, Rio Sono, Tocantínia ";5;"SIM";"FINALIZADO";62;58;21;0;65;206;3;6;5;6;20;5;2;1;8
+29;"Alto Taquari";"Municipal";22/09/11;"MT";"Alto Taquari";1;"SIM";"FINALIZADO";13;8;5;3;2;31;5;2;5;2;14;0;2;0;2
+30;"Bonito de Santa Fé";"Municipal";22/09/11;"PB";"Bonito de Santa Fé";1;"SIM";"FINALIZADO";59;25;4;6;7;101;4;4;5;5;18;1;1;0;2
+31;"Campos dos Goytacazes";"Municipal";22/09/11;"RJ";"Campos dos Goytacazes";1;"SIM";"FINALIZADO";45;38;12;9;1;105;5;5;5;5;20;5;3;1;9
+32;"Itaeté";"Municipal";22/09/11;"BA";"Itaeté";1;"SIM";"FINALIZADO";69;42;13;12;1;137;1;1;3;2;7;0;1;0;1
+33;"Alexânia";"Regional";23/09/11;"GO";"Alexânia, Água Fria de Goiás,  Cabeceiras, Cristalina, Monte Alegre de Goiás, Novo Gama, Planaltina, Posse, Valparaíso de Goiás ";9;"SIM";"FINALIZADO";140;55;9;4;3;211;5;6;4;5;20;20;12;3;35
+34;"Lagarto";"Municipal";23/09/11;"SE";"Lagarto";1;"SIM";"FINALIZADO";34;45;25;15;21;140;4;4;5;7;20;5;4;4;13
+35;"Pedro Afonso";"Regional";23/09/11;"TO";"Pedro Afonso, Bom Jesus do Tocantins, Centenário, Recursolândia, Santa Maria do Tocantins, Tupirama ";6;"SIM";"FINALIZADO";8;45;17;0;3;73;3;2;7;8;20;2;1;1;4
+36;"Serra";"Municipal";23/09/11;"ES";"Serra";1;"SIM";"FINALIZADO";90;45;15;40;10;200;5;3;9;3;20;28;10;6;44
+37;"Vila Velha";"Municipal";23/09/11;"ES";"Vila Velha";1;"SIM";"FINALIZADO";121;129;58;15;1;324;4;5;5;6;20;27;11;5;43
+38;"Apuarema";"Municipal";27/09/11;"BA";"Apuarema";1;"SIM";"FINALIZADO";15;8;30;0;0;53;4;3;7;2;16;2;2;2;6
+39;"Benjamim Constant";"Municipal";27/09/11;"AM";"Benjamim Constant";1;"SIM";"FINALIZADO";255;0;0;0;0;255;2;3;6;7;18;3;1;1;5
+40;"Caiçara";"Municipal";27/09/11;"RS";"Caiçara";1;"SIM";"FINALIZADO";5;10;2;27;22;66;1;1;1;1;4;1;1;1;3
+41;"Condado";"Municipal";27/09/11;"PB";"Condado";1;"SIM";"FINALIZADO";37;25;10;4;2;78;5;5;6;4;20;1;0;0;0
+42;"Nova Esperança do Sul";"Municipal";27/09/11;"RS";"Nova Esperança do Sul";1;"SIM";"FINALIZADO";3;3;4;36;0;46;2;2;2;2;8;0;1;0;1
+43;"Palhano";"Municipal";27/09/11;"CE";"Palhano";1;"SIM";"FINALIZADO";38;33;10;9;0;90;5;5;5;5;20;10;4;2;16
+44;"Missal";"Municipal";29/09/11;"PR";"Missal";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+45;"Barra do Garças";"Municipal";29/09/11;"MT";"Barra do Garças";1;"SIM";"FINALIZADO";151;0;0;0;0;151;3;4;4;1;12;1;0;0;1
+46;"Júlio Borges";"Municipal";29/09/11;"PI";"Júlio Borges";1;"SIM";"FINALIZADO";75;36;20;12;11;154;6;5;4;5;20;1;1;0;2
+47;"Penaforte";"Municipal";29/09/11;"CE";"Penaforte";1;"SIM";"FINALIZADO";49;24;8;240;33;354;3;4;3;2;12;6;3;1;10
+48;"Recife";"Livre";29/09/11;"PE";"Recife";0;"SIM";"FINALIZADO";276;32;32;0;0;340;1;2;1;6;10;0;0;0;0
+49;"Almirante Tamandaré";"Municipal";30/09/11;"PR";"Almirante Tamandaré";1;"SIM";"Pré-conferência";6;24;17;0;5;52;2;2;1;2;7;3;1;2;6
+50;"Araripe";"Municipal";30/09/11;"CE";"Araripe";1;"SIM";"FINALIZADO";107;61;42;4;1;215;6;4;6;4;20;6;3;1;10
+51;"Itumbiara";"Regional";30/09/11;"GO";"Itumbiara, Aloândia, Bom Jesus de Goiás, Buriti Alegre, Cachoeira Dourada, Caldas Novas, Goiatuba, Inaciolândia,  Joviânia, Mineiros, Morrinhos, Porteirão, Professor Jamil, Quirinópolis, Rio Quente, Santa Helena de Goiás ";16;"SIM";"FINALIZADO";40;40;7;0;0;87;6;5;6;3;20;4;3;3;10
+52;"Jaguarari";"Municipal";30/09/11;"BA";"Jaguarari";1;"SIM";"FINALIZADO";5;30;2;10;10;57;2;2;2;4;10;0;1;0;1
+53;"Juripiranga";"Municipal";03/10/11;"PB";"Juripiranga";1;"SIM";"FINALIZADO";10;8;2;65;146;231;4;8;4;4;20;1;1;0;2
+54;"Água Branca";"Municipal";04/10/11;"PB";"Água Branca";1;"SIM";"FINALIZADO";47;20;3;3;0;73;4;6;6;4;20;1;0;0;1
+55;"Alagoa Grande";"Municipal";04/10/11;"PB";"Alagoa Grande";1;"SIM";"FINALIZADO";54;27;9;8;3;101;5;5;5;5;20;1;1;1;3
+56;"Araguaína";"Regional";04/10/11;"TO";"Araguaína, Aragominas,  Babaçulândia, Barra do Ouro, Campos Lindos, Carmolândia, Filadélfia, Goiatins, Muricilândia, Nova Olinda, Pau d'Arco, Santa Fé do Araguaia, Wanderlândia ";13;"SIM";"FINALIZADO";82;122;11;3;4;222;5;4;5;6;20;24;12;3;39
+57;"Nossa Senhora de Lourdes";"Municipal";04/10/11;"SE";"Nossa Senhora de Lourdes";1;"SIM";"FINALIZADO";102;37;12;28;12;191;7;4;4;5;20;6;2;2;10
+58;"Piraí";"Municipal";04/10/11;"RJ";"Piraí";1;"SIM";"FINALIZADO";77;39;12;15;14;157;3;5;3;9;20;1;1;1;3
+59;"São José dos Quatro Marcos";"Municipal";04/10/11;"MT";"São José dos Quatro Marcos";1;"SIM";"FINALIZADO";74;37;12;10;0;133;4;6;5;5;20;4;4;4;12
+60;"Alto Santo";"Municipal";05/10/11;"CE";"Alto Santo";1;"SIM";"FINALIZADO";6;23;3;1;1;34;5;5;5;5;20;2;2;2;6
+61;"Itabaiana";"Municipal";05/10/11;"PB";"Itabaiana";1;"SIM";"FINALIZADO";31;10;5;0;0;46;2;1;1;1;5;1;1;1;3
+62;"Milagres";"Municipal";05/10/11;"CE";"Milagres";1;"SIM";"FINALIZADO";126;40;7;0;4;177;5;10;2;3;20;6;3;1;10
+63;"Pacujá";"Municipal";05/10/11;"CE";"Pacujá";1;"SIM";"FINALIZADO";21;15;10;5;0;51;5;5;5;5;20;4;4;2;10
+64;"Ananás";"Regional";06/10/11;"TO";"Ananás, Angico, Araguanã, Cachoeirinha, Piraquê, Riachinho, São Bento do Tocantins, Xambioá ";8;"SIM";"FINALIZADO";22;66;2;0;25;115;3;6;7;4;20;4;3;0;7
+65;"Belém";"Livre";06/10/11;"PA";"Belém";0;"SIM";"FINALIZADO";31;26;35;0;0;92;0;0;10;0;10;0;0;0;0
+66;"Chapadinha";"Regional";06/10/11;"MA";"Chapadinha, Água Doce do Maranhão, Anapurus, Araioses, Brejo, Buriti,  Magalhães de Almeida, Mata Roma, Milagres do Maranhão, Paulino Neves, Santa Quitéria do Maranhão, Santana do Maranhão, São Bernardo, Tutóia ";14;"SIM";"FINALIZADO";226;14;17;4;3;264;4;5;2;9;20;13;6;2;21
+67;"Lucena";"Municipal";06/10/11;"PB";"Lucena";1;"SIM";"FINALIZADO";20;20;10;1;1;52;3;7;6;4;20;2;2;0;4
+68;"Piraquara";"Municipal";06/10/11;"PR";"Piraquara";1;"SIM";"Pré-conferência";54;13;22;10;2;101;5;5;5;5;20;6;3;1;10
+69;"Sapé";"Municipal";06/10/11;"PB";"Sapé";1;"SIM";"FINALIZADO";16;43;5;4;27;95;3;5;1;6;15;2;1;1;4
+70;"Bom Jesus do Araguaia";"Municipal";07/10/11;"MT";"Bom Jesus do Araguaia";1;"SIM";"FINALIZADO";10;15;5;0;0;30;4;3;8;4;19;0;1;0;1
+71;"Forquilha";"Municipal";07/10/11;"CE";"Forquilha";1;"SIM";"FINALIZADO";35;24;5;3;2;69;3;3;5;1;12;6;3;1;10
+72;"Irauçuba";"Municipal";07/10/11;"CE";"Irauçuba";1;"SIM";"FINALIZADO";11;34;10;10;0;65;3;4;5;8;20;6;3;1;10
+73;"Olivedos";"Regional";07/10/11;"PB";"Olivedos, Pocinhos, Tenório";3;"SIM";"FINALIZADO";38;31;9;10;8;96;3;4;7;6;20;4;2;1;7
+74;"Rialma";"Regional";07/10/11;"GO";"Rialma, Ceres, Goianésia, Guarinos, Jaraguá, Jesúpolis, Morro Agudo de Goiás, Nova Iguaçu de Goiás, Petrolina de Goiás, Rianápolis, Santa Isabel, São Luíz do Norte, Uruaçu";13;"SIM";"FINALIZADO";66;46;10;0;3;125;6;5;3;6;20;17;7;3;27
+75;"Salgado de São Felix";"Municipal";07/10/11;"PB";"Salgado de São Felix";1;"SIM";"FINALIZADO";37;13;22;9;6;87;3;4;7;6;20;1;1;0;2
+76;"Boa Ventura de São Roque";"Regional";09/10/11;"PR";"Boa Ventura de São Roque, Campina do Simão, Guarapuava, Iretama, Laranjal, Manoel Ribas, Mato Rico, Nova Tebas, Palmital,  Pitanga, Roncador, Santa Maria do Oeste, Turvo ";15;"SIM";"FINALIZADO";55;18;10;15;7;105;4;6;5;5;20;8;4;1;13
+77;"Concórdia";"Regional";10/10/11;"SC";"Concórdia, Alto Bela Vista, Arabutã, Arvoredo,  Ipira, Ipumirim, Irani, Itá, Jaborá, Lindóia do Sul, Paial, Peritiba, Piratuba, Presidente Castelo Branco, Seara, Xavantina ";16;"SIM";"FINALIZADO";55;111;39;11;15;231;4;4;7;5;20;7;3;1;11
+78;"Assis Brasil";"Regional";11/10/11;"AC";"Assis Brasil, Brasiléia, Epitaciolândia, Xapuri";4;"SIM";"FINALIZADO";48;37;12;2;3;102;5;5;5;5;20;2;4;1;7
+79;"Chapecó";"Regional";11/10/11;"SC";"Chapecó, Águas de Chapecó, Caxambu do Sul,  Cordilheira Alta, Coronel Freitas, Formosa do Sul, Guatambú, Irati, Jardinópolis, Nova Erechim, Nova Itaberaba, Pinhalzinho, Planalto Alegre, Quilombo, Santiago do Sul, São Carlos, Serra Alta, Sul Brasil, União do Oeste ";20;"SIM";"FINALIZADO";54;71;10;3;0;138;5;5;5;5;20;25;11;4;40
+80;"Junco do Seridó";"Municipal";11/10/11;"PB";"Junco do Seridó";1;"SIM";"FINALIZADO";73;39;29;11;25;177;3;3;3;3;12;0;2;0;2
+81;"São João do Polêsine";"Regional";11/10/11;"RS";"São João do Polêsine, Agudo, Dona Francisca, Faxinal do Soturno, Ivorá, Nova Palma, Pinhal Grande, Restinga Seca, Silveira Martins ";9;"SIM";"FINALIZADO";48;42;10;3;0;103;4;3;5;7;19;0;1;0;1
+82;"Viana";"Regional";11/10/11;"MA";"Viana, Arari, Bacurituba, Cajapió, Matinha, Olinda Nova do Maranhão";6;"SIM";"FINALIZADO";30;25;10;5;10;80;5;5;4;6;20;17;8;0;25
+83;"Floresta Azul";"Municipal";13/10/11;"BA";"Floresta Azul";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+84;"Euclides da Cunha";"Municipal";13/10/11;"BA";"Euclides da Cunha";1;"SIM";"FINALIZADO";4;10;1;0;0;15;3;3;3;2;11;2;1;1;4
+85;"Aparecida de Goiânia";"Municipal";14/10/11;"GO";"Aparecida de Goiânia";1;"SIM";"FINALIZADO";20;52;9;0;0;81;7;4;4;5;20;5;11;1;17
+86;"Campo Bom";"Municipal";14/10/11;"RS";"Campo Bom";1;"SIM";"FINALIZADO";33;57;18;1;1;110;5;4;4;5;18;5;2;1;8
+87;"Morrinhos";"Municipal";14/10/11;"CE";"Morrinhos";1;"SIM";"FINALIZADO";60;29;6;6;2;103;4;1;3;12;20;6;3;1;10
+88;"Pinheiro";"Regional";14/10/11;"MA";"Pinheiro, Apicum-Açu, Bacuri, Bequimão, Cedral, Central do Maranhão, Cururupu, Guimarães, Mirinzal, Pedro do Rosário, Peri Mirim,  Porto Rico do Maranhão, Presidente Sarney, Santa Helena, Serrano do Maranhão, Turiaçu, Turilândia ";17;"SIM";"FINALIZADO";68;40;39;58;30;235;7;4;2;7;20;14;9;3;26
+89;"Santana da Boa Vista";"Municipal";14/10/11;"RS";"Santana da Boa Vista";1;"SIM";"FINALIZADO";32;18;13;6;4;73;4;4;1;1;10;2;0;1;3
+90;"Brotas de Macaúbas";"Municipal";15/10/11;"BA";"Brotas de Macaúbas";1;"SIM";"FINALIZADO";85;33;4;2;0;124;6;3;5;6;20;6;3;1;10
+91;"Encruzilhada";"Municipal";17/10/11;"BA";"Encruzilhada";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+92;"Sapé";"Livre";17/10/11;"PB";"Sapé";0;"SIM";"NÃO RELATADA";;;;;;;;;;;0;;;;0
+93;"Camalaú";"Municipal";17/10/11;"PB";"Camalaú";1;"SIM";"FINALIZADO";31;15;17;9;2;74;4;6;4;6;20;1;0;0;1
+94;"Imigrante";"Municipal";17/10/11;"RS";"Imigrante";1;"SIM";"FINALIZADO";2;5;7;0;1;15;3;3;2;4;12;2;2;2;6
+95;"Mamanguape";"Regional";17/10/11;"PB";"Mamanguape, Cuité de Mamanguape, Pedro Régis, Rio Tinto";4;"SIM";"FINALIZADO";34;50;24;10;6;124;5;5;5;5;20;5;3;1;9
+96;"Igrapiúna";"Municipal";18/10/11;"BA";"Igrapiúna";1;"SIM";"FINALIZADO";12;89;3;6;14;124;2;2;4;2;10;2;1;1;4
+97;"Jussara";"Livre";18/10/11;"GO";"Jussara";0;"SIM";"FINALIZADO";136;1;0;0;0;137;0;0;0;10;10;0;0;0;0
+98;"Nova Mutum";"Municipal";18/10/11;"MT";"Nova Mutum";1;"SIM";"FINALIZADO";58;28;10;0;0;96;5;5;4;4;18;6;4;4;14
+99;"Palmácia";"Municipal";18/10/11;"CE";"Palmácia";1;"SIM";"FINALIZADO";44;50;10;8;0;112;5;7;5;3;20;5;1;0;6
+100;"Santa Inês";"Regional";18/10/11;"MA";"Santa Inês, Bela Vista do Maranhão, Bom Jardim, Pindaré-Mirim, Santa Luzia";5;"SIM";"FINALIZADO";33;48;3;21;1;106;5;4;3;8;20;12;7;3;22
+101;"Santa Luzia";"Regional";18/10/11;"PB";"Santa Luzia, Salgadinho, São José do Sabugi, Várzea";4;"SIM";"FINALIZADO";46;34;50;12;6;148;5;5;5;5;20;3;1;1;5
+102;"Tianguá";"Municipal";18/10/11;"CE";"Tianguá";1;"SIM";"FINALIZADO";25;43;15;0;0;83;2;6;6;6;20;11;6;2;19
+103;"Tocantinópolis";"Regional";18/10/11;"TO";"Tocantinópolis, Aguiarnópolis, Darcinópolis, Luzinópolis, Nazaré, Palmeiras do Tocantins, Santa Terezinha do Tocantins";7;"SIM";"FINALIZADO";27;53;14;10;53;157;4;4;5;7;20;7;4;2;13
+104;"Sumé";"Municipal";19/10/11;"PB";"Sumé";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+105;"Canindé de São Francisco";"Municipal";19/10/11;"SE";"Canindé de São Francisco";1;"SIM";"FINALIZADO";60;42;9;9;15;135;5;5;5;5;20;8;4;2;14
+106;"Catanduva";"Municipal";19/10/11;"SP";"Catanduva";1;"SIM";"FINALIZADO";7;20;2;5;0;34;3;1;2;2;8;6;2;2;10
+107;"Coreaú";"Municipal";19/10/11;"CE";"Coreaú";1;"SIM";"FINALIZADO";60;15;10;1;86;172;5;5;5;4;19;6;3;1;10
+108;"Itabi";"Municipal";19/10/11;"SE";"Itabi";1;"SIM";"FINALIZADO";44;35;14;3;2;98;4;6;6;4;20;7;1;2;10
+109;"Mafra";"Regional";19/10/11;"SC";"Mafra, Bela Vista do Toldo, Canoinhas, Irineópolis,  Major Vieira, Monte Castelo, Papanduva, Porto União, Três Barras ";9;"SIM";"FINALIZADO";22;80;11;30;0;143;3;9;6;2;20;10;4;2;16
+110;"Ocara";"Municipal";19/10/11;"CE";"Ocara";1;"SIM";"FINALIZADO";30;27;6;7;5;75;4;5;6;5;20;6;3;1;10
+111;"Pirpirituba";"Municipal";19/10/11;"PB";"Pirpirituba";1;"SIM";"FINALIZADO";33;16;6;3;0;58;5;7;3;5;20;1;1;0;2
+112;"Queimadas";"Municipal";20/10/11;"BA";"Queimadas";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+113;"Trairi";"Municipal";20/10/11;"CE";"Trairi";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+114;"Acopiara";"Municipal";20/10/11;"CE";"Acopiara";1;"SIM";"FINALIZADO";54;26;20;10;5;115;5;5;5;5;20;12;5;2;19
+115;"Augustinópolis";"Regional";20/10/11;"TO";"Augustinópolis, Araguatins, Axixá do Tocantins, Buriti do Tocantins, Carrasco Bonito, Esperantina, Itaguatins, Maurilândia do Tocantins, Praia Norte, Sampaio, São Miguel do Tocantins, São Sebastião do Tocantins, Sítio Novo do Tocantins ";13;"SIM";"FINALIZADO";28;34;14;12;15;103;5;5;5;5;20;11;7;2;20
+116;"Bayeux";"Municipal";20/10/11;"PB";"Bayeux";1;"SIM";"FINALIZADO";6;64;12;1;0;83;3;2;6;8;19;4;2;1;7
+117;"Boninal";"Municipal";20/10/11;"BA";"Boninal";1;"SIM";"FINALIZADO";75;71;2;0;0;148;7;5;5;3;20;6;3;1;10
+118;"Caldas Brandão";"Municipal";20/10/11;"PB";"Caldas Brandão";1;"SIM";"FINALIZADO";41;16;8;3;5;73;2;2;4;3;11;0;0;1;1
+119;"Cuité";"Municipal";20/10/11;"PB";"Cuité";1;"SIM";"FINALIZADO";15;25;6;4;0;50;5;4;6;5;20;1;1;1;3
+120;"Manaus";"Municipal";20/10/11;"AM";"Manaus";1;"SIM";"FINALIZADO";158;77;10;25;0;270;6;4;5;5;20;106;31;8;145
+121;"Poço Redondo";"Municipal";20/10/11;"SE";"Poço Redondo";1;"SIM";"FINALIZADO";260;40;22;18;1;341;6;4;4;5;19;5;1;2;8
+122;"Ponte Nova";"Municipal";20/10/11;"MG";"Ponte Nova";1;"SIM";"FINALIZADO";20;45;8;0;0;73;5;5;5;5;20;4;4;2;10
+123;"Porangatu";"Regional";20/10/11;"GO";"Porangatu, Bonópolis, Santa Tereza de Goiás, São Miguel do Araguaia";4;"SIM";"FINALIZADO";47;21;12;0;0;80;5;4;5;6;20;3;1;1;5
+124;"Santa Helena";"Municipal";20/10/11;"PB";"Santa Helena";1;"SIM";"FINALIZADO";148;59;14;2;2;225;4;4;6;6;20;1;0;0;1
+125;"Santa Terezinha";"Municipal";20/10/11;"MT";"Santa Terezinha";1;"SIM";"FINALIZADO";19;27;7;15;12;80;3;6;4;4;17;2;3;4;9
+126;"São José do Brejo do Cruz";"Municipal";20/10/11;"PB";"São José do Brejo do Cruz";1;"SIM";"FINALIZADO";19;6;11;7;0;43;2;2;2;2;8;0;0;1;1
+127;"Sena Madureira";"Municipal";20/10/11;"AC";"Sena Madureira";1;"SIM";"FINALIZADO";40;58;4;5;2;109;5;5;5;5;20;3;3;2;8
+128;"Vila Rica";"Municipal";20/10/11;"MT";"Vila Rica";1;"SIM";"FINALIZADO";18;49;11;36;34;148;4;5;5;6;20;6;3;3;12
+129;"Anápolis";"Municipal";21/10/11;"GO";"Anápolis";1;"SIM";"FINALIZADO";81;47;24;0;0;152;2;7;7;4;20;12;6;2;20
+130;"Bertioga";"Municipal";21/10/11;"SP";"Bertioga";1;"SIM";"FINALIZADO";11;7;5;4;3;30;5;5;5;5;20;3;1;1;5
+131;"Itabaiana";"Municipal";21/10/11;"SE";"Itabaiana";1;"SIM";"FINALIZADO";28;42;11;0;0;81;6;4;6;4;20;7;2;4;13
+132;"Jijoca de Jericoacoara";"Municipal";21/10/11;"CE";"Jijoca de Jericoacoara";1;"SIM";"FINALIZADO";46;24;8;1;1;80;6;5;2;7;20;6;3;1;10
+133;"Matina";"Municipal";21/10/11;"BA";"Matina";1;"SIM";"FINALIZADO";155;35;12;8;4;214;6;5;4;5;20;6;3;1;10
+134;"Mesquita";"Municipal";21/10/11;"RJ";"Mesquita";1;"SIM";"FINALIZADO";48;47;10;10;10;125;4;4;4;4;16;3;3;1;7
+135;"Nova Xavantina";"Municipal";21/10/11;"MT";"Nova Xavantina";1;"SIM";"FINALIZADO";19;26;17;0;15;77;7;3;4;6;20;4;2;2;8
+136;"Paracuru";"Municipal";21/10/11;"CE";"Paracuru";1;"SIM";"FINALIZADO";44;27;8;20;0;99;5;4;3;8;20;6;3;1;10
+137;"São Miguel do Oeste";"Regional";21/10/11;"SC";"São Miguel do Oeste, Anchieta, Bandeirante, Barra Bonita, Belmonte, Descanso, Dionísio Cerqueira, Guaraciaba, Guarujá do Sul, Iporã do Oeste, Itapiranga, Mondaí, Palma Sola, Paraíso, Princesa, Santa Helena, São João do Oeste, São José do Cedro, Tunápolis ";19;"SIM";"FINALIZADO";74;55;12;14;8;163;6;6;4;4;20;3;4;2;9
+138;"Valença";"Municipal";21/10/11;"RJ";"Valença";1;"SIM";"FINALIZADO";38;24;8;4;6;80;5;5;5;5;20;3;1;1;5
+139;"Viçosa do Ceará";"Municipal";21/10/11;"CE";"Viçosa do Ceará";1;"SIM";"FINALIZADO";60;30;10;30;20;150;5;5;5;5;20;16;12;4;32
+140;"Zé Doca";"Regional";21/10/11;"MA";"Zé Doca, Amapá do Maranhão, Araguanã, Boa Vista do Gurupi, Cândido Mendes, Carutapera, Centro do Guilherme, Centro Novo do Maranhão, Godofredo Viana, Governador Newton Bello, Governador Nunes Freire, Junco do Maranhão, Luís Domingues, Maracaçumé, Maranhãozinho, Nova Olinda do Maranhão, Presidente Médici, Santa Luzia do Paruá ";18;"SIM";"FINALIZADO";69;16;35;0;0;120;6;6;3;5;20;12;6;2;20
+141;"João Pessoa";"Livre";22/10/11;"PB";"João Pessoa";0;"SIM";"FINALIZADO";13;16;7;0;0;36;0;6;0;4;10;0;0;0;0
+142;"Piracicaba";"Municipal";22/10/11;"SP";"Piracicaba";1;"SIM";"FINALIZADO";70;26;10;8;0;114;6;5;5;4;20;3;1;1;5
+143;"Boa Vista ";"Livre";24/10/11;"RR";"Boa Vista - EE Hélio Campos (Matutino)";0;"SIM";"FINALIZADO";321;25;12;0;0;358;2;6;0;2;10;0;0;0;0
+144;"Boa Vista ";"Livre";24/10/11;"RR";"Boa Vista - EE Helio Campos A";0;"SIM";"FINALIZADO";121;28;0;0;0;149;2;6;0;2;10;0;0;0;0
+145;"Boa Vista ";"Livre";24/10/11;"RR";"Boa Vista - EE Helio Campos B";0;"SIM";"FINALIZADO";110;9;0;0;0;119;0;2;0;8;10;0;0;0;0
+146;"Poço José de Moura";"Municipal";24/10/11;"PB";"Poço José de Moura";1;"SIM";"FINALIZADO";27;10;7;8;0;52;5;6;4;5;20;1;0;0;1
+147;"Teresópolis";"Livre";24/10/11;"RJ";"Teresópolis";0;"SIM";"FINALIZADO";117;8;3;0;0;128;2;2;3;3;10;0;0;0;0
+148;"Cacimba de Areia";"Regional";25/10/11;"PB";"Cacimba de Areia, Cacimba de Dentro, Coremas, Emas, Mãe d'Água, Patos, Pombal, São José de Espinharas, São Mamede";9;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+149;"Desterro";"Municipal";25/10/11;"PB";"Desterro";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+150;"Pinhais";"Municipal";25/10/11;"PR";"Pinhais";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+151;"Açailândia";"Regional";25/10/11;"MA";"Açailândia, Bom Jesus das Selvas, Buriticupu, Cidelândia, Itinga do Maranhão, São Francisco do Brejão, São Pedro da Água Branca, Vila Nova dos Martírios ";8;"SIM";"FINALIZADO";68;39;39;12;6;164;5;3;6;6;20;12;6;2;20
+152;"Alhandra";"Municipal";25/10/11;"PB";"Alhandra";1;"SIM";"FINALIZADO";18;33;8;2;1;62;2;7;7;4;20;1;1;1;3
+153;"Areia de Baraúnas";"Municipal";25/10/11;"PB";"Areia de Baraúnas";1;"SIM";"FINALIZADO";36;15;4;0;1;56;5;5;5;5;20;1;0;0;1
+154;"Boa Vista ";"Livre";25/10/11;"RR";"Boa Vista - EE 13 de Setembro - Matutino";0;"SIM";"FINALIZADO";155;11;2;0;0;168;1;1;0;8;10;0;0;0;0
+155;"Boa Vista ";"Livre";25/10/11;"RR";"Boa Vista - EE 13 de Setembro - Vespertino";0;"SIM";"FINALIZADO";142;18;2;0;0;162;1;2;0;7;10;0;0;0;0
+156;"Guarapari";"Municipal";25/10/11;"ES";"Guarapari";1;"SIM";"FINALIZADO";19;9;5;5;0;38;4;4;4;4;16;10;5;3;18
+157;"Ipameri";"Municipal";25/10/11;"GO";"Ipameri";1;"SIM";"FINALIZADO";110;20;5;12;6;153;4;5;2;1;12;2;2;1;5
+158;"Itajaí";"Regional";25/10/11;"SC";"Itajaí, Balneário Camboriú, Bombinhas, Camboriú, Ilhota,  Itapema, Luiz Alves, Navegantes, Penha, Piçarras, Porto Belo ";11;"SIM";"FINALIZADO";81;65;14;0;0;160;5;5;5;5;20;25;14;3;42
+159;"Orós";"Municipal";25/10/11;"CE";"Orós";1;"SIM";"FINALIZADO";28;77;10;3;0;118;5;4;5;5;19;6;3;1;10
+160;"Rio Branco";"Municipal";25/10/11;"AC";"Rio Branco";1;"SIM";"FINALIZADO";44;49;23;9;16;141;3;10;5;2;20;26;7;7;40
+161;"Xaxim";"Regional";25/10/11;"SC";"Xaxim, Abelardo Luz, Bom Jesus, Entre Rios, Faxinal dos Guedes, Ipuaçu, Lajeado Grande, Marema, Ouro Verde, Passos Maia, Ponte Serrada, São Domingos, Vargeão, Xanxerê";14;"SIM";"FINALIZADO";113;51;34;9;9;216;5;5;5;5;20;7;3;1;11
+162;"Colombo";"Municipal";26/10/11;"PR";"Colombo";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+163;"Agudos do Sul";"Regional";26/10/11;"PR";"Agudos do Sul, Campo do Tenente, Contenda,  Lapa, Mandirituba, Piên, Quitandinha, Rio Negro, Tijucas do Sul ";9;"SIM";"FINALIZADO";94;151;26;31;5;307;5;3;7;5;20;5;2;1;8
+164;"Aimorés";"Regional";26/10/11;"MG";"Aimorés, Engenheiro Caldas, Fernandes Tourinho, Frei Inocêncio, Gonzaga, Itanhomi, Itueta, Mathias Lobato, Resplendor, São Geraldo da Piedade, São Geraldo do Baixio, Sardoá";13;"SIM";"FINALIZADO";21;24;16;1;0;62;5;5;5;5;20;4;2;2;8
+165;"Boa Vista ";"Livre";26/10/11;"RR";"Boa Vista - EE Ana Libória";0;"SIM";"FINALIZADO";389;12;0;0;0;401;0;3;0;7;10;0;0;0;0
+166;"Boa Vista ";"Livre";26/10/11;"RR";"Boa Vista - EE Vitória Mota Cruz";0;"SIM";"FINALIZADO";38;12;5;0;0;55;1;5;1;3;10;0;0;0;0
+167;"Boa Vista ";"Livre";26/10/11;"RR";"Boa Vista - EE Vitória Mota Cruz (Matutino)";0;"SIM";"FINALIZADO";105;38;1;0;0;144;1;7;1;1;10;0;0;0;0
+168;"Cariré";"Municipal";26/10/11;"CE";"Cariré";1;"SIM";"FINALIZADO";40;55;15;2;0;112;6;4;5;5;20;6;3;1;10
+169;"Colíder";"Municipal";26/10/11;"MT";"Colíder";1;"SIM";"FINALIZADO";45;18;4;49;27;143;3;3;2;5;13;12;6;2;20
+170;"Croatá";"Municipal";26/10/11;"CE";"Croatá";1;"SIM";"FINALIZADO";69;19;10;6;0;104;2;5;6;7;20;6;3;1;10
+171;"Japoatã";"Municipal";26/10/11;"SE";"Japoatã";1;"SIM";"FINALIZADO";81;10;10;3;5;109;7;6;4;3;20;7;2;3;12
+172;"Jaraguá do Sul";"Regional";26/10/11;"SC";"Jaraguá do Sul, Barra Velha, Corupá, Guaramirim, Massaranduba, São João do Itaperiú, Schroeder ";7;"SIM";"FINALIZADO";84;42;23;6;0;155;5;6;5;4;20;13;3;4;20
+173;"Mauriti";"Municipal";26/10/11;"CE";"Mauriti";1;"SIM";"FINALIZADO";15;56;25;9;0;105;4;4;4;4;16;6;3;1;10
+174;"Paraíso do Tocantins";"Regional";26/10/11;"TO";"Paraíso do Tocantins, Abreulândia, Araguacema, Barrolândia, Caseara, Chapada de Areia, Cristalândia, Divinópolis do Tocantins, Dois Irmãos do Tocantins, Lagoa da Confusão, Marianópolis do Tocantins, Monte Santo do Tocantins, Nova Rosalândia, Oliveira de Fátima, Pium, Pugmil ";16;"SIM";"FINALIZADO";25;51;7;2;33;118;4;5;8;3;20;11;8;3;22
+175;"Recife ";"Livre";26/10/11;"PE";"Recife - UNICAP";0;"SIM";"FINALIZADO";134;0;0;0;0;134;2;3;0;5;10;0;0;0;0
+176;"Santo Antônio do Leverger";"Municipal";26/10/11;"MT";"Santo Antônio do Leverger";1;"SIM";"FINALIZADO";1;0;0;0;0;1;4;6;3;5;18;0;1;0;1
+177;"São Caetano do Sul";"Municipal";26/10/11;"SP";"São Caetano do Sul";1;"SIM";"FINALIZADO";22;28;5;65;0;120;6;5;5;4;20;3;2;0;5
+178;"Valparaíso de Goiás";"Municipal";26/10/11;"GO";"Valparaíso de Goiás";1;"SIM";"FINALIZADO";56;6;11;5;6;84;3;2;6;9;20;17;1;4;22
+179;"Videira";"Regional";26/10/11;"SC";"Videira, Arroio Trinta, Caçador, Calmon, Fraiburgo, Ibiam, Iomerê, Lebon Régis, Macieira, Matos Costa, Pinheiro Preto, Rio das Antas, Salto Veloso, Timbó Grande";14;"SIM";"FINALIZADO";79;43;21;6;2;151;7;4;5;4;20;9;5;1;15
+180;"Assis Chateaubriand";"Municipal";27/10/11;"PR";"Assis Chateaubriand";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+181;"Coaraci";"Municipal";27/10/11;"BA";"Coaraci";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+182;"São Gabriel da Cachoeira";"Municipal";27/10/11;"AM";"São Gabriel da Cachoeira";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+183;"Barro";"Municipal";27/10/11;"CE";"Barro";1;"SIM";"FINALIZADO";14;22;6;0;0;42;3;3;3;3;12;6;3;1;10
+184;"Boa Vista ";"Livre";27/10/11;"RR";"Boa Vista - EE América Sarmento";0;"SIM";"FINALIZADO";600;17;0;0;0;617;0;0;1;9;10;0;0;0;0
+185;"Boa Vista ";"Livre";27/10/11;"RR";"Boa Vista - EE Barão de Parima";0;"SIM";"FINALIZADO";125;15;2;0;0;142;1;6;1;2;10;0;0;0;0
+186;"Cláudia";"Municipal";27/10/11;"MT";"Cláudia";1;"SIM";"FINALIZADO";10;5;13;7;8;43;4;5;4;7;20;1;1;1;3
+187;"Curitibanos";"Regional";27/10/11;"SC";"Curitibanos, Frei Rogério, Ponte Alta do Norte, Santa Cecília, São Cristovão do Sul ";5;"SIM";"FINALIZADO";71;34;6;0;0;111;5;4;5;5;19;2;2;1;5
+188;"Iracema";"Municipal";27/10/11;"CE";"Iracema";1;"SIM";"FINALIZADO";33;19;4;16;11;83;7;3;4;5;19;6;3;1;10
+189;"Juazeiro do Norte";"Municipal";27/10/11;"CE";"Juazeiro do Norte";1;"SIM";"FINALIZADO";111;60;16;39;4;230;5;6;5;4;20;12;6;2;20
+190;"Lavras";"Municipal";27/10/11;"MG";"Lavras";1;"SIM";"FINALIZADO";83;41;14;0;0;138;5;5;5;5;20;3;2;1;6
+191;"Nova Russas";"Municipal";27/10/11;"CE";"Nova Russas";1;"SIM";"FINALIZADO";44;42;6;0;0;92;2;4;3;3;12;6;3;1;10
+192;"Recife";"Livre";27/10/11;"PE";"Recife";0;"SIM";"FINALIZADO";192;6;13;0;0;211;2;1;1;6;10;0;0;0;0
+193;"Recife ";"Livre";27/10/11;"PE";"Recife - UNICAP";0;"SIM";"FINALIZADO";75;0;0;0;0;75;2;2;2;4;10;0;0;0;0
+194;"São Pedro do Turvo";"Municipal";27/10/11;"SP";"São Pedro do Turvo";1;"SIM";"FINALIZADO";7;10;1;3;0;0;1;2;2;2;7;3;3;1;7
+195;"Sobrado";"Municipal";27/10/11;"PB";"Sobrado";1;"SIM";"FINALIZADO";20;25;10;5;1;61;6;3;5;3;17;0;1;0;1
+196;"Tupã";"Municipal";27/10/11;"SP";"Tupã";1;"SIM";"FINALIZADO";14;24;12;6;5;61;4;4;2;3;13;4;1;1;6
+197;"Varzedo";"Municipal";27/10/11;"BA";"Varzedo";1;"SIM";"FINALIZADO";15;10;12;10;8;55;5;4;4;4;17;4;1;1;6
+198;"Viamão";"Municipal";27/10/11;"RS";"Viamão";1;"SIM";"FINALIZADO";26;21;18;9;14;88;4;6;5;5;20;13;7;4;24
+199;"Vieirópolis";"Municipal";27/10/11;"PB";"Vieirópolis";1;"SIM";"FINALIZADO";37;17;10;4;0;68;3;3;3;3;12;2;0;0;2
+200;"Almadina";"Municipal";28/10/11;"BA";"Almadina";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+201;"Augusto de Lima";"Regional";28/10/11;"MG";"Augusto de Lima, Buenópolis, Corinto, Curvelo, Inimutaba, Monjolos, Morro da Garça, Presidente Juscelino, Santo Hipólito, Três Marias, Felixlândia, Joaquim Felicio";12;"SIM";"FINALIZADO";64;59;23;1;0;147;5;5;4;6;20;1;1;1;3
+202;"Bacabal";"Regional";28/10/11;"MA";"Bacabal, Altamira do Maranhão,  Bom Lugar, Brejo de Areia, Conceição do Lago-Açu, Lago Verde, Marajá do Sena, Olho d'Água das Cunhãs, Paulo Ramos, São Luís Gonzaga do Maranhão, Vitorino Freire ";11;"SIM";"FINALIZADO";16;32;12;14;10;84;7;3;3;7;20;14;6;2;22
+203;"Damião";"Municipal";28/10/11;"PB";"Damião";1;"SIM";"FINALIZADO";25;8;4;4;20;61;2;7;7;4;20;3;0;0;3
+204;"Fernandes Pinheiro";"Regional";28/10/11;"PR";"Fernandes Pinheiro, Guamiranga, Imbituva, Inácio Martins, Irati, Mallet, Prudentópolis, Rebouças, Rio Azul, Teixeira Soares ";10;"SIM";"FINALIZADO";15;18;3;37;3;76;4;4;5;4;17;6;3;1;10
+205;"Fortaleza";"Municipal";28/10/11;"CE";"Fortaleza";1;"SIM";"FINALIZADO";184;109;39;9;6;347;5;5;5;5;20;30;15;5;50
+206;"Itajuípe";"Municipal";28/10/11;"BA";"Itajuípe";1;"SIM";"FINALIZADO";37;19;8;7;62;133;4;6;5;5;20;8;4;2;14
+207;"Manoel Urbano";"Municipal";28/10/11;"AC";"Manoel Urbano";1;"SIM";"FINALIZADO";10;25;4;3;2;44;5;6;4;5;20;2;5;2;9
+208;"Monte Horebe";"Municipal";28/10/11;"PB";"Monte Horebe";1;"SIM";"FINALIZADO";10;8;20;10;15;63;2;1;1;1;5;0;1;1;2
+209;"Tavares";"Municipal";28/10/11;"PB";"Tavares";1;"SIM";"FINALIZADO";18;9;3;60;20;110;5;4;6;5;20;2;2;0;4
+210;"Teófilo Otoni";"Regional";28/10/11;"MG";"Teófilo Otoni, Águas Formosas, Ataléia, Bertópolis, Campanário, Caraí, Catuji, Crisólita, Franciscópolis, Frei Gaspar, Fronteira dos Vales, Itaipé, Itambacuri, Ladainha, Machacalis, Malacacheta, Nanuque, Novo Oriente de Minas, Ouro Verde de Minas, Pavão, Pescador, Poté, Santa Helena de Minas, Setubinha, Umburatiba ";25;"SIM";"FINALIZADO";43;31;16;0;2;92;5;5;5;5;20;5;3;2;10
+211;"Umbuzeiro";"Municipal";28/10/11;"PB";"Umbuzeiro";1;"SIM";"FINALIZADO";18;6;3;2;2;31;5;6;3;6;20;1;0;0;1
+212;"Belo Horizonte";"Livre";29/10/11;"MG";"Belo Horizonte";0;"SIM";"FINALIZADO";19;0;4;0;0;23;0;4;3;3;10;0;0;0;0
+213;"Aurora";"Municipal";31/10/11;"CE";"Aurora";1;"SIM";"FINALIZADO";47;15;6;2;1;71;4;8;5;3;20;6;3;1;10
+214;"Boa Vista ";"Livre";31/10/11;"RR";"Boa Vista - EE Idarlene da Silva";0;"SIM";"FINALIZADO";24;40;0;0;0;64;0;1;0;9;10;0;0;0;0
+215;"Boa Vista ";"Livre";31/10/11;"RR";"Boa Vista - EE Professor Antônio Ferreira de Souza (Vespertino)";0;"SIM";"FINALIZADO";174;15;4;0;0;193;2;4;1;3;10;0;0;0;0
+216;"Boa Vista ";"Livre";31/10/11;"RR";"Boa Vista - EE Professor Antônio Ferreira de Souza (Vespertino) B";0;"SIM";"FINALIZADO";197;21;0;0;0;218;1;5;1;4;11;0;0;0;0
+217;"Itaiçaba";"Municipal";31/10/11;"CE";"Itaiçaba";1;"SIM";"FINALIZADO";79;35;65;30;0;209;5;4;4;3;16;2;2;2;6
+218;"Santo Antônio da Patrulha";"Municipal";31/10/11;"RS";"Santo Antônio da Patrulha";1;"SIM";"FINALIZADO";3;37;7;0;0;47;2;2;2;2;8;2;2;2;6
+219;"Timon";"Regional";31/10/11;"MA";"Timon, Barão de Grajaú, Lagoa do Mato, Matões, Parnarama, São Francisco do Maranhão";6;"SIM";"FINALIZADO";103;137;53;35;5;333;4;8;5;3;20;12;6;2;20
+220;"Banzaê";"Municipal";01/11/11;"BA";"Banzaê";1;"SIM";"FINALIZADO";19;32;8;5;5;69;2;4;5;5;16;7;4;2;13
+221;"Boa Vista ";"Livre";01/11/11;"RR";"Boa Vista - EE Maria dos Prazeres Mota (Matutino)";0;"SIM";"FINALIZADO";87;12;2;0;0;101;1;1;1;7;10;0;0;0;0
+222;"Boa Vista ";"Livre";01/11/11;"RR";"Boa Vista - EE Maria dos Prazeres Mota (Noturno)";0;"SIM";"FINALIZADO";172;14;2;0;0;188;2;2;0;6;10;0;0;0;0
+223;"Boa Vista ";"Livre";01/11/11;"RR";"Boa Vista - EE Maria dos Prazeres Mota (Vespertino)";0;"SIM";"FINALIZADO";165;10;3;0;0;178;1;3;1;5;10;0;0;0;0
+224;"Boa Vista ";"Livre";01/11/11;"RR";"Boa Vista - EE Raimunda Nonata Freitas da Silva";0;"SIM";"FINALIZADO";198;32;11;0;0;241;10;0;0;0;10;0;0;0;0
+225;"Aripuanã";"Municipal";03/11/11;"MT";"Aripuanã";1;"SIM";"FINALIZADO";63;43;16;14;3;139;5;5;5;5;20;7;6;3;16
+226;"Boa Vista ";"Livre";03/11/11;"RR";"Boa Vista - EE Francisca Elzika (Matutino)";0;"SIM";"FINALIZADO";244;15;0;0;0;259;1;4;3;2;10;0;0;0;0
+227;"Boa Vista ";"Livre";03/11/11;"RR";"Boa Vista - EE Francisca Elzika (Vespertino)";0;"SIM";"FINALIZADO";231;25;0;0;0;256;1;2;1;6;10;0;0;0;0
+228;"Boa Vista ";"Livre";03/11/11;"RR";"Boa Vista - EE Major Alcides";0;"SIM";"FINALIZADO";248;13;2;0;0;263;2;1;1;6;10;0;0;0;0
+229;"Magé";"Municipal";03/11/11;"RJ";"Magé";1;"SIM";"FINALIZADO";153;116;24;27;15;335;5;7;3;5;20;6;3;1;10
+230;"Manacapuru";"Municipal";03/11/11;"AM";"Manacapuru";1;"SIM";"FINALIZADO";26;25;6;6;4;67;5;5;5;5;20;5;3;1;9
+231;"São Luís do Curu";"Municipal";03/11/11;"CE";"São Luís do Curu";1;"SIM";"FINALIZADO";78;26;20;0;0;124;1;1;1;1;4;3;4;3;10
+232;"Boa Vista ";"Livre";04/11/11;"RR";"Boa Vista - EE Euclides da Cunha";0;"SIM";"FINALIZADO";292;36;5;0;0;333;4;3;0;3;10;0;0;0;0
+233;"Boa Vista ";"Livre";04/11/11;"RR";"Boa Vista - EE Pedro Elias";0;"SIM";"FINALIZADO";312;25;11;0;0;348;3;1;0;6;10;0;0;0;0
+234;"Camacan";"Municipal";04/11/11;"BA";"Camacan";1;"SIM";"FINALIZADO";20;17;12;8;8;65;5;5;5;5;20;2;1;2;5
+235;"Cariacica";"Municipal";04/11/11;"ES";"Cariacica";1;"SIM";"FINALIZADO";67;56;15;6;1;145;5;2;3;10;20;20;11;3;34
+236;"Chaval";"Municipal";04/11/11;"CE";"Chaval";1;"SIM";"FINALIZADO";14;8;4;2;0;28;5;5;5;5;20;6;3;1;10
+237;"Corumbá";"Regional";04/11/11;"MS";"Corumbá, Ladário";2;"SIM";"FINALIZADO";96;63;36;5;0;200;4;4;6;6;20;8;3;2;13
+238;"Eldorado";"Regional";04/11/11;"MS";"Eldorado, Iguatemi, Japorã, Mundo Novo";4;"SIM";"FINALIZADO";17;15;5;2;0;39;5;4;6;5;20;7;4;1;12
+239;"Gurupi";"Regional";04/11/11;"TO";"Gurupi, Aliança do Tocantins, Alvorada, Araguaçu, Cariri do Tocantins, Crixás do Tocantins, Dueré, Figueirópolis, Formoso do Araguaia,  Sandolândia, Santa Rita do Tocantins, Sucupira,Talismã ";13;"SIM";"FINALIZADO";13;24;6;0;16;59;4;4;5;7;20;2;8;0;10
+240;"Itápolis";"Municipal";04/11/11;"SP";"Itápolis";1;"SIM";"FINALIZADO";8;23;6;0;0;37;2;3;1;2;8;2;3;1;6
+241;"Muribeca";"Municipal";04/11/11;"SE";"Muribeca";1;"SIM";"FINALIZADO";80;28;16;10;20;154;3;7;7;3;20;8;3;2;13
+242;"Pedreiras";"Regional";04/11/11;"MA";"Pedreiras, Bernardo do Mearim, Esperantinópolis, Igarapé Grande, Lago da Pedra, Lago do Junco, Lago dos Rodrigues, Lagoa Grande do Maranhão, Lima Campos,  Poção de Pedras, São Raimundo do Doca Bezerra, São Roberto, Trizidela do Vale ";13;"SIM";"FINALIZADO";75;118;5;7;1;206;4;4;4;8;20;6;3;1;10
+243;"Rio das Ostras";"Municipal";04/11/11;"RJ";"Rio das Ostras";1;"SIM";"FINALIZADO";34;48;41;4;5;132;5;5;5;5;20;7;4;2;13
+244;"Salgueiro";"Municipal";04/11/11;"PE";"Salgueiro";1;"SIM";"FINALIZADO";41;63;57;8;4;173;5;5;3;4;17;6;3;1;10
+245;"São Miguel do Guamá";"Municipal";05/11/11;"PA";"São Miguel do Guamá";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+246;"Santa Bárbara";"Municipal";05/11/11;"BA";"Santa Bárbara";1;"SIM";"FINALIZADO";37;20;27;2;10;96;6;5;5;4;20;6;3;1;10
+247;"Goiânia";"Livre";06/11/11;"GO";"Goiânia";0;"SIM";"FINALIZADO";21;4;5;0;0;30;0;0;0;10;10;0;0;0;0
+248;"Alagoinhas";"Municipal";07/11/11;"BA";"Alagoinhas";1;"SIM";"FINALIZADO";108;56;15;0;47;226;5;5;5;5;20;5;3;2;10
+249;"Alvorada";"Municipal";07/11/11;"RS";"Alvorada";1;"SIM";"FINALIZADO";20;60;5;1;0;86;2;2;2;2;8;17;6;2;25
+250;"Ponta Grossa";"Municipal";07/11/11;"PR";"Ponta Grossa";1;"SIM";"Pré-conferência";112;74;8;3;5;202;4;3;4;8;19;9;4;2;15
+251;"Rio Pardo";"Municipal";07/11/11;"MT";"Rio Pardo, Rio Brilhante, Rochedo, Sidrolândia, Terenos";1;"SIM";"FINALIZADO";101;81;24;16;24;246;4;5;6;5;20;6;4;1;11
+252;"Amontada";"Municipal";08/11/11;"CE";"Amontada";1;"SIM";"FINALIZADO";11;32;8;13;54;118;2;2;3;3;10;6;3;1;10
+253;"Arraias";"Regional";08/11/11;"TO";"Arraias, Aurora do Tocantins, Combinado, Conceição do Tocantins, Lavandeira, Novo Alegre, Paranã ";7;"SIM";"FINALIZADO";10;30;12;2;5;59;4;7;3;6;20;3;2;1;6
+254;"Blumenau";"Regional";08/11/11;"SC";"Blumenau, Apiúna, Ascurra, Benedito Novo,  Botuverá, Brusque, Doutor Pedrinho, Gaspar, Guabiruba, Indaial, Pomerode, Rio dos Cedros, Rodeio, Timbó ";14;"SIM";"FINALIZADO";55;61;19;0;0;135;2;3;2;3;10;20;10;5;35
+255;"Caxias";"Regional";08/11/11;"MA";"Caxias, Afonso Cunha, Aldeias Altas,  Coelho Neto, Duque Bacelar, São João do Soter ";6;"SIM";"FINALIZADO";150;100;100;50;50;450;1;1;1;1;4;12;5;2;19
+256;"Guaramiranga";"Municipal";08/11/11;"CE";"Guaramiranga";1;"SIM";"FINALIZADO";54;33;9;3;2;101;6;4;5;5;20;6;3;1;10
+257;"Ipiranga do Piauí";"Municipal";08/11/11;"PI";"Ipiranga do Piauí";1;"SIM";"FINALIZADO";5;10;12;8;2;37;4;2;2;3;11;0;1;0;1
+258;"Lagoa Seca";"Municipal";08/11/11;"PB";"Lagoa Seca";1;"SIM";"FINALIZADO";13;24;8;0;2;47;4;3;9;4;20;1;1;1;3
+259;"Miraíma";"Municipal";08/11/11;"CE";"Miraíma";1;"SIM";"FINALIZADO";68;32;20;0;0;120;5;5;5;5;20;6;3;1;10
+260;"Pintadas";"Municipal";08/11/11;"BA";"Pintadas";1;"SIM";"FINALIZADO";10;38;11;10;0;69;2;2;2;1;7;6;3;1;10
+261;"Rio do Sul";"Regional";08/11/11;"SC";"Rio do Sul, Agrolândia, Agronômica, Atalanta, Aurora, Braço do Trombudo, Chapadão do Lageado, Dona Emma, Ibirama, Imbuia, Ituporanga, José Boiteux, Laurentino, Mirim Doce, Petrolândia, Pouso Redondo, Presidente Getúlio, Presidente Nereu, Rio do Campo, Rio do Oeste, Salete, Santa Terezinha, Taió, Trombudo Central, Vidal Ramos, Vitor Meireles";28;"SIM";"FINALIZADO";62;86;26;12;0;186;5;4;4;7;20;12;6;3;21
+262;"Salto do Jacuí";"Municipal";08/11/11;"RS";"Salto do Jacuí";1;"SIM";"FINALIZADO";32;36;14;3;2;87;2;3;4;1;10;6;3;1;10
+263;"Taquara";"Municipal";08/11/11;"RS";"Taquara";1;"SIM";"FINALIZADO";48;76;10;6;4;144;4;3;9;4;20;4;3;1;8
+264;"Aracati";"Municipal";09/11/11;"CE";"Aracati";1;"SIM";"FINALIZADO";14;31;8;4;0;57;4;4;6;4;18;7;6;2;15
+265;"Araruna";"Municipal";09/11/11;"PB";"Araruna";1;"SIM";"FINALIZADO";14;27;8;30;61;140;1;2;2;3;8;1;1;1;3
+266;"Campina Grande";"Regional";09/11/11;"PB";"Campina Grande, Alagoa Nova, Boqueirão, Puxinanã";4;"SIM";"FINALIZADO";157;51;9;1;0;218;5;7;5;3;20;21;13;3;37
+267;"Codó";"Regional";09/11/11;"MA";"Codó, Alto Alegre do Maranhão,  Coroatá, Peritoró, São Mateus do Maranhão, Timbiras ";6;"SIM";"FINALIZADO";49;41;8;6;9;113;5;5;5;5;20;0;0;1;1
+268;"Goiânia";"Municipal";09/11/11;"GO";"Goiânia";1;"SIM";"FINALIZADO";158;23;14;5;70;270;5;5;5;5;20;18;6;3;27
+269;"Jati";"Municipal";09/11/11;"CE";"Jati";1;"SIM";"FINALIZADO";22;56;10;23;1;112;1;1;1;1;4;6;3;1;10
+270;"Lagoa de Dentro";"Municipal";09/11/11;"PB";"Lagoa de Dentro";1;"SIM";"FINALIZADO";31;17;8;1;5;62;6;7;2;5;20;1;0;0;1
+271;"Livramento";"Municipal";09/11/11;"PB";"Livramento";1;"SIM";"FINALIZADO";40;15;5;10;10;80;3;6;4;7;20;2;2;0;4
+272;"Macajuba";"Municipal";09/11/11;"BA";"Macajuba";1;"SIM";"FINALIZADO";78;26;2;5;1;112;3;5;7;5;20;6;3;1;10
+273;"Olindina";"Municipal";09/11/11;"BA";"Olindina";1;"SIM";"FINALIZADO";108;43;5;48;0;204;5;7;5;3;20;8;4;2;14
+274;"Petrolina";"Regional";09/11/11;"PE";"Petrolina, Dormentes";2;"SIM";"FINALIZADO";35;18;22;10;5;90;2;6;6;6;20;6;3;1;10
+275;"Quixeré";"Municipal";09/11/11;"CE";"Quixeré";1;"SIM";"FINALIZADO";41;12;16;18;0;87;1;1;1;1;4;2;1;1;4
+276;"São Lourenço do Oeste";"Regional";09/11/11;"SC";"São Lourenço do Oeste, Coronel Martins, Galvão, Jupiá, Novo Horizonte, São Bernardino";6;"SIM";"FINALIZADO";39;40;14;16;0;109;6;5;3;3;17;2;2;2;6
+277;"Tamboril";"Municipal";09/11/11;"CE";"Tamboril";1;"SIM";"FINALIZADO";27;18;8;12;2;67;5;5;5;5;20;4;4;0;8
+278;"Pitimbu";"Municipal";10/11/11;"PB";"Pitimbu";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+279;"Abatiá";"Regional";10/11/11;"PR";"Abatiá, Andirá, Bandeirantes, Barra do Jacaré, Cambará, Carlópolis, Conselheiro Mairinck, Cornélio Procópio, Curiúva, Figueira, Guapirama, Ibaiti, Itambaracá, Jaboti, Jacarezinho, Japira, Joaquim Távora, Jundiaí do Sul, Leópolis, Nova Fátima, Nova Santa Bárbara, Pinhalão, Quatiguá, Rancho Alegre, Ribeirão Claro, Ribeirão do Pinhal, Salto do Itararé, Santa Amélia, Santa Mariana, Santana do Itararé, Santo Antônio da Platina, São José da Boa Vista, Sapopema, Sertaneja, Siqueira Campos, Tomazina, Wenceslau Braz";37;"SIM";"FINALIZADO";143;108;19;34;5;309;3;4;6;7;20;13;8;3;24
+280;"Antas";"Municipal";10/11/11;"BA";"Antas";1;"SIM";"FINALIZADO";60;30;20;6;0;116;4;4;4;4;16;2;2;2;6
+281;"Belo Horizonte";"Municipal";10/11/11;"MG";"Belo Horizonte";1;"SIM";"FINALIZADO";93;68;25;10;15;211;6;5;4;5;20;13;7;4;24
+282;"Cairu";"Municipal";10/11/11;"BA";"Cairu";1;"SIM";"FINALIZADO";25;18;7;10;8;68;5;4;1;2;12;2;1;1;4
+283;"Franco da Rocha";"Municipal";10/11/11;"SP";"Franco da Rocha";1;"SIM";"FINALIZADO";5;47;10;15;1;78;5;5;5;5;20;12;7;2;21
+284;"Jaguaribara";"Municipal";10/11/11;"CE";"Jaguaribara";1;"SIM";"FINALIZADO";10;7;6;3;0;26;1;1;1;1;4;6;3;1;10
+285;"Juína";"Municipal";10/11/11;"MT";"Juína";1;"SIM";"FINALIZADO";70;23;20;0;0;113;5;5;5;5;20;8;4;2;14
+286;"Laje";"Municipal";10/11/11;"BA";"Laje";1;"SIM";"FINALIZADO";30;16;5;1;3;55;5;5;5;5;20;4;2;1;7
+287;"Pedra Preta";"Municipal";10/11/11;"MT";"Pedra Preta";1;"SIM";"FINALIZADO";146;38;25;0;0;209;5;5;5;5;20;3;3;2;8
+288;"Penedo";"Regional";10/11/11;"AL";"Penedo, Feliz Deserto, Igreja Nova, Piaçabuçu, Porto Real do Colégio";5;"SIM";"FINALIZADO";30;40;10;11;31;122;5;6;6;3;20;16;9;3;28
+289;"Salitre";"Municipal";10/11/11;"CE";"Salitre";1;"SIM";"FINALIZADO";86;32;8;26;152;304;1;2;1;1;5;6;3;1;10
+290;"Ubajara";"Municipal";10/11/11;"CE";"Ubajara";1;"SIM";"FINALIZADO";37;35;6;2;0;80;8;6;2;4;20;6;3;1;10
+291;"Uibaí";"Municipal";10/11/11;"BA";"Uibaí";1;"SIM";"FINALIZADO";34;26;4;5;4;73;3;2;2;1;8;0;0;1;1
+292;"Ampére";"Regional";11/11/11;"PR";"Ampére, Barracão, Bela Vista da Garoba, Boa Esperança do Iguaçu, Bom Jesus do Sul, Bom Sucesso do Sul, Capanema, Chopinzinho, Clevelândia, Coronel Vivida, Cruzeiro do Iguaçu, Dois Vizinhos, Enéas Marques, Flor da Serra do Sul, Francisco Beltrão, Honório Serpa, Manfrinópolis, Mangueirinha, Mariópolis, Marmeleiro, Nova Esperança do Sudoeste, Nova Prata do Iguaçu, Palmas, Pato Branco, Pinhal de São Bento, Planalto, Pranchita, Realeza, Renascença, Slagado Filho, Salto do Lontra, Santa Izabel do Oeste, Santo Antônio do Sudoeste,São João, Saudade do Iguaçu, Sulina";39;"SIM";"FINALIZADO";146;67;25;23;2;263;6;5;4;5;20;17;8;3;28
+293;"Araçatuba";"Municipal";11/11/11;"SP";"Araçatuba";1;"SIM";"FINALIZADO";43;63;17;0;0;123;5;4;5;5;19;3;1;1;5
+294;"Barra do Mendes";"Municipal";11/11/11;"BA";"Barra do Mendes";1;"SIM";"FINALIZADO";32;105;7;4;4;152;2;4;5;9;20;5;3;1;9
+295;"Botucatu";"Municipal";11/11/11;"SP";"Botucatu";1;"SIM";"FINALIZADO";32;23;5;0;0;60;7;3;4;6;20;6;2;2;10
+296;"Carmésia";"Regional";11/11/11;"MG";"Carmésia, Conceição do Mato Dentro, Congonhas do Norte, Dom Joaquim, Ferros, Morro do Pilar ";6;"SIM";"FINALIZADO";44;21;8;4;0;77;3;3;3;4;13;3;3;3;9
+297;"Colinas do Tocantins";"Regional";11/11/11;"TO";"Colinas do Tocantins, Arapoema, Bandeirantes do Tocantins, Bernardo Sayão, Brasilândia do Tocantins, Couto de Magalhães, Itapiratins, Juarina, Palmeirante, Tupiratins ";10;"SIM";"FINALIZADO";15;80;25;5;7;132;8;4;5;3;20;7;3;1;11
+298;"Cotia ";"Municipal";11/11/11;"SP";"Cotia ";1;"SIM";"FINALIZADO";7;9;4;3;2;25;1;1;1;1;4;1;1;0;2
+299;"Iguatu";"Municipal";11/11/11;"CE";"Iguatu";1;"SIM";"FINALIZADO";135;19;13;30;8;205;5;5;5;5;20;12;5;4;21
+300;"Itacoatiara";"Municipal";11/11/11;"AM";"Itacoatiara";1;"SIM";"FINALIZADO";21;55;9;2;2;89;8;4;3;5;20;6;3;1;10
+301;"Lages";"Regional";11/11/11;"SC";"Lages, Anita Garibaldi, Bocaina do Sul, Bom Jardim da Serra, Bom Retiro, Campo Belo do Sul, Capão Alto, Cerro Negro, Correia Pinto,  Otacílio Costa, Painel, Palmeira, Ponte Alta, Rio Rufino, São Joaquim, São José do Cerrito, Urubici, Urupema ";18;"SIM";"FINALIZADO";18;21;12;10;0;61;1;6;6;7;20;8;1;6;15
+302;"Mucugê";"Municipal";11/11/11;"BA";"Mucugê";1;"SIM";"FINALIZADO";58;17;9;11;3;98;5;4;4;4;17;1;1;1;3
+303;"Nova Canaã do Norte";"Municipal";11/11/11;"MT";"Nova Canaã do Norte";1;"SIM";"FINALIZADO";43;15;7;5;10;80;2;2;6;5;15;1;1;1;3
+304;"São Luís";"Regional";11/11/11;"MA";"São Luís, Alcântara, Paço do Lumiar, Raposa, São José de Ribamar";5;"SIM";"FINALIZADO";234;93;46;11;21;405;4;7;8;1;20;60;20;10;90
+305;"Soledade";"Municipal";11/11/11;"RS";"Soledade";1;"SIM";"FINALIZADO";15;30;30;10;11;96;4;4;2;2;12;4;4;2;10
+306;"Utinga";"Municipal";11/11/11;"BA";"Utinga";1;"SIM";"FINALIZADO";9;21;2;10;0;42;5;5;5;5;20;3;4;1;8
+307;"Vilhena";"Municipal";11/11/11;"RO";"Vilhena";1;"SIM";"FINALIZADO";16;30;4;1;0;51;6;3;4;5;18;5;3;1;9
+308;"Dracena ";"Municipal";12/11/11;"SP";"Dracena ";1;"SIM";"FINALIZADO";10;10;6;1;0;27;5;5;5;5;20;3;1;1;5
+309;"Sumaré";"Municipal";12/11/11;"SP";"Sumaré";1;"SIM";"FINALIZADO";47;23;8;1;0;79;3;5;4;4;16;8;6;2;16
+310;"Alto Feliz";"Regional";14/11/11;"RS";"Alto Feliz, Barão, Bom Princípio, Brochier, Capela de Santana, Feliz, Harmonia, Linha Nova, Maratá, Montenegro, Pareci Novo, Portão, Salvador do Sul, São José do Sul, São Pedro da Serra, São Sebastião do Caí, São Vendelino, Tupandi, Vale Real";19;"SIM";"FINALIZADO";16;15;1;5;4;41;1;2;2;3;8;4;15;1;20
+311;"Boa Vista ";"Livre";14/11/11;"RR";"Boa Vista - EE Maria de Lourdes Neves";0;"SIM";"FINALIZADO";75;21;2;0;0;98;1;0;0;9;10;0;0;0;0
+312;"Cantá";"Livre";14/11/11;"RR";"Cantá";0;"SIM";"FINALIZADO";27;5;15;0;0;47;2;2;1;5;10;0;0;0;0
+313;"Florianópolis";"Livre";15/11/11;"SC";"Florianópolis";0;"SIM";"FINALIZADO";300;0;0;0;0;300;2;2;0;6;10;0;0;0;0
+314;"Amélia Rodrigues";"Municipal";16/11/11;"BA";"Amélia Rodrigues";1;"SIM";"FINALIZADO";13;42;17;20;3;95;5;5;5;5;20;3;3;1;7
+315;"Boa Vista ";"Livre";16/11/11;"RR";"Boa Vista - EE Conceição da Costa e Silva A";0;"SIM";"FINALIZADO";198;29;0;0;0;227;1;0;0;9;10;0;0;0;0
+316;"Boa Vista ";"Livre";16/11/11;"RR";"Boa Vista - EE Conceição da Costa e Silva B";0;"SIM";"FINALIZADO";30;32;0;0;0;62;1;1;0;8;10;0;0;0;0
+317;"Boa Vista ";"Livre";16/11/11;"RR";"Boa Vista - EE Hildebrando Ferro Bittencourt - Noturno";0;"SIM";"FINALIZADO";145;20;4;0;0;169;0;4;0;6;10;0;0;0;0
+318;"Boa Vista ";"Livre";16/11/11;"RR";"Boa Vista - EE Penha Brasil";0;"SIM";"FINALIZADO";86;18;0;0;0;104;1;5;0;4;10;0;0;0;0
+319;"Boa Vista ";"Livre";16/11/11;"RR";"Boa Vista - EE Penha Brasil";0;"SIM";"FINALIZADO";47;12;3;0;0;62;0;1;0;8;9;0;0;0;0
+320;"Lauro de Freitas";"Municipal";16/11/11;"BA";"Lauro de Freitas";1;"SIM";"FINALIZADO";119;16;10;30;0;175;6;4;4;6;20;10;5;2;17
+321;"Pimenta Bueno";"Municipal";16/11/11;"RO";"Pimenta Bueno";1;"SIM";"FINALIZADO";25;15;6;2;3;51;5;4;5;4;18;3;2;1;6
+322;"Tejuçuoca";"Municipal";16/11/11;"CE";"Tejuçuoca";1;"SIM";"FINALIZADO";99;76;25;3;11;214;3;3;3;3;12;6;3;1;10
+323;"Ângulo";"Regional";17/11/11;"PR";"Ângulo, Astorga, Atalaia, Colorado, Doutor Camargo, Floraí, Floresta, Flórida, Iguaraçu, Itaguajé, Itambé, Ivatuba, Lobato, Mandaguaçu, Mandaguari, Marialva, Maringá, Nossa Senhora das Graças, Nova Esperança, Ourizona, Paiçandu, Presidente Castelo Branco, Santa Fé, Santa Inês, Santo Inácio, São Jorge do Ivaí, Sarandi, Uniflor ";29;"SIM";"FINALIZADO";191;111;15;4;5;326;7;6;3;4;20;18;11;4;33
+324;"Assaré";"Municipal";17/11/11;"CE";"Assaré";1;"SIM";"FINALIZADO";58;51;18;10;5;142;3;3;4;10;20;5;3;1;9
+325;"Boa Vista ";"Livre";17/11/11;"RR";"Boa Vista - EE 31 de Março";0;"SIM";"FINALIZADO";53;10;3;0;0;66;1;3;1;5;10;0;0;0;0
+326;"Boa Vista ";"Livre";17/11/11;"RR";"Boa Vista - EE Elza Breves de Carvalho - Vespertino";0;"SIM";"FINALIZADO";118;15;0;0;0;133;0;0;0;10;10;0;0;0;0
+327;"Glorinha";"Municipal";17/11/11;"RS";"Glorinha";1;"SIM";"FINALIZADO";14;12;3;2;0;31;5;5;5;5;20;1;1;1;3
+328;"Guajará-Mirim";"Municipal";17/11/11;"RO";"Guajará-Mirim";1;"SIM";"FINALIZADO";40;35;9;15;5;104;3;5;5;7;20;3;2;1;6
+329;"Itumbiara";"Livre";17/11/11;"GO";"Itumbiara";0;"SIM";"FINALIZADO";2;1;38;0;0;41;0;0;10;0;10;0;0;0;0
+330;"Ji-Paraná";"Municipal";17/11/11;"RO";"Ji-Paraná";1;"SIM";"FINALIZADO";90;40;20;20;20;190;5;5;5;5;20;7;5;2;14
+331;"Joaçaba";"Regional";17/11/11;"SC";"Joaçaba, Água Doce, Capinzal, Catanduvas, Erval Velho, Herval d'Oeste, Ibicaré,  Lacerdópolis, Luzerna, Ouro, Tangará, Treze Tílias, Vargem Bonita ";13;"SIM";"FINALIZADO";15;25;20;12;10;82;5;5;5;5;20;6;3;2;11
+332;"Logradouro";"Municipal";17/11/11;"PB";"Logradouro";1;"SIM";"FINALIZADO";10;24;2;6;0;42;5;5;5;5;20;0;1;0;1
+333;"Nova Mamoré";"Municipal";17/11/11;"RO";"Nova Mamoré";1;"SIM";"FINALIZADO";10;14;4;1;1;30;4;4;4;4;16;1;1;1;3
+334;"Remígio";"Municipal";17/11/11;"PB";"Remígio";1;"SIM";"FINALIZADO";47;30;16;6;5;104;3;3;3;3;12;1;1;1;3
+335;"Abdon Batista";"Regional";18/11/11;"SC";"Abdon Batista, Brunópolis, Campos Novos, Celso Ramos, Monte Carlo, Vargem, Zortéa";7;"SIM";"FINALIZADO";30;50;6;8;0;94;4;4;4;4;16;1;1;0;2
+336;"Arauá";"Municipal";18/11/11;"SE";"Arauá";1;"SIM";"FINALIZADO";45;61;8;7;1;122;4;11;2;3;20;9;3;3;15
+337;"Balsas";"Regional";18/11/11;"MA";"Balsas, Alto Parnaíba,  Carolina, Feira Nova do Maranhão, Formosa da Serra Negra, Fortaleza dos Nogueiras, Loreto, Nova Colinas, Riachão, Sambaíba, São Félix de Balsas, São Pedro dos Crentes, São Raimundo das Mangabeiras, Tasso Fragoso ";14;"SIM";"FINALIZADO";58;28;3;12;19;120;4;4;7;5;20;6;3;1;10
+338;"Boa Vista ";"Livre";18/11/11;"RR";"Boa Vista - EE Buriti";0;"SIM";"FINALIZADO";164;34;0;0;0;198;1;3;0;6;10;0;0;0;0
+339;"Boa Vista ";"Livre";18/11/11;"RR";"Boa Vista - EE Caranã (Matutino)";0;"SIM";"FINALIZADO";119;18;3;0;0;140;0;0;0;10;10;0;0;0;0
+340;"Boa Vista ";"Livre";18/11/11;"RR";"Boa Vista - EE Caranã (Noturno)";0;"SIM";"FINALIZADO";103;25;5;0;0;133;1;4;0;5;10;0;0;0;0
+341;"Boa Vista ";"Livre";18/11/11;"RR";"Boa Vista - EE Caranã (Vespertino)";0;"SIM";"FINALIZADO";293;19;3;0;0;315;0;1;0;9;10;0;0;0;0
+342;"Lucas do Rio Verde";"Municipal";18/11/11;"MT";"Lucas do Rio Verde";1;"SIM";"FINALIZADO";75;0;0;0;0;75;5;5;5;5;20;1;0;0;1
+343;"Macapá";"Livre";18/11/11;"AP";"Macapá";0;"SIM";"FINALIZADO";5;33;8;0;0;46;0;10;0;0;10;0;0;0;0
+344;"Pontão ";"Municipal";18/11/11;"RS";"Pontão ";1;"SIM";"FINALIZADO";0,55;18;8;0,03;1;27,58;1;1;1;1;4;1;0;0;1
+345;"Porto Nacional";"Regional";18/11/11;"TO";"Porto Nacional, Brejinho de Nazaré, Chapada da Natividade, Fátima, Ipueiras, Mateiros, Monte do Carmo, Natividade, Pindorama do Tocantins, Ponte Alta do Tocantins, Santa Rosa do Tocantins, Silvanópolis ";12;"SIM";"FINALIZADO";15;24;8;8;12;67;6;4;5;5;20;7;6;1;14
+346;"Ribeirão Bonito";"Municipal";18/11/11;"SP";"Ribeirão Bonito";1;"SIM";"FINALIZADO";55;18;6;7;4;90;4;4;4;8;20;1;1;1;3
+347;"São Félix de Minas";"Regional";18/11/11;"MG";"São Félix de Minas, Central de Minas, Cuparaque, Divino das Laranjeiras, Itabirinha de Mantena, Jampruca, Mantena, Mendes Pimentel, Nova Belém, Nova Módica, São João do Manteninha, São José do Divino ";12;"SIM";"FINALIZADO";10;11;11;2;0;34;5;5;4;5;19;3;2;2;7
+348;"Tarrafas ";"Municipal";18/11/11;"CE";"Tarrafas ";1;"SIM";"FINALIZADO";28;25;15;20;12;100;3;2;3;2;10;7;2;1;10
+349;"Manaus";"Livre";20/11/11;"AM";"Manaus";0;"SIM";"FINALIZADO";200;0;0;0;0;200;4;2;2;2;10;0;0;0;0
+350;"Guajeru";"Municipal";21/11/11;"BA";"Guajeru";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+351;"Boa Vista ";"Livre";21/11/11;"RR";"Boa Vista - EE Dom José Nepote";0;"SIM";"FINALIZADO";432;30;0;0;0;462;2;3;0;5;10;0;0;0;0
+352;"Boa Vista ";"Livre";21/11/11;"RR";"Boa Vista - EE Princesa Isabel";0;"SIM";"FINALIZADO";149;22;2;0;0;173;3;5;0;2;10;0;0;0;0
+353;"Veranópolis";"Regional";21/11/11;"RS";"Veranópolis, Cotiporã, Nova Bassano, Nova Prata, Vila Flores";5;"SIM";"FINALIZADO";6;17;6;0;0;29;6;2;6;2;16;3;8;4;15
+354;"Balneário Camboriú";"Livre";22/11/11;"SC";"Balneário Camboriú";0;"SIM";"FINALIZADO";87;0;10;0;0;97;10;0;0;0;10;0;0;0;0
+355;"Boa Vista ";"Livre";22/11/11;"RR";"Boa Vista - EE Professor Camilo Dias";0;"SIM";"FINALIZADO";275;10;0;0;0;285;0;8;1;1;10;0;0;0;0
+356;"Boa Vista ";"Livre";22/11/11;"RR";"Boa Vista - EE Professor Camilo Dias";0;"SIM";"FINALIZADO";254;14;0;0;0;268;0;2;2;6;10;0;0;0;0
+357;"Cascavel";"Municipal";22/11/11;"CE";"Cascavel";1;"SIM";"FINALIZADO";12;17;19;15;7;70;4;5;6;5;20;6;3;0;9
+358;"Farias Brito";"Municipal";22/11/11;"CE";"Farias Brito";1;"SIM";"FINALIZADO";29;19;8;10;10;76;3;3;4;3;13;6;3;1;10
+359;"Guaraí";"Regional";22/11/11;"TO";"Guaraí, Colméia, Goianorte, Fortaleza do Tabocão, Itacajá, Itaporã do Tocantins, Pequizeiro, Presidente Kennedy";8;"SIM";"FINALIZADO";73;15;8;2;0;98;4;3;7;6;20;6;3;1;10
+360;"Nova Olinda";"Municipal";22/11/11;"CE";"Nova Olinda";1;"SIM";"FINALIZADO";23;43;11;7;0;84;5;4;4;6;19;6;3;1;10
+361;"Pedrinhas";"Municipal";22/11/11;"SE";"Pedrinhas";1;"SIM";"FINALIZADO";63;20;17;5;10;115;5;6;6;3;20;7;1;2;10
+362;"Rolim de Moura";"Regional";22/11/11;"RO";"Rolim de Moura, Alto Alegre dos Parecis, Castanheiras, Primavera de Rondônia, Santa Luzia d'Oeste ";5;"SIM";"FINALIZADO";79;94;34;0;0;207;3;7;5;5;20;7;6;5;18
+363;"Sorriso";"Municipal";22/11/11;"MT";"Sorriso";1;"SIM";"FINALIZADO";1;0;0;0;0;1;6;5;5;3;19;0;1;0;1
+364;"Barra do Corda";"Regional";23/11/11;"MA";"Barra do Corda, Arame, Fernando Falcão, Grajaú, Itaipava do Grajaú, Jenipapo dos Vieiras, Sítio Novo, Tuntum ";8;"SIM";"FINALIZADO";53;40;10;2;0;105;1;4;9;6;20;12;6;2;20
+365;"Boa Vista ";"Livre";23/11/11;"RR";"Boa Vista - EE Luiz Ribeiro de Lima - Matutino";0;"SIM";"FINALIZADO";240;20;4;0;0;264;0;1;1;8;10;0;0;0;0
+366;"Boa Vista ";"Livre";23/11/11;"RR";"Boa Vista - EE Luiz Ribeiro de Lima - Noturno";0;"SIM";"FINALIZADO";245;19;3;0;0;267;0;1;1;8;10;0;0;0;0
+367;"Boa Vista ";"Livre";23/11/11;"RR";"Boa Vista - EE Luiz Ribeiro de Lima (Vespertino)";0;"SIM";"FINALIZADO";194;32;14;0;0;240;2;2;0;6;10;0;0;0;0
+368;"Boa Vista ";"Livre";23/11/11;"RR";"Boa Vista - EE Maria Sonia Brito de Lima";0;"SIM";"FINALIZADO";118;19;2;0;0;139;2;3;1;4;10;0;0;0;0
+369;"Cubatão";"Municipal";23/11/11;"SP";"Cubatão";1;"SIM";"FINALIZADO";146;8;5;2;0;161;3;3;3;3;12;1;2;1;4
+370;"Icó";"Municipal";23/11/11;"CE";"Icó";1;"SIM";"FINALIZADO";55;30;4;5;6;100;3;5;4;8;20;6;3;1;10
+371;"Marituba";"Municipal";23/11/11;"PA";"Marituba";1;"SIM";"FINALIZADO";38;55;15;2;10;120;3;4;5;4;16;8;4;2;14
+372;"Barra do Guarita";"Regional";24/11/11;"RS";"Barra do Guarita, Bom Progresso, Braga, Campo Novo, Chiapeta, Coronel Bicaco, Crissiumal, Derrubadas, Esperança do Sul, Humaitá, Inhacorá, Miraguaí, Redentora, Santo Augusto, São Martinho, São Valério do Sul, Sede Nova, Tenente Portela, Tiradentes do Sul, Três Passos, Vista Gaúcha ";21;"SIM";"FINALIZADO";0;0;0;0;0;0;7;5;2;6;20;1;0;0;1
+373;"Bela Cruz";"Municipal";24/11/11;"CE";"Bela Cruz";1;"SIM";"FINALIZADO";25;31;13;9;0;78;7;3;3;7;20;6;3;1;10
+374;"Boa Vista ";"Livre";24/11/11;"RR";"Boa Vista - EE Carlos Drumond de Andrade";0;"SIM";"FINALIZADO";134;32;3;0;0;169;2;4;0;4;10;0;0;0;0
+375;"Boa Vista ";"Livre";24/11/11;"RR";"Boa Vista - EE Carlos Drumond de Andrade (Noturno)";0;"SIM";"FINALIZADO";198;23;2;0;0;223;1;5;0;4;10;0;0;0;0
+376;"Boa Vista ";"Livre";24/11/11;"RR";"Boa Vista - EE Carlos Drumond de Andrade (Vespertino)";0;"SIM";"FINALIZADO";168;27;10;0;0;205;3;1;1;5;10;0;0;0;0
+377;"Boa Vista ";"Livre";24/11/11;"RR";"Boa Vista - EE Fernando Granjeiro - Matutino";0;"SIM";"FINALIZADO";89;19;0;0;0;108;0;4;0;6;10;0;0;0;0
+378;"Boa Vista ";"Livre";24/11/11;"RR";"Boa Vista - EE Fernando Granjeiro de Menezes - Noturno";0;"SIM";"FINALIZADO";218;33;2;0;0;253;0;3;0;7;10;0;0;0;0
+379;"Boa Vista ";"Livre";24/11/11;"RR";"Boa Vista - EE Fernando Granjeiro de Menezes - Vespertino";0;"SIM";"FINALIZADO";87;19;3;0;0;109;1;2;1;6;10;0;0;0;0
+380;"Cacoal";"Municipal";24/11/11;"RO";"Cacoal";1;"SIM";"FINALIZADO";47;24;8;10;0;89;5;3;7;5;20;5;3;1;9
+381;"Itabaianinha";"Municipal";24/11/11;"SE";"Itabaianinha";1;"SIM";"FINALIZADO";45;90;10;15;9;169;5;5;5;5;20;2;2;2;6
+382;"Itaberaba";"Municipal";24/11/11;"BA";"Itaberaba";1;"SIM";"FINALIZADO";14;21;7;2;1;45;5;5;5;5;20;4;2;1;7
+383;"Marau";"Municipal";24/11/11;"RS";"Marau";1;"SIM";"FINALIZADO";18;16;4;4;5;47;1;2;1;1;5;0;1;0;1
+384;"Solonópole";"Municipal";24/11/11;"CE";"Solonópole";1;"SIM";"FINALIZADO";29;16;12;3;0;60;3;6;7;4;20;5;3;2;10
+385;"Realeza";"Municipal";25/11/11;"PR";"Realeza";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+386;"Altamira do Paraná";"Regional";25/11/11;"PR";"Altamira do Paraná, Araruna, Barbosa Ferraz, Boa Esperança, Campina da Lagoa, Campo Mourão, Corumbataí do Sul, Engenheiro Beltrão, Farol, Fênix, Goioerê, Janiópolis, Juranda, Luiziana, Mamborê, Moreira Sales, Nova Cantu, Peabiru, Quarto Centenário, Quinta do Sol, Rancho Alegre d'Oeste, Terra Boa, Ubiratã";23;"SIM";"FINALIZADO";70;42;27;10;5;154;7;4;3;6;20;10;5;2;17
+387;"Boa Vista ";"Livre";25/11/11;"RR";"Boa Vista - EE Antônio Carlos da Silva Natalino - Matutino";0;"SIM";"FINALIZADO";250;23;6;0;0;279;1;2;0;7;10;0;0;0;0
+388;"Boa Vista ";"Livre";25/11/11;"RR";"Boa Vista - EE Antônio Carlos da Silva Natalino - Vespertino";0;"SIM";"FINALIZADO";269;34;8;0;0;311;0;3;0;7;10;0;0;0;0
+389;"Boa Vista ";"Livre";25/11/11;"RR";"Boa Vista - EE Carlos Casadio";0;"SIM";"FINALIZADO";259;18;2;0;0;279;4;3;2;1;10;0;0;0;0
+390;"Boa Vista ";"Livre";25/11/11;"RR";"Boa Vista - EE Carlos Casadio (Matutino)";0;"SIM";"FINALIZADO";95;28;0;0;0;123;0;10;0;0;10;0;0;0;0
+391;"Boa Vista ";"Livre";25/11/11;"RR";"Boa Vista - EE Gonçalves Dias (Matutino)";0;"SIM";"FINALIZADO";205;0;0;0;0;205;2;6;1;1;10;0;0;0;0
+392;"Boa Vista ";"Livre";25/11/11;"RR";"Boa Vista - EE Gonçalves Dias (Matutino)";0;"SIM";"FINALIZADO";2;2;4;0;0;8;1;0;0;0;1;0;0;0;0
+393;"Cajazeiras";"Municipal";25/11/11;"PB";"Cajazeiras";1;"SIM";"FINALIZADO";19;83;13;9;1;125;5;3;5;6;19;4;2;2;8
+394;"Canoas";"Regional";25/11/11;"RS";"Canoas, Esteio, Nova Santa Rita, Sapucaia do Sul";4;"SIM";"FINALIZADO";108;173;34;4;0;319;5;5;5;5;20;44;21;7;72
+395;"Guaiúba";"Municipal";25/11/11;"CE";"Guaiúba";1;"SIM";"FINALIZADO";108;80;41;11;15;255;5;3;3;1;12;6;2;1;9
+396;"João Pessoa";"Municipal";25/11/11;"PB";"João Pessoa";1;"SIM";"FINALIZADO";162;99;15;0;30;306;4;9;3;4;20;29;15;6;50
+397;"Joinville";"Regional";25/11/11;"SC";"Joinville, Araquari, Balneário Barra do Sul, Campo Alegre, Garuva, Itapoá,  Rio Negrinho, São Bento do Sul, São Francisco do Sul ";9;"SIM";"FINALIZADO";102;87;10;17;0;216;2;5;5;8;20;34;14;5;53
+398;"Palmas";"Regional";25/11/11;"TO";"Palmas, Aparecida do Rio Negro, Lagoa do Tocantins, Lajeado, Lizarda, Novo Acordo,  Santa Tereza do Tocantins, São Félix do Tocantins ";8;"SIM";"FINALIZADO";72;74;35;29;38;248;3;3;7;7;20;23;9;5;37
+399;"Presidente Dutra";"Regional";25/11/11;"MA";"Presidente Dutra, Capinzal do Norte, Dom Pedro, Fortuna, Gonçalves Dias, Governador Archer, Governador Eugênio Barros, Graça Aranha, Joselândia, Santa Filomena do Maranhão, Santo Antônio dos Lopes, São Domingos do Maranhão, São José dos Basílios, Senador Alexandre Costa ";14;"SIM";"FINALIZADO";80;50;10;10;0;150;3;4;4;2;13;5;3;1;9
+400;"Santarém";"Municipal";25/11/11;"PA";"Santarém";1;"SIM";"FINALIZADO";50;34;10;10;6;110;7;4;4;5;20;23;10;2;35
+401;"São Gabriel do Oeste";"Regional";25/11/11;"MS";"São Gabriel do Oeste, Rio Verde de Mato Grosso";2;"SIM";"FINALIZADO";34;73;8;0;0;115;6;3;5;6;20;14;7;3;24
+402;"Senador Pompeu";"Municipal";25/11/11;"CE";"Senador Pompeu";1;"SIM";"FINALIZADO";19;32;3;7;10;71;1;3;2;4;10;6;3;1;10
+403;"Viçosa";"Municipal";25/11/11;"MG";"Viçosa";1;"SIM";"FINALIZADO";25;9;12;0;0;46;5;3;4;3;15;7;2;2;11
+404;"Ribeirão Preto";"Municipal";26/11/11;"SP";"Ribeirão Preto";1;"SIM";"FINALIZADO";47;19;8;2;1;77;7;5;1;7;20;6;3;1;10
+405;"Santo Ângelo";"Municipal";28/11/11;"RS";"Santo Ângelo";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+406;"Araranguá";"Regional";28/11/11;"SC";"Araranguá, Balneário Arroio do Silva, Balneário Gaivota, Ermo, Jacinto Machado, Maracajá, Meleiro, Morro Grande, Passo de Torres, Praia Grande, Santa Rosa do Sul, São João do Sul, Sombrio, Timbé do Sul, Turvo";15;"SIM";"FINALIZADO";52;43;15;0;0;110;5;5;5;5;20;9;7;5;21
+407;"Boa Vista ";"Livre";28/11/11;"RR";"Boa Vista - EE Jesus Nazareno - Noturno";0;"SIM";"FINALIZADO";580;24;6;0;0;610;0;4;2;4;10;0;0;0;0
+408;"Boa Vista ";"Livre";28/11/11;"RR";"Boa Vista - EE Jesus Nazareno - Vespertino";0;"SIM";"FINALIZADO";530;25;2;0;0;557;1;2;1;6;10;0;0;0;0
+409;"Boa Vista ";"Livre";28/11/11;"RR";"Boa Vista - EE Presidente Tancredo Neves";0;"SIM";"FINALIZADO";204;24;2;0;0;230;0;2;1;7;10;0;0;0;0
+410;"Cáceres";"Municipal";28/11/11;"MT";"Cáceres";1;"SIM";"FINALIZADO";27;13;7;2;1;50;4;4;8;4;20;0;1;0;1
+411;"Beberibe";"Municipal";29/11/11;"CE";"Beberibe";1;"SIM";"FINALIZADO";69;34;11;15;3;132;4;8;3;5;20;6;3;1;10
+412;"Boa Vista ";"Livre";29/11/11;"RR";"Boa Vista - EE Maria Nilce Brandão";0;"SIM";"FINALIZADO";324;18;0;0;0;342;1;1;0;8;10;0;0;0;0
+413;"Boa Vista ";"Livre";29/11/11;"RR";"Boa Vista - EE Ulisses Guimarães";0;"SIM";"FINALIZADO";253;15;2;0;0;270;2;3;0;5;10;0;0;0;0
+414;"Boa Vista ";"Livre";29/11/11;"RR";"Boa Vista - EE Voltaire Pinto Ribeiro - Matutino";0;"SIM";"FINALIZADO";115;25;2;0;0;142;1;3;0;6;10;0;0;0;0
+415;"Boa Vista ";"Livre";29/11/11;"RR";"Boa Vista - EE Voltaire Pinto Ribeiro - Noturno";0;"SIM";"FINALIZADO";161;64;0;0;0;225;1;1;1;7;10;0;0;0;0
+416;"Camocim";"Municipal";29/11/11;"CE";"Camocim";1;"SIM";"FINALIZADO";122;61;18;6;0;207;5;5;5;5;20;11;6;2;19
+417;"Criciúma";"Regional";29/11/11;"SC";"Criciúma, Cocal do Sul,  Forquilhinha, Içara, Lauro Muller, Morro da Fumaça, Nova Veneza, Orleans, Siderópolis, Treviso, Urussanga ";11;"SIM";"FINALIZADO";41;37;10;3;0;91;5;5;5;5;20;17;9;3;29
+418;"Fortim";"Municipal";29/11/11;"CE";"Fortim";1;"SIM";"FINALIZADO";52;30;10;7;3;102;5;4;4;3;16;6;3;1;10
+419;"Pau dos Ferros";"Regional";29/11/11;"RN";"Pau dos Ferros, Alexandria, Francisco Dantas, Luís Gomes, Major Sales, Messias Targino, Olho-d'Água do Borges, Rafael Fernandes, Riacho da Cruz";9;"SIM";"FINALIZADO";25;48;6;5;0;84;3;6;6;5;20;4;9;3;16
+420;"Primavera do Leste";"Municipal";29/11/11;"MT";"Primavera do Leste";1;"SIM";"FINALIZADO";6;61;5;72;0;144;5;5;5;5;20;6;2;1;9
+421;"São Fidélis";"Municipal";29/11/11;"RJ";"São Fidélis";1;"SIM";"FINALIZADO";68;17;7;0;15;107;5;5;5;5;20;3;1;1;5
+422;"Siriri";"Municipal";29/11/11;"SE";"Siriri";1;"SIM";"FINALIZADO";42;61;11;2;2;118;3;5;6;6;20;7;1;2;10
+423;"Trindade";"Livre";29/11/11;"GO";"Trindade";0;"SIM";"FINALIZADO";24;1;2;0;0;27;0;0;0;10;10;0;0;0;0
+424;"Umari";"Municipal";29/11/11;"CE";"Umari";1;"SIM";"FINALIZADO";12;13;2;13;10;50;1;1;1;1;4;1;0;0;1
+425;"Londrina";"Municipal";30/11/11;"PR";"Londrina";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+426;"Boa Vista ";"Livre";30/11/11;"RR";"Boa Vista - EE Diomedes Souto Maior";0;"SIM";"FINALIZADO";251;12;2;0;0;265;1;3;2;4;10;0;0;0;0
+427;"Boa Vista ";"Livre";30/11/11;"RR";"Boa Vista - EE Mário David Andreazza";0;"SIM";"FINALIZADO";253;19;3;0;0;275;2;5;0;3;10;0;0;0;0
+428;"Boa Vista ";"Livre";30/11/11;"RR";"Boa Vista - EE Osvaldo Cruz (Matutino)";0;"SIM";"FINALIZADO";238;19;3;0;0;260;3;6;0;1;10;0;0;0;0
+429;"Dourados";"Livre";30/11/11;"MS";"Dourados";0;"SIM";"FINALIZADO";10;33;1;0;0;44;5;0;0;4;9;0;0;0;0
+430;"Ilha das Flores";"Municipal";30/11/11;"SE";"Ilha das Flores";1;"SIM";"FINALIZADO";51;35;14;4;10;114;1;7;7;5;20;1;1;1;3
+431;"Itaara";"Regional";30/11/11;"RS";"Itaara, Júlio de Castilhos, Santa Maria, Santiago, São Gabriel, São Pedro do Sul, São Sepé, Tupanciretã";8;"SIM";"FINALIZADO";15;51;2;15;3;86;4;5;5;5;19;14;25;3;42
+432;"Itabuna";"Municipal";30/11/11;"BA";"Itabuna";1;"SIM";"FINALIZADO";117;155;10;7;79;368;4;5;5;6;20;5;3;1;9
+433;"Itaitinga";"Municipal";30/11/11;"CE";"Itaitinga";1;"SIM";"FINALIZADO";11;57;8;0;0;76;4;4;6;5;19;4;3;1;8
+434;"João Monlevade";"Municipal";30/11/11;"MG";"João Monlevade";1;"SIM";"FINALIZADO";26;33;16;0;3;78;2;6;7;3;18;6;4;2;12
+435;"Peixe-Boi";"Municipal";30/11/11;"PA";"Peixe-Boi";1;"SIM";"FINALIZADO";41;23;4;5;3;76;7;4;3;6;20;1;0;0;1
+436;"Poço Verde";"Municipal";30/11/11;"SE";"Poço Verde";1;"SIM";"FINALIZADO";59;58;10;8;10;145;5;5;5;5;20;7;1;2;10
+437;"Quixadá";"Municipal";30/11/11;"CE";"Quixadá";1;"SIM";"FINALIZADO";22;39;4;2;0;67;1;6;1;6;14;7;5;2;14
+438;"Rio de Janeiro";"Livre";30/11/11;"RJ";"Rio de Janeiro";0;"SIM";"FINALIZADO";57;9;1;0;0;67;0;10;0;0;10;0;0;0;0
+439;"Saboeiro";"Municipal";30/11/11;"CE";"Saboeiro";1;"SIM";"FINALIZADO";90;31;12;7;10;150;5;5;5;5;20;6;3;1;10
+440;"São João dos Patos";"Regional";30/11/11;"MA";"São João dos Patos, Benedito Leite, Buriti Bravo, Colinas, Jatobá, Mirador, Nova Iorque, Paraibano, Passagem Franca, Pastos Bons, São Domingos do Azeitão, Sucupira do Norte, Sucupira do Riachão ";13;"SIM";"FINALIZADO";86;35;12;6;0;139;4;7;4;5;20;6;3;1;10
+441;"São José do Hortêncio";"Municipal";30/11/11;"RS";"São José do Hortêncio";1;"SIM";"FINALIZADO";2;7;7;1;1;18;2;1;3;2;8;1;1;0;2
+442;"São Sebastião";"Municipal";30/11/11;"AL";"São Sebastião";1;"SIM";"FINALIZADO";60;30;10;42;47;189;3;4;6;7;20;6;3;1;10
+443;"Simão Dias";"Municipal";30/11/11;"SE";"Simão Dias";1;"SIM";"FINALIZADO";170;25;15;4;0;214;1;1;1;1;4;0;2;0;2
+444;"Sobradinho";"Municipal";30/11/11;"BA";"Sobradinho";1;"SIM";"FINALIZADO";13;33;3;2;5;56;5;5;4;5;19;1;1;1;3
+445;"Tubarão";"Regional";30/11/11;"SC";"Tubarão, Armazém, Braço do Norte, Capivari de Baixo, Imaruí, Imbituba, Jaguaruna, Laguna, Pedras Grandes, Rio Fortuna, Sangão, Santa Rosa de Lima, São Martinho, Treze de Maio";14;"SIM";"FINALIZADO";69;49;20;2;1;141;4;3;6;7;20;15;7;2;24
+446;"Visconde do Rio Branco";"Municipal";30/11/11;"MG";"Visconde do Rio Branco";1;"SIM";"FINALIZADO";42;21;7;20;12;102;2;2;4;5;13;3;3;2;8
+447;"Anahy";"Regional";01/12/11;"PR";"Anahy, Boa Vista da Aparecida, Braganey, Cafelândia, Capitão Leônidas Marques, Cascavel, Céu Azul, Corbélia, Diamante d'Oeste, Entre Rios do Oeste, Formosa do Oeste, Foz do Iguaçu, Guaíra, Iguatu, Iracema do Oeste, Itaipulândia, Jesuítas, Lindoeste, Marechal Cândido Rondon, Maripá, Matelândia, Medianeira, Mercedes, Nova Aurora, Nova Santa ";39;"SIM";"FINALIZADO";43;61;15;20;2;141;5;6;4;5;20;34;20;4;58
+448;"Boa Vista ";"Livre";01/12/11;"RR";"Boa Vista - EE Dr. Luiz Rittler de Lucena (Noturno)";0;"SIM";"FINALIZADO";203;24;3;0;0;230;1;1;0;8;10;0;0;0;0
+449;"Boa Vista ";"Livre";01/12/11;"RR";"Boa Vista - EE Dr. Luiz Rittler de Lucena (Vespertino)";0;"SIM";"FINALIZADO";238;25;12;0;0;275;1;2;0;7;10;0;0;0;0
+450;"Boa Vista ";"Livre";01/12/11;"RR";"Boa Vista - EE Professora Coema Souto Maior Nogueira (Matutino)";0;"SIM";"FINALIZADO";263;32;4;0;0;299;1;4;2;6;13;0;0;0;0
+451;"Boa Vista ";"Livre";01/12/11;"RR";"Boa Vista - EE Professora Coema Souto Maior Nogueira (Vespertino)";0;"SIM";"FINALIZADO";220;15;2;0;0;237;0;3;1;6;10;0;0;0;0
+452;"Brasnorte";"Municipal";01/12/11;"MT";"Brasnorte";1;"SIM";"FINALIZADO";14;12;6;0;0;32;7;4;5;4;20;5;5;6;16
+453;"Mogi das Cruzes";"Municipal";01/12/11;"SP";"Mogi das Cruzes";1;"SIM";"FINALIZADO";16;6;9;179;2;212;5;3;3;4;15;3;4;3;10
+454;"Moreno";"Municipal";01/12/11;"PE";"Moreno";1;"SIM";"FINALIZADO";22;27;5;29;0;83;6;4;5;5;20;5;3;2;10
+455;"Tomar do Geru";"Municipal";01/12/11;"SE";"Tomar do Geru";1;"SIM";"FINALIZADO";99;24;5;0;0;128;4;6;6;4;20;7;1;2;10
+456;"Goiânia";"Estadual";01/12/11;"GO";"Goiânia";0;"SIM";"FINALIZADO";53;33;15;44;7;152;4;4;6;6;20;30;12;5;47
+457;"Piraúba";"Municipal";02/12/11;"MG";"Piraúba";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+458;"Açucena";"Regional";02/12/11;"MG";"Açucena, Belo Oriente, Coronel Fabriciano, Iapu, Naque, Periquito, Tarumirim";7;"SIM";"FINALIZADO";76;26;23;30;11;166;5;5;5;5;20;4;3;2;9
+459;"Altaneira";"Municipal";02/12/11;"CE";"Altaneira";1;"SIM";"FINALIZADO";55;27;9;20;11;122;4;5;4;3;16;6;3;1;10
+460;"Alto Paraíso";"Regional";02/12/11;"PR";"Alto Paraíso, Alto Piquiri, Altônia, Brasilândia do Sul, Cafezal do Sul, Cianorte, Cidade Gaúcha, Cruzeiro do Oeste, Douradina, Esperança Nova, Francisco Alves, Guaporema, Icaraíma, Indianópolis, Iporã, Ivaté, Japurá, Jussara, Maria Helena, Mariluz, Nova Olímpia, Perobal, Pérola, Rondon, São Jorge do Patrocínio, São Manoel do Paraná, São Tomé, Tapejara, Tapira, Tuneiras do Oeste,  Umuarama, Xambrê";32;"SIM";"FINALIZADO";96;32;32;10;1;171;5;4;7;4;20;12;7;2;21
+461;"Boa Vista ";"Livre";02/12/11;"RR";"Boa Vista - EE Euclides da Cunha";0;"SIM";"FINALIZADO";302;12;0;0;0;314;1;2;1;6;10;0;0;0;0
+462;"Boa Vista ";"Livre";02/12/11;"RR";"Boa Vista - EE Maria das Dores Brasil";0;"SIM";"FINALIZADO";241;18;2;0;0;261;0;5;0;5;10;0;0;0;0
+463;"Boa Vista ";"Livre";02/12/11;"RR";"Boa Vista - EE Maria Raimunda Mota Andrade";0;"SIM";"FINALIZADO";189;23;2;0;0;214;1;2;0;7;10;0;0;0;0
+464;"Brejo Santo";"Municipal";02/12/11;"CE";"Brejo Santo";1;"SIM";"FINALIZADO";30;27;10;3;3;73;5;5;4;5;19;3;2;1;6
+465;"Carlos Chagas";"Municipal";02/12/11;"MG";"Carlos Chagas";1;"SIM";"FINALIZADO";42;21;8;26;1;98;4;4;3;4;15;2;2;2;6
+466;"Ibicaraí";"Municipal";02/12/11;"BA";"Ibicaraí";1;"SIM";"FINALIZADO";38;63;6;16;17;140;6;4;5;5;20;0;2;0;2
+467;"Ipaumirim";"Municipal";02/12/11;"CE";"Ipaumirim";1;"SIM";"FINALIZADO";21;32;10;3;2;68;5;5;6;4;20;6;3;1;10
+468;"Porto Alegre";"Municipal";02/12/11;"RS";"Porto Alegre";1;"SIM";"FINALIZADO";70;39;28;5;4;146;5;4;6;5;20;18;9;3;30
+469;"Russas";"Municipal";02/12/11;"CE";"Russas";1;"SIM";"FINALIZADO";21;54;7;1;0;83;5;5;5;5;20;11;6;2;19
+470;"São Francisco do Pará ";"Municipal";02/12/11;"PA";"São Francisco do Pará ";1;"SIM";"FINALIZADO";16;4;9;6;2;37;6;5;2;4;17;2;1;1;4
+471;"Salvador";"Livre";03/12/11;"BA";"Salvador";0;"SIM";"FINALIZADO";8;32;0;0;0;40;0;0;0;10;10;0;0;0;0
+472;"Boa Vista ";"Livre";05/12/11;"RR";"Boa Vista - EE Fagundes Varela";0;"SIM";"FINALIZADO";261;11;0;0;0;272;0;3;0;7;10;0;0;0;0
+473;"Boa Vista ";"Livre";05/12/11;"RR";"Boa Vista - EE São José";0;"SIM";"FINALIZADO";192;18;2;0;0;212;0;5;0;5;10;0;0;0;0
+474;"Itapecuru Mirim";"Regional";05/12/11;"MA";"Itapecuru Mirim, Anajatuba, Belágua, Cantanhede, Matões do Norte, Miranda do Norte, Nina Rodrigues, Pirapemas, Presidente Vargas, São Benedito do Rio Preto, Urbano Santos, Vargem Grande ";12;"SIM";"FINALIZADO";34;28;10;12;4;88;5;5;6;4;20;12;6;2;20
+475;"Pacaraima";"Municipal";05/12/11;"RR";"Pacaraima";1;"SIM";"FINALIZADO";98;7;4;4;1;114;5;4;8;3;20;3;2;1;6
+476;"Tapera";"Regional";05/12/11;"RS";"Tapera, Almirante Tamandaré do Sul, Boa Vista do Cadeado, Boa Vista do Incra, Carazinho, Colorado, Coqueiros do Sul, Cruz Alta, Fortaleza dos Valos, Ibirubá, Lagoa dos três Cantos, Não-Me-Toque, Quinze de Novembro, Saldanha Marinho, Santa Bárbara do Sul, Santo Antônio do Planalto, Selbach, Tapera, Victor Graeff";18;"SIM";"FINALIZADO";23;62;33;3;2;123;4;5;5;3;17;7;11;7;25
+477;"Acarape";"Municipal";06/12/11;"CE";"Acarape";1;"SIM";"FINALIZADO";5;49;4;0;0;58;3;3;3;2;11;1;5;4;10
+478;"Aracoiaba";"Municipal";06/12/11;"CE";"Aracoiaba";1;"SIM";"FINALIZADO";23;20;9;9;3;64;1;1;1;1;4;6;3;1;10
+479;"Barra da Estiva";"Municipal";06/12/11;"BA";"Barra da Estiva";1;"SIM";"FINALIZADO";116;56;15;14;10;211;7;5;3;5;20;6;3;1;10
+480;"Boa Vista ";"Livre";06/12/11;"RR";"Boa Vista - EE Antônia Coelho de Lucena";0;"SIM";"FINALIZADO";191;15;0;0;0;206;0;5;0;5;10;0;0;0;0
+481;"Boa Vista ";"Livre";06/12/11;"RR";"Boa Vista - EE Lobo d Almada";0;"SIM";"FINALIZADO";402;12;1;0;0;415;0;6;0;4;10;0;0;0;0
+482;"Candelária";"Regional";06/12/11;"RS";"Candelária, Encruzilhada do Sul, Herveiras, Pantano Grande, Rio Pardo, Santa Cruz do Sul, Sinimbu, Vale do Sol, Vera Cruz";9;"SIM";"FINALIZADO";43;22;7;0;0;72;4;4;5;7;20;17;12;6;35
+483;"Costa Rica";"Municipal";06/12/11;"MS";"Costa Rica";1;"SIM";"FINALIZADO";90;46;16;2;0;154;5;5;4;5;19;1;1;1;3
+484;"Florianópolis";"Regional";06/12/11;"SC";"Florianópolis, Águas Mornas, Alfredo Wagner, Angelina, Anitápolis, Antônio Carlos, Biguaçu, Canelinha, Garopaba, Governador Celso Ramos, Leoberto Leal, Major Gercino, Nova Trento, Palhoça, Paulo Lopes, Rancho Queimado, Santo Amaro da Imperatriz, São Bonifácio, São João Batista, São José, São Pedro de Alcântara, Tijucas";22;"SIM";"FINALIZADO";100;80;25;35;10;250;4;3;6;7;20;37;21;8;66
+485;"Garibaldi";"Municipal";06/12/11;"RS";"Garibaldi";1;"SIM";"FINALIZADO";1;38;18;7;0;64;1;1;1;1;4;1;4;4;9
+486;"Paracatu";"Regional";06/12/11;"MG";"Paracatu, Arinos, Bonfinópolis de Minas, Brasilândia de Minas, Buritis, Cabeceira Grande, Chapada Gaúcha, Dom Bosco, Formoso, Guarda-Mor, João Pinheiro, Lagoa Grande, Natalândia, Riachinho, Unaí, Uruana de Minas, Urucuia, Vazante ";18;"SIM";"FINALIZADO";52;48;16;1;0;117;4;3;7;6;20;9;6;3;18
+487;"Paragominas";"Municipal";06/12/11;"PA";"Paragominas";1;"SIM";"FINALIZADO";54;106;22;19;2;203;5;4;6;5;20;8;4;1;13
+488;"Recife";"Livre";06/12/11;"PE";"Recife";0;"SIM";"FINALIZADO";36;2;2;0;0;40;0;5;0;5;10;0;0;0;0
+489;"Santana do Ipanema";"Regional";06/12/11;"AL";"Santana do Ipanema, Olivença, Olho D’Água das Flores, Carneiros, Dois Riachos, Jacaré dos Homens, Maravilha, Poço das Trincheiras, São José da Tapera, Senador Rui Palmeira, Pão de Açúcar, Ouro Branco, Palestina";13;"SIM";"FINALIZADO";120;60;20;21;1;222;5;7;3;5;20;16;7;3;26
+490;"Manaus";"Estadual";06/12/11;"AM";"Manaus";0;"SIM";"FINALIZADO";82;33;5;20;20;160;5;7;3;5;20;24;10;4;38
+491;"Boa Vista ";"Livre";07/12/11;"RR";"Boa Vista - EE Diva Alves de Lima";0;"SIM";"FINALIZADO";158;18;4;0;0;180;0;4;0;6;10;0;0;0;0
+492;"Boa Vista ";"Livre";07/12/11;"RR";"Boa Vista - EE Girassol";0;"SIM";"FINALIZADO";71;28;3;0;0;102;0;2;0;8;10;0;0;0;0
+493;"Bom Jesus da Serra";"Municipal";07/12/11;"BA";"Bom Jesus da Serra";1;"SIM";"FINALIZADO";15;5;5;3;2;30;2;2;2;1;7;6;4;2;12
+494;"Guarani";"Municipal";07/12/11;"MG";"Guarani";1;"SIM";"FINALIZADO";10;20;5;3;0;38;2;2;2;2;8;2;2;2;6
+495;"João Pessoa ";"Livre";07/12/11;"PB";"João Pessoa ";0;"SIM";"FINALIZADO";26;7;0;0;0;33;0;0;0;10;10;0;0;0;0
+496;"Madalena";"Municipal";07/12/11;"CE";"Madalena";1;"SIM";"FINALIZADO";33;25;23;4;6;91;6;3;5;6;20;3;2;1;6
+497;"Mato Leitão";"Regional";07/12/11;"RS";"Mato Leitão, Passo do Sobrado, Vale Verde, Venâncio Aires";4;"SIM";"FINALIZADO";78;45;33;20;30;206;2;2;4;4;12;10;8;5;23
+498;"Rosário";"Regional";07/12/11;"MA";"Rosário, Bacabeira, Barreirinhas, Cachoeira Grande, Humberto de Campos";5;"SIM";"FINALIZADO";13;7;7;119;25;171;8;3;2;3;16;10;8;2;20
+499;"Tabuleiro do Norte";"Municipal";07/12/11;"CE";"Tabuleiro do Norte";1;"SIM";"FINALIZADO";101;46;21;15;6;189;5;5;5;5;20;8;5;2;15
+500;"Tauá";"Municipal";07/12/11;"CE";"Tauá";1;"SIM";"FINALIZADO";45;23;8;1;4;81;5;5;5;5;20;9;4;2;15
+501;"Amargosa";"Municipal";08/12/11;"BA";"Amargosa";1;"SIM";"FINALIZADO";8;26;11;3;3;51;3;6;4;7;20;1;1;0;2
+502;"Arneiroz";"Municipal";08/12/11;"CE";"Arneiroz";1;"SIM";"FINALIZADO";8;12;3;11;3;37;5;5;5;5;20;6;3;1;10
+503;"Bento Gonçalves ";"Municipal";08/12/11;"RS";"Bento Gonçalves ";1;"SIM";"FINALIZADO";32;41;15;2;4;94;5;5;5;5;20;14;8;4;26
+504;"Campo Grande";"Regional";08/12/11;"MS";"Campo Grande, Anastácio, Bandeirantes, Corguinho, Dois Irmãos do Buriti, Jaraguari, Nova Alvorada do Sul, Ribas do Rio Pardo, Rio Brilhante, Rochedo, Sidrolândia, Terenos";12;"SIM";"FINALIZADO";114;56;26;6;0;202;5;5;5;5;20;36;18;6;60
+505;"Guarabira ";"Livre";08/12/11;"PB";"Guarabira ";0;"SIM";"FINALIZADO";32;4;1;0;0;37;2;2;1;5;10;0;0;0;0
+506;"Ijuí";"Regional";08/12/11;"RS";"Ijuí, Ajuricaba, Bozano, Condor, Nova Ramada, Pejuçara, Augusto Pestana, Catuípe, Cronel Barros, Jóia, Panambi";11;"SIM";"FINALIZADO";0;0;0;0;0;0;3;6;9;2;20;11;3;1;15
+507;"Paverama";"Municipal";08/12/11;"RS";"Paverama";1;"SIM";"FINALIZADO";76;9;11;0;2;98;4;1;1;1;7;2;2;2;6
+508;"Adrianópolis";"Regional";09/12/11;"PR";"Adrianópolis, Almirante Tamandaré, Araucária, Bocaiúva do Sul, Campina Grande do Sul, Campo Largo, Campo Magro, Cerro Azul, Colombo, Curitiba, Doutor Ulysses, Itaperuçu, Pinhais, Piraquara, Quatro Barras, Rio Branco do Sul, São José dos Pinhais, Tunas do Paraná";18;"SIM";"FINALIZADO";420;210;70;35;12;747;5;5;5;5;20;87;45;15;147
+509;"Alto Araguaia";"Municipal";09/12/11;"MT";"Alto Araguaia";1;"SIM";"FINALIZADO";23;40;6;8;1;78;5;4;4;4;17;6;3;1;10
+510;"Alto Paraná";"Regional";09/12/11;"PR";"Alto Paraná, Amaporã, Cruzeiro do Sul, Diamante do Norte, Guairaçá, Inajá, Itaúna do Sul, Jardim Olinda, Loanda, Marilena, Mirador, Nova Aliança do Ivaí, Nova Londrina, Paraíso do Norte, Paranacity, Paranapoema, Paranavaí, Porto Rico, Querência do Norte, Santa Mônica, Santo Antônio do Caiuá, São Carlos do Ivaí, São João do Caiuá, São Pedro do Paraná, Tamboara, Terra Rica";28;"SIM";"FINALIZADO";35;42;15;2;0;94;4;6;3;7;20;7;4;1;12
+511;"Alvorada do Sul";"Regional";09/12/11;"PR";"Alvorada do Sul, Arapongas, Bela Vista do Paraíso, Cafeara, Cambé, Centenário do Sul, Florestópolis, Guaraci, Ibiporã, Jaguapitã, Jataizinho, Londrina, Lupionópolis, Miraselva, Pitangueiras, Porecatu, Prado Ferreira, Primeiro de Maio, Rolândia, Sabáudia, Sertanópolis, Tamarana ";21;"SIM";"FINALIZADO";51;49;30;38;14;182;6;5;5;4;20;28;14;5;47
+512;"Antonina";"Regional";09/12/11;"PR";"Antonina, Guaraqueçaba, Guaratuba, Matinhos, Morretes,  Paranaguá, Pontal do Paraná ";7;"SIM";"FINALIZADO";42;36;18;16;20;132;4;5;6;5;20;16;8;2;26
+513;"Antônio Olinto";"Regional";09/12/11;"PR";"Antônio Olinto, Bituruna, Cruz Machado, General Carneiro, Paula Freitas, Paulo Frontin, Porto Vitória, São Mateus do Sul, União da Vitória";9;"SIM";"FINALIZADO";56;31;18;20;33;158;3;4;5;8;20;5;2;1;8
+514;"Barreira";"Municipal";09/12/11;"CE";"Barreira";1;"SIM";"FINALIZADO";10;60;4;2;2;78;5;5;5;5;20;6;3;1;10
+515;"Cabixi";"Regional";09/12/11;"RO";"Cabixi, Cerejeiras, Chupinguaia, Colorado do Oeste, Corumbiara";5;"SIM";"FINALIZADO";148;41;10;23;23;245;2;8;5;5;20;8;9;7;24
+516;"Campo Bonito";"Regional";09/12/11;"PR";"Campo Bonito, Candói, Cantagalo, Catanduvas, Diamante do Sul, Espigão Alto do Iguaçu, Foz do Jordão, Goioxim, Guaraniaçu, Ibema, Laranjeiras do Sul, Marquinho, Nova Laranjeiras, Pinhão, Porto Barreiro, Quedas do Iguaçu, Reserva do Iguaçu, Rio Bonito do Iguaçu, Três Barras do Paraná, Virmond ";20;"SIM";"FINALIZADO";21;32;21;0;0;74;4;7;4;5;20;5;3;1;9
+517;"Campos dos Goytacazes";"Livre";09/12/11;"RJ";"Campos dos Goytacazes";0;"SIM";"FINALIZADO";45;38;12;9;1;105;5;5;5;5;20;5;3;1;9
+518;"Niterói";"Livre";09/12/11;"RJ";"Niterói";0;"SIM";"FINALIZADO";20;1;2;0;0;23;3;3;1;3;10;0;0;0;0
+519;"Nossa Senhora das Dores";"Municipal";09/12/11;"SE";"Nossa Senhora das Dores";1;"SIM";"FINALIZADO";92;93;17;0;9;211;7;4;5;4;20;7;3;2;12
+520;"Rio Claro";"Municipal";09/12/11;"SP";"Rio Claro";1;"SIM";"FINALIZADO";31;32;12;10;0;85;5;5;5;5;20;3;1;1;5
+521;"Santana do Cariri";"Municipal";09/12/11;"CE";"Santana do Cariri";1;"SIM";"FINALIZADO";9;64;4;7;5;89;6;4;6;4;20;5;3;1;9
+522;"Teixeirópolis";"Regional";09/12/11;"RO";"Teixeirópolis, Upá";2;"SIM";"FINALIZADO";15;24;8;0;0;47;4;2;2;2;10;2;2;2;6
+523;"Vitória";"Municipal";09/12/11;"ES";"Vitória";1;"SIM";"FINALIZADO";82;49;10;28;0;169;4;2;5;9;20;22;11;4;37
+524;"São Bernardo do Campo";"Municipal";10/12/11;"SP";"São Bernardo do Campo";1;"SIM";"FINALIZADO";21;36;7;2;7;73;5;5;5;5;20;24;25;4;53
+525;"Boa Vista ";"Livre";12/12/11;"RR";"Boa Vista - EE Olavo Brasil Filho";0;"SIM";"FINALIZADO";158;15;2;0;0;175;0;3;0;7;10;0;0;0;0
+526;"Boa Vista ";"Livre";12/12/11;"RR";"Boa Vista - EE Professora Wanda David Aguiar";0;"SIM";"FINALIZADO";156;32;0;0;0;188;1;2;0;7;10;0;0;0;0
+527;"Boa Vista ";"Livre";12/12/11;"RR";"Boa Vista - EE Professora Wanda David Aguiar (Vespertino)";0;"SIM";"FINALIZADO";263;18;0;0;0;281;1;2;1;6;10;0;0;0;0
+528;"Imperatriz";"Regional";12/12/11;"MA";"Imperatriz, Amarante do Maranhão, Buritirana, Campestre do Maranhão, Davinópolis, Estreito, Governador Edison Lobão,  João Lisboa, Montes Altos, Porto Franco, Ribamar Fiquene, São João do Paraíso, Senador La Rocque ";13;"SIM";"FINALIZADO";67;37;22;2;11;139;1;4;1;1;7;8;11;11;30
+529;"Itapiúna";"Municipal";12/12/11;"CE";"Itapiúna";1;"SIM";"FINALIZADO";17;15;5;4;2;43;5;2;4;3;14;5;3;1;9
+530;"Livramento de Nossa Senhora";"Municipal";12/12/11;"BA";"Livramento de Nossa Senhora";1;"SIM";"FINALIZADO";22;20;38;4;0;84;5;5;5;5;20;0;0;1;1
+531;"Muriaé";"Municipal";12/12/11;"MG";"Muriaé";1;"SIM";"FINALIZADO";27;13;4;20;3;67;3;4;5;8;20;5;3;1;9
+532;"Parambu";"Municipal";12/12/11;"CE";"Parambu";1;"SIM";"FINALIZADO";31;21;17;5;1;75;2;3;4;4;13;6;3;1;10
+533;"Barroquinha";"Municipal";13/12/11;"CE";"Barroquinha";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+534;"Pedra do Indaiá";"Municipal";13/12/11;"MG";"Pedra do Indaiá";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+535;"Boa Viagem";"Municipal";13/12/11;"CE";"Boa Viagem";1;"SIM";"FINALIZADO";35;20;6;10;10;81;3;3;3;3;12;12;6;2;20
+536;"Boa Vista";"Municipal";13/12/11;"RR";"Boa Vista";1;"SIM";"FINALIZADO";62;31;9;4;0;106;4;5;4;7;20;18;9;3;30
+537;"Cedro";"Municipal";13/12/11;"CE";"Cedro";1;"SIM";"FINALIZADO";22;40;4;2;0;68;2;2;5;6;15;6;3;1;10
+538;"Guaraciaba do Norte";"Municipal";13/12/11;"CE";"Guaraciaba do Norte";1;"SIM";"FINALIZADO";29;44;8;14;5;100;5;5;5;5;20;6;3;1;10
+539;"Horizonte";"Municipal";13/12/11;"CE";"Horizonte";1;"SIM";"FINALIZADO";37;114;13;3;0;167;3;5;3;9;20;6;3;1;10
+540;"Macapá ";"Livre";13/12/11;"AP";"Macapá - UEAP";0;"SIM";"FINALIZADO";56;5;3;0;0;64;0;0;0;9;9;0;0;0;0
+541;"Medeiros Neto";"Municipal";13/12/11;"BA";"Medeiros Neto";1;"SIM";"FINALIZADO";40;10;4;15;5;74;3;1;1;3;8;4;2;0;6
+542;"Porteiras";"Municipal";13/12/11;"CE";"Porteiras";1;"SIM";"FINALIZADO";36;53;21;14;0;124;6;4;4;6;20;6;3;1;10
+543;"Santa Rosa de Lima";"Municipal";13/12/11;"SE";"Santa Rosa de Lima";1;"SIM";"FINALIZADO";7;4;6;30;5;52;6;5;5;4;20;7;3;2;12
+544;"São Benedito";"Municipal";13/12/11;"CE";"São Benedito";1;"SIM";"FINALIZADO";51;25;25;1;1;103;3;3;1;3;10;6;3;1;10
+545;"Banabuiú";"Municipal";14/12/11;"CE";"Banabuiú";1;"SIM";"FINALIZADO";20;10;15;7;5;57;3;3;3;3;12;2;1;1;4
+546;"Boquim ";"Municipal";14/12/11;"SE";"Boquim ";1;"SIM";"FINALIZADO";84;67;19;10;10;190;4;5;5;6;20;11;3;2;16
+547;"Capistrano";"Municipal";14/12/11;"CE";"Capistrano";1;"SIM";"FINALIZADO";8;9;17;9;1;44;5;5;5;5;20;6;3;1;10
+548;"Cruz";"Municipal";14/12/11;"CE";"Cruz";1;"SIM";"FINALIZADO";94;47;16;0;0;157;5;5;5;5;20;6;3;1;10
+549;"Cruz das Almas";"Municipal";14/12/11;"BA";"Cruz das Almas";1;"SIM";"FINALIZADO";62;45;7;0;0;114;5;4;6;5;20;6;3;1;10
+550;"Itaquiraí";"Municipal";14/12/11;"MS";"Itaquiraí";1;"SIM";"FINALIZADO";22;60;20;10;5;117;5;6;5;4;20;3;1;1;5
+551;"João Câmara";"Regional";14/12/11;"RN";"João Câmara, Galinhos, Macau, Parazinho, Pedra Grande, Pedro Avelino, São Bento do Norte, São Miguel de Touros, Taipu";9;"SIM";"FINALIZADO";28;18;10;5;0;61;4;5;7;4;20;8;3;1;12
+552;"Malhada dos Bois";"Municipal";14/12/11;"SE";"Malhada dos Bois";1;"SIM";"FINALIZADO";27;14;8;0;0;49;3;4;5;8;20;7;1;2;10
+553;"Taquarana";"Municipal";14/12/11;"AL";"Taquarana";1;"SIM";"FINALIZADO";35;23;7;0;20;85;6;5;5;4;20;3;4;1;8
+554;"Cristinápolis";"Municipal";15/12/11;"SE";"Cristinápolis";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+555;"Alvorada do Gurguéia";"Municipal";15/12/11;"PI";"Alvorada do Gurguéia";1;"SIM";"FINALIZADO";14;19;12;0;0;45;4;4;4;4;16;1;1;1;3
+556;"Apiacá";"Regional";15/12/11;"ES";"Apiacá, Atilio Vivacqua, Cachoeiro de Itapemirim, Jerônimo Monteiro, Muqui, Vargem Alta";6;"SIM";"FINALIZADO";16;57;6;8;0;87;5;3;6;6;20;17;8;3;28
+557;"Artur Nogueira";"Municipal";15/12/11;"SP";"Artur Nogueira";1;"SIM";"FINALIZADO";19;31;12;5;2;69;4;4;4;4;16;2;1;2;5
+558;"Bacabal";"Livre";15/12/11;"MA";"Bacabal";0;"SIM";"FINALIZADO";60;7;0;0;0;67;3;4;3;0;10;0;0;0;0
+559;"Bacabal";"Livre";15/12/11;"RR";"Bacabal";0;"SIM";"FINALIZADO";60;7;0;0;0;67;3;4;3;0;10;0;0;0;0
+560;"Boa Vista ";"Livre";15/12/11;"RR";"Boa Vista - EE São Vicente (Vespertino)";0;"SIM";"FINALIZADO";89;18;5;0;0;112;0;4;0;6;10;0;0;0;0
+561;"Boa Vista ";"Livre";15/12/11;"RR";"Boa Vista - EE São Vicente (Vespertino)";0;"SIM";"FINALIZADO";79;15;3;0;0;97;1;3;0;6;10;0;0;0;0
+562;"Caucaia";"Municipal";15/12/11;"CE";"Caucaia";1;"SIM";"FINALIZADO";33;98;10;7;3;151;5;5;5;5;20;11;6;2;19
+563;"Cuiabá";"Municipal";15/12/11;"MT";"Cuiabá";1;"SIM";"FINALIZADO";148;12;4;2;3;169;5;5;5;5;20;21;4;4;29
+564;"Ererê";"Municipal";15/12/11;"CE";"Ererê";1;"SIM";"FINALIZADO";25;18;4;4;3;54;4;3;7;6;20;6;3;1;10
+565;"Esplanada";"Municipal";15/12/11;"BA";"Esplanada";1;"SIM";"FINALIZADO";58;18;8;4;3;91;4;5;4;6;19;6;3;1;10
+566;"Fontoura Xavier";"Municipal";15/12/11;"RS";"Fontoura Xavier";1;"SIM";"FINALIZADO";5;12;1;5;4;27;4;4;4;4;16;3;1;0;4
+567;"General Sampaio";"Municipal";15/12/11;"CE";"General Sampaio";1;"SIM";"FINALIZADO";134;22;14;2;2;174;5;5;5;5;20;6;3;1;10
+568;"Juru";"Regional";15/12/11;"PB";"Juru, Manaíra, Princesa Isabel, São José de Princesa";4;"SIM";"FINALIZADO";30;30;14;4;2;80;5;5;6;4;20;1;4;1;6
+569;"Malhador ";"Municipal";15/12/11;"SE";"Malhador ";1;"SIM";"FINALIZADO";16;12;3;0;2;33;5;5;5;5;20;2;2;1;5
+570;"Matupá";"Regional";15/12/11;"MT";"Matupá, Marcelândia, Peixoto de Azevedo, Guarantã do Norte, Terra Nova do Norte, Nova Santa Helena, Itaúba, Nova Guarita e Novo Mundo";9;"SIM";"FINALIZADO";1;0;0;0;0;1;5;3;5;5;18;0;1;0;1
+571;"Nova Ramada";"Municipal";15/12/11;"RS";"Nova Ramada";1;"SIM";"FINALIZADO";4;4;4;0;0;12;4;2;2;3;11;1;1;1;3
+572;"Pedra Branca";"Municipal";15/12/11;"CE";"Pedra Branca";1;"SIM";"FINALIZADO";67;66;16;12;5;166;5;4;5;6;20;6;3;1;10
+573;"Redenção";"Municipal";15/12/11;"CE";"Redenção";1;"SIM";"FINALIZADO";50;15;30;5;0;100;5;5;5;5;20;6;3;1;10
+574;"São Gonçalo do Amarante";"Municipal";15/12/11;"CE";"São Gonçalo do Amarante";1;"SIM";"FINALIZADO";37;24;6;12;7;86;2;2;2;3;9;3;3;1;7
+575;"São João da Barra";"Regional";15/12/11;"RJ";"São João da Barra, São Francisco de Itabapoana";2;"SIM";"FINALIZADO";26;56;21;11;13;127;5;4;6;5;20;6;2;2;10
+576;"Tangará da Serra";"Municipal";15/12/11;"MT";"Tangará da Serra";1;"SIM";"FINALIZADO";1;1;1;0;0;3;5;4;5;5;19;0;1;0;1
+577;"Alecrim";"Regional";16/12/11;"RS";"Alecrim, Alegria, Boa Vista do Buricá, Campina das Missões, Cândido Godói, Doutor Maurício Cardoso, Horizontina, Independência, Nova Candelária, Novo Machado, Porto Lucena, Porto Mauá, Porto Vera Cruz, Santa Rosa, Santo Cristo, São José do Inhacorá, Senador Salgado Filho, Três de Maio, Tucunduva, Tuparendi";20;"SIM";"FINALIZADO";12;48;2;2;0;64;3;6;5;6;20;8;7;2;17
+578;"Araújos";"Regional";16/12/11;"MG";"Araújos, Arcos, Camacho, Carmo da Mata, Carmo do Cajuru, Cláudio, Formiga, Iguatama, Itapecerica, Japaraíba, Moema, Nova Serrana, Pains, Pitangui, Santo Antônio do Monte, São Gonçalo do Pará, Pedra do Indaiá";17;"SIM";"FINALIZADO";134;0;0;0;0;134;3;3;3;3;12;4;1;1;6
+579;"Campos Sales";"Municipal";16/12/11;"CE";"Campos Sales";1;"SIM";"FINALIZADO";40;38;13;5;2;98;4;3;4;7;18;6;3;1;10
+580;"Carnaubal";"Municipal";16/12/11;"CE";"Carnaubal";1;"SIM";"FINALIZADO";50;28;19;12;0;109;5;5;5;5;20;6;3;1;10
+581;"Conceição do Pará";"Municipal";16/12/11;"MG";"Conceição do Pará";1;"SIM";"FINALIZADO";26;12;8;1;0;47;5;5;5;5;20;1;1;1;3
+582;"Mataraca";"Municipal";16/12/11;"PB";"Mataraca";1;"SIM";"FINALIZADO";16;31;12;2;0;61;2;2;10;6;20;0;2;0;2
+583;"Naviraí";"Municipal";16/12/11;"MS";"Naviraí";1;"SIM";"FINALIZADO";35;29;21;5;0;90;5;5;5;5;20;8;4;2;14
+584;"São João do Rio do Peixe";"Municipal";16/12/11;"PB";"São João do Rio do Peixe";1;"SIM";"FINALIZADO";30;16;3;2;0;51;5;5;5;5;20;1;1;1;3
+585;"Várzea Alegre";"Municipal";17/12/11;"CE";"Várzea Alegre";1;"SIM";"FINALIZADO";53;21;14;1;3;92;5;2;3;8;18;7;2;1;10
+586;"Aceguá";"Regional";19/12/11;"RS";"Aceguá, Bagé, Caçapava do Sul, Candiota, Dom Pedrito, Hulha Negra, Lavras do Sul ";7;"SIM";"FINALIZADO";9;51;8;1;2;71;4;3;4;5;16;7;8;3;18
+587;"Boa Ventura";"Regional";19/12/11;"PB";"Boa Ventura, Curral Velho, Itaporanga, Pedra Branca, Santana dos Garrotes, São José de Caiana ";4;"SIM";"FINALIZADO";12;13;9;4;0;38;6;4;4;6;20;4;1;0;5
+588;"Caruaru";"Municipal";19/12/11;"PE";"Caruaru";1;"SIM";"FINALIZADO";37;43;5;8;6;99;2;9;4;5;20;10;6;2;18
+589;"Quiterianópolis";"Municipal";19/12/11;"CE";"Quiterianópolis";1;"SIM";"FINALIZADO";22;45;15;33;25;140;3;3;4;3;13;5;1;1;7
+590;"Viçosa";"Municipal";19/12/11;"RN";"Viçosa";1;"SIM";"FINALIZADO";57;25;11;12;10;115;4;4;4;4;16;2;1;1;4
+591;"Aracruz";"Regional";20/12/11;"ES";"Aracruz, Fundão, Ibiraçu, João Neiva";4;"SIM";"FINALIZADO";52;26;8;9;4;99;5;5;5;5;20;5;4;2;11
+592;"Cantá ";"Municipal";20/12/11;"RR";"Cantá ";1;"SIM";"FINALIZADO";86;36;3;6;0;131;4;6;3;7;20;6;3;1;10
+593;"Mazagão";"Municipal";20/12/11;"AP";"Mazagão";1;"SIM";"FINALIZADO";56;15;3;16;12;102;11;2;5;2;20;12;6;2;20
+594;"Nilo Peçanha";"Municipal";20/12/11;"BA";"Nilo Peçanha";1;"SIM";"FINALIZADO";30;30;10;10;10;90;6;5;5;4;20;5;3;1;9
+595;"Poconé";"Livre";21/12/11;"MT";"Poconé";0;"SIM";"FINALIZADO";1;1;1;0;0;3;0;10;0;0;10;0;0;0;0
+596;"Bonfim ";"Municipal";27/12/11;"RR";"Bonfim ";1;"SIM";"FINALIZADO";16;5;4;0;0;25;2;5;3;10;20;4;1;1;6
+597;"Boa Vista ";"Livre";"11/22/2011";"RR";"Boa Vista - EE Professora Maria das Neves Rezende";0;"SIM";"FINALIZADO";240;11;0;0;0;251;1;3;0;6;10;0;0;0;0
+598;"Boa Vista ";"Livre";"11/22/2011";"RR";"Boa Vista - EE Professora Maria das Neves Rezende";0;"SIM";"FINALIZADO";156;18;0;0;0;174;0;2;0;8;10;0;0;0;0
+599;"Varjota";"Municipal";01/01/12;"CE";"Varjota";1;"SIM";"FINALIZADO";43;32;12;8;4;99;5;5;5;5;20;6;2;2;10
+600;"Normandia";"Municipal";02/01/12;"RR";"Normandia";1;"SIM";"FINALIZADO";37;5;2;0;0;44;5;7;4;4;20;4;2;1;7
+601;"Caroebe";"Municipal";04/01/12;"RR";"Caroebe";1;"SIM";"FINALIZADO";20;6;1;2;0;29;4;4;6;6;20;4;2;1;7
+602;"Igarapé-Miri";"Municipal";04/01/12;"PA";"Igarapé-Miri";1;"SIM";"FINALIZADO";12;10;3;5;2;32;5;5;5;5;20;5;2;1;8
+603;"Amajari";"Municipal";05/01/12;"RR";"Amajari";1;"SIM";"FINALIZADO";127;18;5;8;0;158;3;6;2;9;20;4;2;2;8
+604;"Uiramutã ";"Municipal";07/01/12;"RR";"Uiramutã ";1;"SIM";"FINALIZADO";16;19;2;6;5;48;5;7;4;4;20;2;5;0;7
+605;"Primavera";"Municipal";09/01/12;"PA";"Primavera";1;"SIM";"FINALIZADO";51;10;12;10;19;102;2;2;1;1;6;1;1;1;3
+606;"Caracaraí ";"Municipal";10/01/12;"RR";"Caracaraí ";1;"SIM";"FINALIZADO";48;6;8;2;1;65;3;2;5;10;20;8;4;3;15
+607;"Morada Nova";"Municipal";10/01/12;"CE";"Morada Nova";1;"SIM";"FINALIZADO";30;15;10;3;2;60;5;5;5;5;20;11;6;2;19
+608;"Ribeirópolis";"Municipal";10/01/12;"SE";"Ribeirópolis";1;"SIM";"FINALIZADO";36;62;8;21;12;139;6;4;6;4;20;7;1;2;10
+609;"São João do Jaguaribe";"Municipal";10/01/12;"CE";"São João do Jaguaribe";1;"SIM";"FINALIZADO";44;22;8;0;0;74;5;5;5;5;20;6;2;2;10
+610;"São Sebastião da Grama ";"Municipal";10/01/12;"SP";"São Sebastião da Grama ";1;"SIM";"FINALIZADO";15;90;5;0;0;110;1;1;1;1;4;0;3;0;3
+611;"São João do Tigre";"Municipal";11/01/12;"PB";"São João do Tigre";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+612;"Barroso";"Municipal";11/01/12;"MG";"Barroso";1;"SIM";"FINALIZADO";34;12;9;13;10;78;5;3;5;7;20;1;1;1;3
+613;"Brumadinho";"Municipal";11/01/12;"MG";"Brumadinho";1;"SIM";"FINALIZADO";50;46;13;3;1;113;3;6;4;3;16;1;1;1;3
+614;"Nazarezinho";"Municipal";11/01/12;"PB";"Nazarezinho";1;"SIM";"FINALIZADO";46;41;7;1;0;95;5;5;5;5;20;1;1;1;3
+615;"Quatis";"Municipal";11/01/12;"RJ";"Quatis";1;"SIM";"FINALIZADO";16;60;2;5;2;85;5;5;5;5;20;1;1;1;3
+616;"Uruoca";"Municipal";11/01/12;"CE";"Uruoca";1;"SIM";"FINALIZADO";21;15;2;11;3;52;7;5;5;1;18;6;4;0;10
+617;"Catunda";"Municipal";12/01/12;"CE";"Catunda";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+618;"Aratuba";"Municipal";12/01/12;"CE";"Aratuba";1;"SIM";"FINALIZADO";9;64;5;2;4;84;5;5;5;5;20;8;6;2;16
+619;"Bonfim ";"Livre";12/01/12;"RR";"Bonfim - EE Argentina Castelo";0;"SIM";"FINALIZADO";16;5;4;0;0;25;0;4;1;5;10;0;0;0;0
+620;"Jaguaruana";"Municipal";12/01/12;"CE";"Jaguaruana";1;"SIM";"FINALIZADO";19;34;18;4;1;76;4;5;6;4;19;6;3;1;10
+621;"Leandro Ferreira";"Municipal";12/01/12;"MG";"Leandro Ferreira";1;"SIM";"FINALIZADO";23;21;17;25;9;95;6;3;5;6;20;2;2;2;6
+622;"Milhã";"Municipal";12/01/12;"CE";"Milhã";1;"SIM";"FINALIZADO";45;22;6;13;8;94;2;2;2;2;8;2;4;2;8
+623;"Pará de Minas ";"Municipal";12/01/12;"MG";"Pará de Minas ";1;"SIM";"FINALIZADO";32;78;25;5;4;144;5;5;5;5;20;6;3;2;11
+624;"Pindoretama";"Municipal";12/01/12;"CE";"Pindoretama";1;"SIM";"FINALIZADO";24;16;5;6;1;52;5;5;5;5;20;6;3;2;11
+625;"Potiretama";"Municipal";12/01/12;"CE";"Potiretama";1;"SIM";"FINALIZADO";42;5;10;4;6;67;1;1;1;1;4;3;1;4;8
+626;"Quixelô";"Municipal";12/01/12;"CE";"Quixelô";1;"SIM";"FINALIZADO";15;55;2;0;0;72;5;5;5;5;20;7;5;1;13
+627;"Barbalha";"Municipal";13/01/12;"CE";"Barbalha";1;"SIM";"FINALIZADO";211;96;46;20;10;383;5;6;2;7;20;12;6;2;20
+628;"Carrapateira ";"Municipal";13/01/12;"PB";"Carrapateira ";1;"SIM";"FINALIZADO";32;17;8;11;0;68;8;4;4;4;20;1;0;0;1
+629;"Jardim";"Municipal";13/01/12;"CE";"Jardim";1;"SIM";"FINALIZADO";53;25;7;0;2;87;1;1;1;1;4;6;3;1;10
+630;"Martinópole";"Municipal";13/01/12;"CE";"Martinópole";1;"SIM";"FINALIZADO";27;13;1;0;0;41;3;7;5;5;20;6;3;1;10
+631;"Salinas da Margarida";"Municipal";13/01/12;"BA";"Salinas da Margarida";1;"SIM";"FINALIZADO";14;14;5;5;1;39;3;3;3;3;12;4;2;1;7
+632;"Santana do São Francisco";"Municipal";13/01/12;"SE";"Santana do São Francisco";1;"SIM";"FINALIZADO";47;22;29;18;5;121;7;5;4;4;20;7;2;1;10
+633;"Teresina";"Regional";13/01/12;"PI";"Teresina, Altos, Beneditinos, Buriti dos Montes, Castelo do Piauí, Coivaras, Miguel Alves";7;"SIM";"FINALIZADO";203;120;40;25;0;388;5;2;7;6;20;88;33;16;137
+634;"Umabúba";"Municipal";13/01/12;"SE";"Umabúba";1;"SIM";"FINALIZADO";80;40;40;10;5;175;4;6;5;5;20;8;4;3;15
+635;"Vigia ";"Municipal";13/01/12;"PA";"Vigia ";1;"SIM";"FINALIZADO";57;15;9;3;3;87;5;10;3;2;20;6;0;0;6
+636;"Crateús";"Municipal";14/01/12;"CE";"Crateús";1;"SIM";"FINALIZADO";23;80;5;1;0;109;4;5;5;2;16;6;6;2;14
+637;"Itatiaia ";"Municipal";14/01/12;"RJ";"Itatiaia ";1;"SIM";"FINALIZADO";118;23;16;1;1;159;3;4;4;9;20;2;1;1;4
+638;"Barreirinhas";"Livre";16/01/12;"MA";"Barreirinhas";0;"SIM";"FINALIZADO";100;0;0;0;0;100;0;0;1;1;2;0;0;0;0
+639;"Iracema";"Municipal";16/01/12;"RR";"Iracema";1;"SIM";"FINALIZADO";18;8;2;1;0;29;5;5;5;5;20;4;2;1;7
+640;"Antonina do Norte";"Municipal";17/01/12;"CE";"Antonina do Norte";1;"SIM";"FINALIZADO";24;14;3;5;4;50;4;4;4;4;16;5;1;4;10
+641;"Baixio";"Municipal";17/01/12;"CE";"Baixio";1;"SIM";"FINALIZADO";4;28;3;2;2;39;5;5;4;4;18;2;6;2;10
+642;"Barra de Santo Antônio";"Regional";17/01/12;"AL";"Barra de Santo Antônio, Campestre, Jacuípe, Japaratinga, Jundiá, Maragogi, Matriz de Camaragibe, Passo de Camaragibe, Porto Calvo, Porto de Pedras, São Luís do Quitunde";11;"SIM";"FINALIZADO";46;29;9;10;0;94;5;6;4;4;19;11;4;2;17
+643;"Caririaçu";"Municipal";17/01/12;"CE";"Caririaçu";1;"SIM";"FINALIZADO";42;60;12;12;6;132;5;5;5;5;20;6;3;1;10
+644;"Cariús";"Municipal";17/01/12;"CE";"Cariús";1;"SIM";"FINALIZADO";9;24;12;2;2;49;5;5;5;5;20;7;5;2;14
+645;"Joca Claudino ";"Municipal";17/01/12;"PB";"Joca Claudino ";1;"SIM";"FINALIZADO";22;18;16;4;2;62;3;6;4;7;20;1;0;0;1
+646;"Luz";"Municipal";17/01/12;"MG";"Luz";1;"SIM";"FINALIZADO";20;20;8;6;6;60;5;5;2;4;16;1;1;0;2
+647;"Monsenhor Tabosa";"Municipal";17/01/12;"CE";"Monsenhor Tabosa";1;"SIM";"FINALIZADO";16;45;1;2;2;66;6;3;5;6;20;6;3;1;10
+648;"Palmares ";"Municipal";17/01/12;"PE";"Palmares ";1;"SIM";"FINALIZADO";30;12;5;5;4;56;6;3;3;5;17;12;3;3;18
+649;"Umirim";"Municipal";17/01/12;"CE";"Umirim";1;"SIM";"FINALIZADO";61;41;11;0;0;113;4;6;5;5;20;6;3;1;10
+650;"Aquiraz";"Municipal";18/01/12;"CE";"Aquiraz";1;"SIM";"FINALIZADO";59;43;15;8;2;127;4;4;4;6;18;12;6;2;20
+651;"Bossoroca";"Regional";18/01/12;"RS";"Bossoroca, Caibaté, Cerro Largo, Dezesseis de Novembro, Entre-Ijuís, Eugênio de Castro, Garruchos, Giruá, Guarani das Missões, Mato Queimado, Pirapó, Porto Xavier, Rolador, Roque Gonzales, Salvador das Missões, Santo Antônio das Missões, São Borja, São Luiz Gonzaga, São Miguel das Missões, São Nicolau, São Paulo das Missões, São Pedro do Butiá, Sete de Setembro, Ubiretama, Vitória das Missões";25;"SIM";"FINALIZADO";50;20;20;10;0;100;5;1;1;0;7;1;4;0;5
+652;"Laranjal do Jari";"Municipal";18/01/12;"AP";"Laranjal do Jari";1;"SIM";"FINALIZADO";36;15;12;3;2;68;5;5;5;5;20;20;10;1;31
+653;"Pirambu ";"Municipal";18/01/12;"SE";"Pirambu ";1;"SIM";"FINALIZADO";23;21;8;0;3;55;3;8;3;6;20;7;1;2;10
+654;"Rosário do Sul";"Municipal";18/01/12;"RS";"Rosário do Sul";1;"SIM";"FINALIZADO";30;4;3;0;0;37;4;3;5;7;19;10;3;2;15
+655;"Pacatuba";"Municipal";19/01/12;"CE";"Pacatuba";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+656;"Alfredo Chaves";"Regional";19/01/12;"ES";"Alfredo Chaves, Anchieta, Iconha, Itapemirim, Marataízes, Piúma ";6;"SIM";"FINALIZADO";15;30;7;5;0;57;5;5;5;5;20;4;7;1;12
+657;"Catarina";"Municipal";19/01/12;"CE";"Catarina";1;"SIM";"FINALIZADO";56;21;10;3;0;90;3;4;4;4;15;12;6;2;20
+658;"Choró";"Municipal";19/01/12;"CE";"Choró";1;"SIM";"FINALIZADO";60;30;6;10;8;114;6;6;4;4;20;6;3;1;10
+659;"Deputado Irapuan Pinheiro";"Municipal";19/01/12;"CE";"Deputado Irapuan Pinheiro";1;"SIM";"FINALIZADO";30;22;11;10;3;76;4;5;4;4;17;6;3;1;10
+660;"Frecheirinha";"Municipal";19/01/12;"CE";"Frecheirinha";1;"SIM";"FINALIZADO";30;12;23;1;0;66;5;5;5;5;20;6;3;1;10
+661;"Icapuí";"Municipal";19/01/12;"CE";"Icapuí";1;"SIM";"FINALIZADO";60;30;10;10;5;115;5;5;5;4;19;6;3;1;10
+662;"Itagimirim ";"Municipal";19/01/12;"BA";"Itagimirim ";1;"SIM";"FINALIZADO";29;91;37;112;30;299;1;2;2;3;8;1;2;1;4
+663;"Itarema";"Municipal";19/01/12;"CE";"Itarema";1;"SIM";"FINALIZADO";63;31;10;0;0;104;4;4;6;6;20;6;3;1;10
+664;"Jaguaribe";"Municipal";19/01/12;"CE";"Jaguaribe";1;"SIM";"FINALIZADO";26;15;4;15;13;73;5;5;5;4;19;6;3;1;10
+665;"Salgado";"Municipal";19/01/12;"SE";"Salgado";1;"SIM";"FINALIZADO";105;18;4;8;0;135;4;7;5;4;20;7;0;2;9
+666;"Sorocaba";"Municipal";19/01/12;"SP";"Sorocaba";1;"SIM";"FINALIZADO";93;38;32;15;5;183;4;5;4;7;20;5;3;1;9
+667;"Tomé-Açu ";"Municipal";19/01/12;"PA";"Tomé-Açu ";1;"SIM";"FINALIZADO";79;0;0;0;0;79;5;3;6;6;20;7;0;0;7
+668;"Balneário Pinhal ";"Municipal";20/01/12;"RS";"Balneário Pinhal ";1;"SIM";"FINALIZADO";31;14;3;1;1;50;1;2;1;1;5;1;1;1;3
+669;"Bragança";"Regional";20/01/12;"PA";"Bragança, Capanema ";2;"SIM";"FINALIZADO";47;89;3;14;5;158;5;5;5;5;20;1;0;0;1
+670;"Breu Branco";"Regional";20/01/12;"PA";"Breu Branco, Goianésia do Pará, Jacundá, Tucuruí ";4;"SIM";"FINALIZADO";34;59;34;11;0;138;5;4;5;5;19;11;7;3;21
+671;"Canindé";"Municipal";20/01/12;"CE";"Canindé";1;"SIM";"FINALIZADO";31;22;6;22;5;86;5;5;5;5;20;12;6;2;20
+672;"Caridade";"Municipal";20/01/12;"CE";"Caridade";1;"SIM";"FINALIZADO";20;19;8;15;6;68;4;3;3;2;12;5;3;1;9
+673;"Chorozinho";"Municipal";20/01/12;"CE";"Chorozinho";1;"SIM";"FINALIZADO";64;41;15;0;0;120;5;5;5;5;20;6;3;1;10
+674;"Independência";"Municipal";20/01/12;"CE";"Independência";1;"SIM";"FINALIZADO";17;30;7;0;0;54;5;5;5;5;20;6;3;1;10
+675;"Ipaporanga";"Municipal";20/01/12;"CE";"Ipaporanga";1;"SIM";"FINALIZADO";6;11;6;1;1;25;5;4;5;6;20;3;2;1;6
+676;"Macapá";"Livre";20/01/12;"AP";"Macapá";0;"SIM";"FINALIZADO";35;3;5;0;0;43;10;0;0;0;10;0;0;0;0
+677;"Mucajaí ";"Municipal";20/01/12;"RR";"Mucajaí ";1;"SIM";"FINALIZADO";57;9;3;0;0;69;6;2;8;4;20;7;2;1;10
+678;"Neópolis";"Municipal";20/01/12;"SE";"Neópolis";1;"SIM";"FINALIZADO";48;48;34;0;6;136;3;6;6;5;20;14;2;3;19
+679;"Piranhas ";"Municipal";20/01/12;"AL";"Piranhas ";1;"SIM";"FINALIZADO";90;45;15;4;2;156;4;3;7;6;20;6;3;1;10
+680;"Santana do Livramento";"Municipal";20/01/12;"RS";"Santana do Livramento";1;"SIM";"FINALIZADO";48;25;12;5;5;95;3;3;3;3;12;3;1;1;5
+681;"São Cristóvão";"Municipal";20/01/12;"SE";"São Cristóvão";1;"SIM";"FINALIZADO";19;67;14;4;10;114;5;5;7;3;20;7;4;3;14
+682;"Sobral";"Municipal";21/01/12;"CE";"Sobral";1;"SIM";"FINALIZADO";84;71;44;1;1;201;4;4;6;6;20;12;6;2;20
+683;"Alto Alegre ";"Municipal";23/01/12;"RR";"Alto Alegre ";1;"SIM";"FINALIZADO";29;32;21;10;11;103;3;8;4;5;20;6;4;2;12
+684;"Baturité";"Municipal";23/01/12;"CE";"Baturité";1;"SIM";"FINALIZADO";26;34;14;2;0;76;5;5;5;5;20;6;3;1;10
+685;"Camaçari ";"Municipal";23/01/12;"BA";"Camaçari ";1;"SIM";"FINALIZADO";105;19;13;21;0;158;3;4;6;7;20;12;6;2;20
+686;"Crato";"Municipal";23/01/12;"CE";"Crato";1;"SIM";"FINALIZADO";79;11;6;30;0;126;6;4;5;5;20;7;4;2;13
+687;"Guaranésia ";"Municipal";23/01/12;"MG";"Guaranésia ";1;"SIM";"FINALIZADO";11;3;3;22;91;130;9;6;2;2;19;1;1;1;3
+688;"Quissamã ";"Municipal";23/01/12;"RJ";"Quissamã ";1;"SIM";"FINALIZADO";149;55;10;1;46;261;4;4;5;7;20;2;1;1;4
+689;"Rorainópolis";"Municipal";23/01/12;"RR";"Rorainópolis";1;"SIM";"FINALIZADO";48;17;5;0;0;70;5;5;4;6;20;5;4;2;11
+690;"Tururu";"Municipal";23/01/12;"CE";"Tururu";1;"SIM";"FINALIZADO";22;36;12;29;5;104;5;5;3;6;19;5;3;1;9
+691;"Ararendá";"Municipal";24/01/12;"CE";"Ararendá";1;"SIM";"FINALIZADO";45;25;10;2;0;82;5;5;5;5;20;8;3;0;11
+692;"Campo Alegre ";"Municipal";24/01/12;"AL";"Campo Alegre ";1;"SIM";"FINALIZADO";60;30;10;17;12;129;7;3;7;3;20;11;6;1;18
+693;"Campo Magro";"Municipal";24/01/12;"SP";"Campo Magro, Cerro Azul, Colombo, Curitiba, Doutor Ulysses, Itaperuçu, Pinhais, Piraquara, Quatro Barras, Rio";1;"SIM";"FINALIZADO";48;24;8;4;16;100;7;3;5;4;19;3;1;1;5
+694;"Castanhal";"Municipal";24/01/12;"PA";"Castanhal";1;"SIM";"FINALIZADO";32;27;13;10;3;85;2;2;3;3;10;15;6;2;23
+695;"Santa Maria da Vitória";"Municipal";24/01/12;"BA";"Santa Maria da Vitória";1;"SIM";"FINALIZADO";69;46;8;4;1;128;2;1;1;1;5;6;4;2;12
+696;"São Domingos do Norte";"Regional";24/01/12;"ES";"São Domingos do Norte, São Gabriel da Palha, Vila Valério";3;"SIM";"FINALIZADO";73;30;26;8;15;152;5;5;5;5;20;3;4;1;8
+697;"São João da Baliza";"Municipal";25/01/12;"RR";"São João da Baliza";1;"SIM";"FINALIZADO";48;26;12;0;0;86;4;6;3;7;20;2;1;0;3
+698;"Aguaí ";"Municipal";25/01/12;"SP";"Aguaí ";1;"SIM";"FINALIZADO";35;12;12;10;0;69;4;3;3;2;12;3;1;1;5
+699;"Cantagalo ";"Municipal";25/01/12;"RJ";"Cantagalo ";1;"SIM";"FINALIZADO";29;18;15;1;0;63;5;4;3;4;16;2;1;1;4
+700;"Colatina";"Regional";25/01/12;"ES";"Colatina, Governador Lindenberg, Itaguaçu, Itarana, Jaguaré, Marilândia, Montanha, Pancas, Santa Maria de Jetibá, Santa Teresa ";10;"SIM";"FINALIZADO";43;28;8;20;2;101;5;5;5;5;20;0;1;0;1
+701;"Engenheiro Paulo de Frontin";"Municipal";25/01/12;"RJ";"Engenheiro Paulo de Frontin";1;"SIM";"FINALIZADO";11;59;11;1;1;83;7;5;4;4;20;2;2;2;6
+702;"Guapimirim ";"Municipal";25/01/12;"RJ";"Guapimirim ";1;"SIM";"FINALIZADO";55;53;5;15;0;128;4;4;6;6;20;3;1;1;5
+703;"Ibaretama";"Municipal";25/01/12;"CE";"Ibaretama";1;"SIM";"FINALIZADO";18;58;5;7;2;90;5;5;5;5;20;2;2;2;6
+704;"Ibicuitinga";"Municipal";25/01/12;"CE";"Ibicuitinga";1;"SIM";"FINALIZADO";11;70;7;0;0;88;2;2;2;2;8;4;4;4;12
+705;"Itapagé ";"Municipal";25/01/12;"CE";"Itapagé ";1;"SIM";"FINALIZADO";27;30;14;0;0;71;4;8;3;5;20;6;3;1;10
+706;"Jucás";"Municipal";25/01/12;"CE";"Jucás";1;"SIM";"FINALIZADO";56;30;35;1;1;123;1;1;1;2;5;1;0;0;1
+707;"Lagoa da Canoa ";"Municipal";25/01/12;"AL";"Lagoa da Canoa ";1;"SIM";"FINALIZADO";58;19;8;23;41;149;5;5;5;5;20;4;3;1;8
+708;"Lavras da Mangabeira";"Municipal";25/01/12;"CE";"Lavras da Mangabeira";1;"SIM";"FINALIZADO";56;29;9;6;2;102;4;3;2;3;12;4;4;2;10
+709;"Marco";"Municipal";25/01/12;"CE";"Marco";1;"SIM";"FINALIZADO";51;36;8;1;0;96;6;6;3;5;20;7;3;2;12
+710;"Parisi";"Municipal";25/01/12;"SP";"Parisi";1;"SIM";"FINALIZADO";9;5;8;12;12;46;2;1;1;2;6;3;1;2;6
+711;"Quixeramobim";"Municipal";25/01/12;"CE";"Quixeramobim";1;"SIM";"FINALIZADO";25;62;21;12;120;240;3;4;3;3;13;9;6;2;17
+712;"Raposos";"Municipal";25/01/12;"MG";"Raposos";1;"SIM";"FINALIZADO";6;5;2;0;0;13;1;1;1;1;4;1;1;1;3
+713;"Santa Isabel do Pará ";"Municipal";25/01/12;"PA";"Santa Isabel do Pará ";1;"SIM";"FINALIZADO";122;27;13;15;39;216;7;2;2;4;15;5;2;1;8
+714;"Santa Leopoldina";"Municipal";25/01/12;"ES";"Santa Leopoldina";1;"SIM";"FINALIZADO";36;25;6;10;1;78;3;4;5;5;17;0;2;0;2
+715;"Santa Rita";"Municipal";25/01/12;"PB";"Santa Rita";1;"SIM";"FINALIZADO";38;67;9;5;3;122;5;4;5;6;20;5;3;1;9
+716;"São José do Egito";"Municipal";25/01/12;"PE";"São José do Egito";5;"SIM";"FINALIZADO";23;43;10;0;0;76;4;5;5;5;19;6;2;1;9
+717;"São Luiz ";"Municipal";25/01/12;"RR";"São Luiz ";1;"SIM";"FINALIZADO";12;5;2;2;0;21;3;5;6;6;20;4;2;1;7
+718;"Taquari";"Municipal";25/01/12;"RS";"Taquari";1;"SIM";"FINALIZADO";1;15;3;0;1;20;2;2;4;3;11;0;4;2;6
+719;"Americana";"Municipal";26/01/12;"SP";"Americana";1;"SIM";"FINALIZADO";16;9;3;2;2;32;1;1;1;1;4;5;4;1;10
+720;"Abaetetuba";"Municipal";26/01/12;"PA";"Abaetetuba";1;"SIM";"FINALIZADO";45;51;7;3;0;106;4;4;4;8;20;11;6;2;19
+721;"Afogados da Ingazeira";"Regional";26/01/12;"PE";"Afogados da Ingazeira, Carnaíba, Iguaraci, Ingazeira, Quixaba, Solidão, Tabira";7;"SIM";"FINALIZADO";10;17;12;1;0;40;5;3;5;5;18;7;3;2;12
+722;"Água Preta";"Municipal";26/01/12;"PE";"Água Preta";1;"SIM";"FINALIZADO";26;15;13;5;4;63;5;5;5;5;20;6;3;1;10
+723;"Barra dos Coqueiros";"Municipal";26/01/12;"SE";"Barra dos Coqueiros";1;"SIM";"FINALIZADO";58;46;5;10;3;122;5;7;3;5;20;7;3;1;11
+724;"Campinas";"Regional";26/01/12;"SP";"Campinas, Idaiatuba";2;"SIM";"FINALIZADO";80;58;27;5;19;189;5;5;4;6;20;20;11;8;39
+725;"Candiba ";"Municipal";26/01/12;"BA";"Candiba ";1;"SIM";"FINALIZADO";79;20;17;16;26;158;5;5;3;3;16;1;1;1;3
+726;"Cerro Branco";"Municipal";26/01/12;"RS";"Cerro Branco";1;"SIM";"FINALIZADO";3;14;4;0;0;21;1;1;7;1;10;1;1;1;3
+727;"Eusébio";"Municipal";26/01/12;"CE";"Eusébio";1;"SIM";"FINALIZADO";69;23;21;0;0;113;5;5;5;5;20;6;3;1;10
+728;"Itatira";"Municipal";26/01/12;"CE";"Itatira";1;"SIM";"FINALIZADO";59;43;6;2;0;110;3;4;5;4;16;6;4;2;12
+729;"Iuiú";"Municipal";26/01/12;"BA";"Iuiú";1;"SIM";"FINALIZADO";25;21;20;7;2;75;3;5;3;4;15;0;0;1;1
+730;"Jaguaretama";"Municipal";26/01/12;"CE";"Jaguaretama";1;"SIM";"FINALIZADO";63;27;6;6;4;106;4;5;4;4;17;6;3;1;10
+731;"Januária ";"Municipal";26/01/12;"MG";"Januária ";1;"SIM";"FINALIZADO";23;32;12;24;7;98;5;5;5;5;20;3;2;1;6
+732;"Laranja da Terra";"Municipal";26/01/12;"ES";"Laranja da Terra";1;"SIM";"FINALIZADO";2;10;8;4;0;24;2;2;3;3;10;1;1;1;3
+733;"Limoeiro do Norte";"Municipal";26/01/12;"CE";"Limoeiro do Norte";1;"SIM";"FINALIZADO";28;84;30;6;2;150;5;5;5;5;20;12;6;2;20
+734;"Linhares";"Municipal";26/01/12;"ES";"Linhares";1;"SIM";"FINALIZADO";43;18;15;16;10;102;2;2;1;1;6;3;2;1;6
+735;"Maceió";"Municipal";26/01/12;"AL";"Maceió";1;"SIM";"FINALIZADO";106;60;20;70;54;310;5;5;5;5;20;24;12;4;40
+736;"Marabá ";"Municipal";26/01/12;"PA";"Marabá ";1;"SIM";"FINALIZADO";69;46;19;18;21;173;5;7;5;3;20;18;10;3;31
+737;"Maracanaú";"Municipal";26/01/12;"CE";"Maracanaú";1;"SIM";"FINALIZADO";65;38;26;5;11;145;4;4;6;6;20;12;6;2;20
+738;"Nilópolis";"Municipal";26/01/12;"RJ";"Nilópolis";1;"SIM";"FINALIZADO";33;11;5;18;4;71;7;5;3;5;20;6;4;2;12
+739;"Pentecoste";"Municipal";26/01/12;"CE";"Pentecoste";1;"SIM";"FINALIZADO";15;25;9;3;1;53;3;3;3;3;12;6;3;1;10
+740;"Piquet Carneiro";"Municipal";26/01/12;"CE";"Piquet Carneiro";1;"SIM";"FINALIZADO";37;16;17;2;3;75;5;4;5;5;19;6;3;1;10
+741;"Quaraí";"Municipal";26/01/12;"RS";"Quaraí";1;"SIM";"FINALIZADO";35;76;10;3;2;126;5;5;5;5;20;1;2;1;4
+742;"São Gonçalo ";"Municipal";26/01/12;"RJ";"São Gonçalo ";1;"SIM";"FINALIZADO";74;32;11;4;7;128;4;4;5;7;20;11;4;1;16
+743;"Uruburetama";"Municipal";26/01/12;"CE";"Uruburetama";1;"SIM";"FINALIZADO";22;60;8;15;12;117;4;4;5;5;18;6;3;1;10
+744;"Várzea Grande";"Municipal";26/01/12;"MT";"Várzea Grande";1;"SIM";"FINALIZADO";67;43;15;1;2;128;5;5;5;5;20;20;9;3;32
+745;"Viana ";"Municipal";26/01/12;"ES";"Viana ";1;"SIM";"FINALIZADO";10;20;2;2;0;34;5;4;5;6;20;4;2;1;7
+746;"Alto Rio Novo ";"Municipal";27/01/12;"ES";"Alto Rio Novo ";1;"SIM";"FINALIZADO";44;22;7;4;5;82;5;5;5;5;20;1;1;0;2
+747;"Cassilândia";"Livre";27/01/12;"MS";"Cassilândia";0;"SIM";"FINALIZADO";0;24;0;0;0;24;10;0;0;0;10;0;0;0;0
+748;"Igaci ";"Municipal";27/01/12;"AL";"Igaci ";1;"SIM";"FINALIZADO";64;30;9;83;14;200;6;6;5;3;20;6;1;1;8
+749;"Jatobá ";"Municipal";27/01/12;"PE";"Jatobá ";1;"SIM";"FINALIZADO";35;14;12;6;3;70;4;4;2;4;14;6;3;1;10
+750;"Maranguape";"Municipal";27/01/12;"CE";"Maranguape";1;"SIM";"FINALIZADO";101;68;43;11;12;235;5;6;6;3;20;12;6;2;20
+751;"Parnaíba";"Regional";27/01/12;"PI";"Parnaíba, Batalha, Joca Marques, Piripiri, Caraúbas, São João do Arraial, Joaquim Pires, Caxingó, Bom Princípio, Buriti dos Lopes, Barras, Esperantina, Ilha Grande, Luzilândia, Luiz Correia, Morro do Chapéu, Pedro Segundo ";17;"SIM";"FINALIZADO";151;147;29;20;10;357;6;7;4;3;20;33;18;8;59
+752;"Santana";"Municipal";27/01/12;"AP";"Santana";1;"SIM";"FINALIZADO";40;25;20;5;7;97;2;4;7;7;20;30;11;4;45
+753;"Tanque Novo";"Municipal";27/01/12;"BA";"Tanque Novo";1;"SIM";"FINALIZADO";18;6;10;0;1;35;5;5;5;5;20;1;0;0;1
+754;"Brasília";"Livre";28/01/12;"DF";"Brasília";0;"SIM";"FINALIZADO";25;3;1;0;0;29;0;1;0;0;1;0;0;0;0
+755;"Brazlândia";"Municipal";28/01/12;"DF";"Brazlândia";1;"SIM";"FINALIZADO";88;16;45;0;0;149;4;9;6;1;20;7;0;1;8
+756;"Cruzeiro";"Regional";28/01/12;"DF";"Cruzeiro, Estrutural/SIA ";4;"SIM";"FINALIZADO";104;19;6;0;0;129;3;8;5;4;20;9;0;2;11
+757;"Itapoã";"Regional";28/01/12;"DF";"Itapoã, Lago Norte, Varjão";2;"SIM";"FINALIZADO";162;27;14;0;0;203;6;1;6;7;20;18;0;4;22
+758;"Nova Lima ";"Municipal";28/01/12;"MG";"Nova Lima ";1;"SIM";"FINALIZADO";71;39;13;10;10;143;6;5;6;3;20;3;2;1;6
+759;"Rio Acima";"Municipal";28/01/12;"MG";"Rio Acima";1;"SIM";"FINALIZADO";8;7;1;0;0;16;3;3;3;3;12;1;1;1;3
+760;"São Mateus ";"Municipal";28/01/12;"ES";"São Mateus ";1;"SIM";"FINALIZADO";20;8;5;0;3;36;6;4;4;6;20;7;3;2;12
+761;"São Sebastião";"Regional";28/01/12;"DF";"São Sebastião, Jardim Botânico, Lago Sul";3;"SIM";"FINALIZADO";63;13;32;0;0;108;4;7;4;5;20;19;0;3;22
+762;"Barra de São Miguel";"Regional";30/01/12;"AL";"Barra de São Miguel, Boca da Mata, Coruripe, Jequiá da Praia, São Miguel dos Campos ";5;"SIM";"FINALIZADO";47;21;10;24;8;110;5;6;6;3;20;14;9;6;29
+763;"Caseiros ";"Municipal";30/01/12;"RS";"Caseiros ";1;"SIM";"FINALIZADO";7;26;8;24;0;65;5;5;4;4;18;2;2;2;6
+764;"Charqueadas";"Municipal";30/01/12;"RS";"Charqueadas";1;"SIM";"FINALIZADO";9;38;6;0;0;53;2;1;2;1;6;2;2;2;6
+765;"Conceição do Coité";"Municipal";30/01/12;"BA";"Conceição do Coité";1;"SIM";"FINALIZADO";60;48;10;20;26;164;1;3;3;2;9;5;6;1;12
+766;"Itararé ";"Municipal";30/01/12;"SP";"Itararé ";1;"SIM";"FINALIZADO";14;30;11;5;0;60;5;4;2;8;19;3;1;1;5
+767;"Lajeado ";"Municipal";30/01/12;"RS";"Lajeado ";1;"SIM";"FINALIZADO";44;18;20;7;0;89;2;3;6;5;16;10;3;2;15
+768;"Lins ";"Regional";30/01/12;"SP";"Lins ";1;"SIM";"FINALIZADO";37;124;33;0;0;194;5;5;5;3;18;6;5;2;13
+769;"Parauapebas ";"Municipal";30/01/12;"PA";"Parauapebas ";1;"SIM";"FINALIZADO";134;60;23;13;30;260;5;5;5;5;20;10;4;6;20
+770;"Macapá ";"Livre";31/01/12;"AP";"Macapá - SEJUV";0;"SIM";"FINALIZADO";110;14;4;0;0;128;10;0;0;0;10;0;0;0;0
+771;"Martinópolis ";"Municipal";31/01/12;"SP";"Martinópolis ";1;"SIM";"FINALIZADO";9;36;11;9;4;69;3;5;5;7;20;4;2;0;6
+772;"Pacoti";"Municipal";31/01/12;"CE";"Pacoti";1;"SIM";"FINALIZADO";26;19;11;3;2;61;4;3;4;3;14;9;6;2;17
+773;"Rondonópolis";"Municipal";31/01/12;"MT";"Rondonópolis";1;"SIM";"FINALIZADO";47;53;23;13;5;141;2;2;2;2;8;15;9;4;28
+774;"Santa Maria Madalena ";"Municipal";31/01/12;"RJ";"Santa Maria Madalena ";1;"SIM";"FINALIZADO";14;24;13;14;9;74;4;4;4;4;16;1;1;1;3
+775;"Águas da Prata";"Regional";01/02/12;"SP";"Águas da Prata, São João da Boa Vista ";2;"SIM";"FINALIZADO";35;26;5;17;7;90;5;5;5;5;20;6;2;2;10
+776;"Ananindeua";"Municipal";01/02/12;"PA";"Ananindeua";1;"SIM";"FINALIZADO";129;88;32;12;4;265;3;6;8;3;20;36;19;6;61
+777;"Baixo Guandu";"Municipal";01/02/12;"ES";"Baixo Guandu";1;"SIM";"FINALIZADO";30;17;9;5;3;64;5;5;7;3;20;2;2;2;6
+778;"Belo Monte ";"Municipal";01/02/12;"AL";"Belo Monte ";1;"SIM";"FINALIZADO";66;45;20;13;0;144;4;6;7;3;20;5;3;1;9
+779;"Cardoso Moreira";"Municipal";01/02/12;"RJ";"Cardoso Moreira";1;"SIM";"FINALIZADO";21;17;25;13;15;91;2;2;4;3;11;1;8;1;10
+780;"Divinópolis";"Municipal";01/02/12;"MG";"Divinópolis";1;"SIM";"FINALIZADO";53;38;14;5;7;117;5;5;5;5;20;5;3;1;9
+781;"Jacobina ";"Municipal";01/02/12;"BA";"Jacobina ";1;"SIM";"FINALIZADO";28;55;8;4;6;101;5;5;5;5;20;3;3;3;9
+782;"Lajedinho";"Municipal";01/02/12;"BA";"Lajedinho";1;"SIM";"FINALIZADO";27;23;7;43;1;101;4;3;3;2;12;1;1;1;3
+783;"Manoel Viana ";"Municipal";01/02/12;"RS";"Manoel Viana ";1;"SIM";"FINALIZADO";11;20;5;5;10;51;2;4;2;4;12;1;1;1;3
+784;"Orindiúva ";"Municipal";01/02/12;"SP";"Orindiúva ";1;"SIM";"FINALIZADO";27;11;0;0;0;38;5;4;4;4;17;2;1;0;3
+785;"Monteirópolis";"Municipal";02/02/12;"AL";"Monteirópolis";1;"SIM";"FINALIZADO";60;30;6;67;11;174;5;5;5;5;20;0;0;1;1
+786;"Augusto Corrêa ";"Municipal";02/02/12;"PA";"Augusto Corrêa ";1;"SIM";"FINALIZADO";72;28;12;13;2;127;5;5;5;5;20;3;1;1;5
+787;"Bagre";"Municipal";02/02/12;"PA";"Bagre";1;"SIM";"FINALIZADO";60;30;10;1;20;121;5;5;5;5;20;1;1;1;3
+788;"Cabo Verde";"Municipal";02/02/12;"MG";"Cabo Verde";1;"SIM";"FINALIZADO";5;16;8;11;6;46;1;1;1;1;4;1;0;2;3
+789;"Descalvado ";"Municipal";02/02/12;"SP";"Descalvado ";1;"SIM";"FINALIZADO";15;30;19;27;2;93;3;6;4;7;20;5;3;2;10
+790;"Igarapé-Açu ";"Municipal";02/02/12;"PA";"Igarapé-Açu ";1;"SIM";"FINALIZADO";11;35;7;0;5;58;4;3;2;4;13;3;1;1;5
+791;"Porto Velho";"Municipal";02/02/12;"RO";"Porto Velho";1;"SIM";"FINALIZADO";108;50;20;21;10;209;6;7;3;4;20;16;5;4;25
+792;"Rosário do Catete";"Municipal";02/02/12;"SE";"Rosário do Catete";1;"SIM";"FINALIZADO";60;30;20;10;16;136;6;4;5;5;20;7;2;2;11
+793;"Tarauacá";"Municipal";02/02/12;"AC";"Tarauacá";1;"SIM";"FINALIZADO";97;32;12;5;3;149;5;5;5;5;20;2;11;1;14
+794;"Ubatuba";"Municipal";02/02/12;"SP";"Ubatuba";1;"SIM";"FINALIZADO";30;15;5;170;1;221;5;7;4;4;20;3;2;1;6
+795;"Wagner";"Municipal";03/02/12;"BA";"Wagner";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+796;"Altamira";"Regional";03/02/12;"PA";"Altamira, Anapú, Porto de Moz, Senador José Porfírio";4;"SIM";"FINALIZADO";54;28;15;11;124;232;4;5;2;4;15;13;7;2;22
+797;"Caraá";"Municipal";03/02/12;"RS";"Caraá";1;"SIM";"FINALIZADO";3;3;1;1;0;8;2;5;4;4;15;1;1;1;3
+798;"Curralinho ";"Municipal";03/02/12;"PA";"Curralinho ";1;"SIM";"FINALIZADO";16;1;12;9;0;38;5;5;5;5;20;1;1;3;5
+799;"Floriano";"Regional";03/02/12;"PI";"Floriano, Marcos Parente, Tanque, Pajeú, Nazaré do Piauí, Guadalupe";6;"SIM";"FINALIZADO";95;129;55;6;4;289;5;7;4;4;20;15;12;4;31
+800;"Guaporé";"Municipal";03/02/12;"RS";"Guaporé";1;"SIM";"FINALIZADO";5;5;3;10;3;26;1;4;2;3;10;3;3;2;8
+801;"Itapipoca";"Municipal";03/02/12;"CE";"Itapipoca";1;"SIM";"FINALIZADO";17;38;5;4;12;76;5;4;4;4;17;11;5;1;17
+802;"Jacareacanga";"Municipal";03/02/12;"PA";"Jacareacanga";1;"SIM";"FINALIZADO";8;43;2;0;3;56;5;5;4;4;18;1;0;1;2
+803;"Nova Ipixuna";"Municipal";03/02/12;"PA";"Nova Ipixuna";1;"SIM";"FINALIZADO";32;49;18;15;15;129;5;4;4;3;16;2;2;2;6
+804;"Novo Repartimento";"Municipal";03/02/12;"PA";"Novo Repartimento";1;"SIM";"FINALIZADO";96;56;6;10;20;188;5;5;5;5;20;5;2;1;8
+805;"Piçarra";"Municipal";03/02/12;"PA";"Piçarra";1;"SIM";"FINALIZADO";28;65;9;5;4;111;4;4;4;4;16;1;1;0;2
+806;"Santa Bárbara do Pará ";"Municipal";03/02/12;"PA";"Santa Bárbara do Pará ";1;"SIM";"FINALIZADO";35;30;6;2;1;74;5;2;3;2;12;1;1;1;3
+807;"São Brás ";"Municipal";03/02/12;"AL";"São Brás ";1;"SIM";"FINALIZADO";53;41;8;0;1;103;6;6;5;3;20;4;3;1;8
+808;"Águas Claras";"Regional";04/02/12;"DF";"Águas Claras, Candangolândia, Guará, SIA, Núcleo Bandeirante, Park Way";5;"SIM";"FINALIZADO";133;25;45;0;5;208;4;9;3;4;20;39;0;7;46
+809;"Conceição das Pedras";"Regional";04/02/12;"MG";"Conceição das Pedras, Itajubá, Pedralva, Piranguçu, São José do Alegre, Wenceslau Braz ";6;"SIM";"FINALIZADO";16;29;11;1;0;57;5;5;5;5;20;2;2;2;6
+810;"Gama";"Regional";04/02/12;"DF";"Gama, Santa Maria";2;"SIM";"FINALIZADO";117;33;35;0;0;185;3;8;5;4;20;36;0;6;42
+811;"Hortolândia";"Municipal";04/02/12;"SP";"Hortolândia";1;"SIM";"FINALIZADO";27;36;10;2;2;77;4;6;4;4;18;3;1;1;5
+812;"Planaltina";"Municipal";04/02/12;"DF";"Planaltina";1;"SIM";"FINALIZADO";187;37;19;0;0;243;1;2;3;4;10;24;0;4;28
+813;"Samambaia";"Municipal";04/02/12;"DF";"Samambaia";1;"SIM";"FINALIZADO";57;10;13;0;0;80;5;5;4;6;20;21;0;4;25
+814;"Souto Soares";"Municipal";04/02/12;"BA";"Souto Soares";1;"SIM";"FINALIZADO";70;45;7;1;0;123;5;5;5;5;20;6;3;1;10
+815;"Taguatinga";"Regional";04/02/12;"DF";"Taguatinga, Vicente Pires";2;"SIM";"FINALIZADO";183;21;11;0;0;215;6;5;3;6;20;38;0;7;45
+816;"Tailândia ";"Municipal";04/02/12;"PA";"Tailândia ";1;"SIM";"FINALIZADO";26;82;10;8;6;132;5;5;5;5;20;6;3;1;10
+817;"Pocinhos";"Livre";05/02/12;"PB";"Pocinhos";0;"SIM";"FINALIZADO";30;2;4;0;0;36;1;1;3;5;10;0;0;0;0
+818;"Belém";"Municipal";06/02/12;"PA";"Belém";1;"SIM";"FINALIZADO";207;102;34;20;0;363;10;3;4;3;20;101;10;7;118
+819;"Caraúbas";"Municipal";06/02/12;"PB";"Caraúbas";1;"SIM";"FINALIZADO";88;26;21;15;10;160;6;5;5;4;20;1;0;0;1
+820;"Ibirité";"Municipal";06/02/12;"MG";"Ibirité";1;"SIM";"FINALIZADO";6;18;4;8;1;37;5;5;5;5;20;6;3;1;10
+821;"Marechal Deodoro ";"Municipal";06/02/12;"AL";"Marechal Deodoro ";1;"SIM";"FINALIZADO";55;24;2;28;1;110;8;3;4;5;20;10;2;2;14
+822;"Brasília de Minas";"Municipal";07/02/12;"MG";"Brasília de Minas";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+823;"Acará";"Municipal";07/02/12;"PA";"Acará";1;"SIM";"FINALIZADO";21;36;16;3;0;76;2;3;7;8;20;4;2;1;7
+824;"Acari";"Regional";07/02/12;"RN";"Acari, Caicó, Cerro Corá, Currais Novos, Jucurutu, Lagoa Nova, Ouro Branco, Serra Negra do Norte";8;"SIM";"FINALIZADO";30;41;9;5;0;85;4;5;5;6;20;7;11;3;21
+825;"Afuá ";"Municipal";07/02/12;"PA";"Afuá ";1;"SIM";"FINALIZADO";45;36;7;5;20;113;5;5;4;6;20;4;0;0;4
+826;"Anaurilândia";"Regional";07/02/12;"MS";"Anaurilândia, Angélica, Bataguassu, Bataiporã, Ivinhema, Nova Andradina, Novo Horizonte do Sul, Taquarussu ";8;"SIM";"FINALIZADO";67;63;11;2;0;143;5;4;5;6;20;19;10;3;32
+827;"Atalaia";"Regional";07/02/12;"AL";"Atalaia, Cajueiro, Capela, Mar Vermelho, Paulo Jacinto, Pilar ";6;"SIM";"FINALIZADO";119;75;25;24;3;246;6;4;6;4;20;13;6;3;22
+828;"Barreiras ";"Municipal";07/02/12;"BA";"Barreiras ";1;"SIM";"FINALIZADO";124;75;4;1;8;212;5;5;5;5;20;3;2;1;6
+829;"Bom Jardim ";"Municipal";07/02/12;"RJ";"Bom Jardim ";1;"SIM";"FINALIZADO";47;30;8;5;0;90;7;5;4;4;20;2;1;1;4
+830;"Caeté ";"Municipal";07/02/12;"MG";"Caeté ";1;"SIM";"FINALIZADO";25;37;3;6;0;71;5;3;4;5;17;1;1;1;3
+831;"Casimiro de Abreu ";"Municipal";07/02/12;"RJ";"Casimiro de Abreu ";1;"SIM";"FINALIZADO";36;27;7;3;2;75;3;3;4;7;17;3;1;1;5
+832;"Dourados";"Regional";07/02/12;"MS";"Dourados, Caarapó, Deodápolis, Douradina, Fátima do Sul, Glória de Dourados, Itaporã, Jateí, Maracaju, Vicentina";10;"SIM";"FINALIZADO";52;25;11;0;0;88;6;4;2;8;20;26;8;5;39
+833;"Itaporanga d'Ajuda";"Municipal";07/02/12;"SE";"Itaporanga d'Ajuda";1;"SIM";"FINALIZADO";49;29;3;11;7;99;7;5;3;5;20;7;1;1;9
+834;"Itaúna";"Municipal";07/02/12;"MG";"Itaúna";1;"SIM";"FINALIZADO";26;21;3;4;0;54;4;8;4;4;20;3;2;1;6
+835;"Monteiro ";"Municipal";07/02/12;"PB";"Monteiro ";1;"SIM";"FINALIZADO";27;13;4;2;5;51;6;5;4;5;20;1;1;1;3
+836;"Passo Fundo";"Municipal";07/02/12;"RS";"Passo Fundo";1;"SIM";"FINALIZADO";70;53;7;10;9;149;5;4;4;5;18;12;8;3;23
+837;"Salvador";"Municipal";07/02/12;"BA";"Salvador";1;"SIM";"FINALIZADO";75;25;18;12;9;139;5;5;5;5;20;31;15;5;51
+838;"Santana de Parnaíba";"Municipal";07/02/12;"SP";"Santana de Parnaíba";1;"SIM";"FINALIZADO";6;3;1;250;15;275;2;2;2;2;8;2;2;0;4
+839;"Serra da Raiz";"Municipal";07/02/12;"PB";"Serra da Raiz";1;"SIM";"FINALIZADO";24;20;6;3;0;53;4;9;1;6;20;1;0;0;1
+840;"Água Boa";"Regional";08/02/12;"MG";"Água Boa, Cantagalo, Coroaci, Dores de Guanhães, Guanhães, José Raydan, Materlândia, Peçanha, Santa Maria do Suaçuí, São João Evangelista, São José do Jacuri, São Pedro do Suaçuí, São Sebastião do Maranhão, Senhora do Porto, Virginópolis";15;"SIM";"FINALIZADO";11;5;7;1;0;24;5;5;5;5;20;3;2;1;6
+841;"Betim ";"Municipal";08/02/12;"MG";"Betim ";1;"SIM";"FINALIZADO";53;142;33;2;4;234;5;5;5;5;20;8;2;1;11
+842;"Boqueirão do Leão";"Regional";08/02/12;"RS";"Boqueirão do Leão, Canudos do Vale, Cruzeiro do Sul, Forquetinha, Marques de Souza, Progresso, Santa Clara do Sul, Sério";8;"SIM";"FINALIZADO";13;17;1;4;0;35;7;3;4;6;20;2;5;1;8
+843;"Cachoeirinha ";"Municipal";08/02/12;"RS";"Cachoeirinha ";1;"SIM";"FINALIZADO";22;46;14;7;5;94;5;5;5;5;20;14;7;3;24
+844;"Campo Belo ";"Municipal";08/02/12;"MG";"Campo Belo ";1;"SIM";"FINALIZADO";22;64;14;4;1;105;5;4;6;5;20;3;2;1;6
+845;"Durandé ";"Municipal";08/02/12;"MG";"Durandé ";1;"SIM";"FINALIZADO";20;8;10;1;2;41;1;1;1;1;4;2;1;1;4
+846;"Fortuna de Minas";"Municipal";08/02/12;"MG";"Fortuna de Minas";1;"SIM";"FINALIZADO";30;18;15;0;0;63;3;4;3;1;11;1;1;1;3
+847;"Goianá";"Municipal";08/02/12;"MG";"Goianá";1;"SIM";"FINALIZADO";8;3;3;3;1;18;1;1;1;1;4;0;1;1;2
+848;"Guarabira ";"Municipal";08/02/12;"PB";"Guarabira ";1;"SIM";"FINALIZADO";20;20;10;0;0;50;7;5;6;1;19;2;1;2;5
+849;"Gurinhém";"Municipal";08/02/12;"PB";"Gurinhém";1;"SIM";"FINALIZADO";51;28;13;0;0;92;4;6;5;5;20;1;1;0;2
+850;"Ilhéus ";"Municipal";08/02/12;"BA";"Ilhéus ";1;"SIM";"FINALIZADO";48;14;10;15;0;87;5;5;5;5;20;6;3;1;10
+851;"Indiaporã";"Municipal";08/02/12;"SP";"Indiaporã";1;"SIM";"FINALIZADO";52;35;8;30;10;135;5;3;5;5;18;1;1;0;2
+852;"Lagoa Santa ";"Municipal";08/02/12;"MG";"Lagoa Santa ";1;"SIM";"FINALIZADO";78;40;14;96;36;264;1;3;3;3;10;6;4;2;12
+853;"Macaé";"Municipal";08/02/12;"RJ";"Macaé";1;"SIM";"FINALIZADO";53;107;16;3;4;183;5;5;5;5;20;6;1;1;8
+854;"Macuco ";"Municipal";08/02/12;"RJ";"Macuco ";1;"SIM";"FINALIZADO";12;39;4;2;0;57;7;6;2;5;20;1;1;1;3
+855;"Mateus Leme ";"Municipal";08/02/12;"MG";"Mateus Leme ";1;"SIM";"FINALIZADO";48;24;8;5;0;85;6;5;2;7;20;1;1;1;3
+856;"Matinhas";"Municipal";08/02/12;"PB";"Matinhas";1;"SIM";"FINALIZADO";5;17;2;0;1;25;3;2;5;3;13;1;0;0;1
+857;"Patrocínio";"Municipal";08/02/12;"MG";"Patrocínio";1;"SIM";"FINALIZADO";26;43;38;5;0;112;6;5;5;4;20;3;1;2;6
+858;"Pedra Branca do Amapari";"Municipal";08/02/12;"AP";"Pedra Branca do Amapari";1;"SIM";"FINALIZADO";67;37;5;5;3;117;2;8;5;5;20;8;4;2;14
+859;"Porto Acre";"Municipal";08/02/12;"AC";"Porto Acre";1;"SIM";"FINALIZADO";5;35;3;2;0;45;4;4;4;8;20;0;3;1;4
+860;"Rio Piracicaba";"Municipal";08/02/12;"MG";"Rio Piracicaba";1;"SIM";"FINALIZADO";22;6;1;29;3;61;4;2;2;2;10;1;1;2;4
+861;"São Gonçalo do Abaeté";"Municipal";08/02/12;"MG";"São Gonçalo do Abaeté";1;"SIM";"FINALIZADO";29;17;6;0;0;52;1;1;1;2;5;2;2;2;6
+862;"Silva Jardim ";"Municipal";08/02/12;"RJ";"Silva Jardim ";1;"SIM";"FINALIZADO";81;40;14;16;12;163;5;4;5;6;20;2;1;1;4
+863;"Abadia dos Dourados";"Regional";09/02/12;"MG";"Abadia dos Dourados, Araguari, Araporã, Cachoeira Dourada, Campina Verde, Canápolis, Capinópolis, Cascalho Rico, Centralina, Douradoquara, Estrela do Sul, Grupiara, Gurinhatã, Indianópolis, Ipiaçu, Iraí de Minas, Ituiutaba, Monte Alegre de Minas, Monte Carmelo, Prata";23;"SIM";"FINALIZADO";11;42;7;9;5;74;5;5;5;5;20;5;2;1;8
+864;"Alegrete";"Municipal";09/02/12;"RS";"Alegrete";1;"SIM";"FINALIZADO";45;35;12;5;13;110;6;7;3;3;19;10;6;3;19
+865;"Além Paraíba";"Regional";09/02/12;"MG";"Além Paraíba, Estrela Dalva, Santo Antônio do Aventureiro, Volta Grande";4;"SIM";"FINALIZADO";10;26;3;2;0;41;7;5;4;4;20;1;2;2;5
+866;"Aparecida";"Municipal";09/02/12;"PB";"Aparecida";1;"SIM";"FINALIZADO";14;6;4;6;9;39;1;1;3;2;7;1;0;0;1
+867;"Aquidabã";"Municipal";09/02/12;"SE";"Aquidabã";1;"SIM";"FINALIZADO";87;27;18;0;0;132;6;3;7;4;20;7;3;2;12
+868;"Arapiraca ";"Municipal";09/02/12;"AL";"Arapiraca ";1;"SIM";"FINALIZADO";90;45;10;10;32;187;4;5;6;5;20;18;7;3;28
+869;"Arapoti";"Regional";09/02/12;"PR";"Arapoti, Cândido de Abreu, Carambeí, Castro, Imbaú, Ipiranga, Ivaí, Jaguariaíva, Ortigueira, Palmeira, Piraí do Sul, Ponta Grossa, Porto Amazonas, Reserva, São João do Triunfo, Sengés, Tibagi, Ventania ";16;"SIM";"FINALIZADO";39;20;11;0;0;70;5;5;5;5;20;23;11;4;38
+870;"Arraial do Cabo";"Municipal";09/02/12;"RJ";"Arraial do Cabo";1;"SIM";"FINALIZADO";63;28;10;4;3;108;4;3;5;6;18;2;1;1;4
+871;"Barra Mansa";"Municipal";09/02/12;"RJ";"Barra Mansa";1;"SIM";"FINALIZADO";60;32;9;25;0;126;6;7;3;4;20;3;2;1;6
+872;"Bela Vista";"Regional";09/02/12;"MS";"Bela Vista, Bodoquena, Bonito, Caracol, Guia Lopes da Laguna, Jardim, Miranda, Nioaque, Porto Murtinho";9;"SIM";"FINALIZADO";43;46;13;0;0;102;4;4;4;4;16;21;12;3;36
+873;"Bocaiúva";"Regional";09/02/12;"MG";"Bocaiúva, Francisco Dumont, Gameleiras, Montes Claros, Porteirinha";5;"SIM";"FINALIZADO";28;54;14;1;1;98;9;3;4;3;19;4;2;0;6
+874;"Caetité ";"Municipal";09/02/12;"BA";"Caetité ";1;"SIM";"FINALIZADO";6;55;4;3;4;72;4;5;5;6;20;2;3;1;6
+875;"Canela";"Municipal";09/02/12;"RS";"Canela";1;"SIM";"FINALIZADO";8;11;4;2;2;27;2;2;2;2;8;3;2;1;6
+876;"Carrancas ";"Municipal";09/02/12;"MG";"Carrancas ";1;"SIM";"FINALIZADO";22;14;8;5;0;49;5;5;5;5;20;3;3;3;9
+877;"Embu ";"Municipal";09/02/12;"SP";"Embu ";1;"SIM";"FINALIZADO";60;41;68;1;0;170;6;2;6;6;20;3;1;1;5
+878;"Espigão D'Oeste";"Municipal";09/02/12;"RO";"Espigão D'Oeste";1;"SIM";"FINALIZADO";21;15;8;27;4;75;5;5;5;5;20;2;2;2;6
+879;"Guarulhos ";"Municipal";09/02/12;"SP";"Guarulhos ";1;"SIM";"FINALIZADO";49;29;10;15;4;107;4;6;2;8;20;8;8;4;20
+880;"Igrejinha";"Municipal";09/02/12;"RS";"Igrejinha";1;"SIM";"FINALIZADO";9;15;8;4;3;39;1;7;3;3;14;2;2;1;5
+881;"Imbé de Minas";"Municipal";09/02/12;"MG";"Imbé de Minas";1;"SIM";"FINALIZADO";4;9;9;3;2;27;2;1;1;1;5;1;1;1;3
+882;"Jequié ";"Municipal";09/02/12;"BA";"Jequié ";1;"SIM";"FINALIZADO";189;28;12;5;2;236;5;5;5;5;20;7;6;2;15
+883;"Lagoa da Prata";"Municipal";09/02/12;"MG";"Lagoa da Prata";1;"SIM";"FINALIZADO";46;20;6;0;2;74;7;4;5;4;20;2;2;2;6
+884;"Lagoa dos Gatos";"Municipal";09/02/12;"PE";"Lagoa dos Gatos";1;"SIM";"FINALIZADO";51;46;15;6;5;123;4;4;4;5;17;6;4;2;12
+885;"Leme ";"Municipal";09/02/12;"SP";"Leme ";1;"SIM";"FINALIZADO";33;16;24;2;0;75;6;8;3;3;20;3;1;1;5
+886;"Lima Duarte";"Municipal";09/02/12;"MG";"Lima Duarte";1;"SIM";"FINALIZADO";16;63;11;0;0;90;1;4;2;4;11;2;2;2;6
+887;"Macambira";"Municipal";09/02/12;"SE";"Macambira";1;"SIM";"FINALIZADO";60;21;16;30;22;149;5;5;6;4;20;1;1;2;4
+888;"Mossoró";"Regional";09/02/12;"RN";"Mossoró";1;"SIM";"FINALIZADO";31;45;10;0;5;91;6;5;5;4;20;10;6;1;17
+889;"Nossa Senhora da Glória";"Municipal";09/02/12;"SE";"Nossa Senhora da Glória";1;"SIM";"FINALIZADO";23;10;3;1;0;37;6;4;4;6;20;8;2;2;12
+890;"Rancharia ";"Municipal";09/02/12;"SP";"Rancharia ";1;"SIM";"FINALIZADO";40;31;16;0;6;93;5;5;5;5;20;2;2;1;5
+891;"Sabará";"Municipal";09/02/12;"MG";"Sabará";1;"SIM";"FINALIZADO";15;62;4;11;4;96;3;4;5;5;17;6;2;1;9
+892;"Santa Cruz do Capiberibe";"Municipal";09/02/12;"PE";"Santa Cruz do Capiberibe";1;"SIM";"FINALIZADO";52;10;3;2;0;67;5;5;5;5;20;7;2;2;11
+893;"Santa Maria do Pará";"Municipal";09/02/12;"PA";"Santa Maria do Pará";1;"SIM";"FINALIZADO";51;48;4;15;0;118;4;2;4;4;14;1;1;1;3
+894;"São Domingos do Prata";"Municipal";09/02/12;"MG";"São Domingos do Prata";1;"SIM";"FINALIZADO";5;16;10;8;5;44;1;1;1;1;4;1;1;1;3
+895;"Três Pontas";"Municipal";09/02/12;"MG";"Três Pontas";1;"SIM";"FINALIZADO";27;14;4;0;20;65;4;4;5;5;18;6;4;2;12
+896;"Caraíbas ";"Municipal";10/02/12;"BA";"Caraíbas ";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+897;"Conceição do Araguaia";"Municipal";10/02/12;"PA";"Conceição do Araguaia";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+898;"Córrego Fundo";"Municipal";10/02/12;"MG";"Córrego Fundo";1;"SIM";"NÃO RELATADA";;;;;;;;;;;0;;;;0
+899;"Ingá";"Municipal";10/02/12;"PB";"Ingá";1;"SIM";"NÃO RELATADA";;;;;;;;;;;0;;;;0
+900;"Alta Floresta";"Municipal";10/02/12;"MT";"Alta Floresta";1;"SIM";"FINALIZADO";78;60;11;0;0;149;3;7;4;6;20;3;2;2;7
+901;"Andradas";"Regional";10/02/12;"MG";"Andradas, Bandeira do Sul, Bom Repouso, Borda da Mata, Bueno Brandão, Cachoeira de Minas, Caldas, Camanducaía, Cambuí, Campestre, Careaçu, Congonhal, Corego do Bom Jesus, Divisa Nova, Espirito Santo do Dourado, Estiva, Estrema, Heliodora, Ibitiúra de Minas, Inconfidentes, Ipuiuna , Itapeva, Jacutinga, Monte Sião, Munhoz, Natércia, Ouro Fino, Poço Fundo, Pouso Alegre, Santa Rita de Caldas, Santa Rita do Sapucaí, São João da Mata, São Sebastião da Bela Vista, Senador Amaral, Senador José Bento, Silvianópolis, Tocos do Moji, Toledo, Turvolândia";39;"SIM";"FINALIZADO";53;68;14;0;0;135;3;3;3;3;12;8;4;1;13
+902;"Aquidauana";"Municipal";10/02/12;"MS";"Aquidauana";1;"SIM";"FINALIZADO";9;44;4;4;0;61;5;5;5;5;20;4;2;1;7
+903;"Atibaia ";"Municipal";10/02/12;"SP";"Atibaia ";1;"SIM";"FINALIZADO";34;12;12;5;0;63;5;5;5;5;20;5;1;2;8
+904;"Bananeiras";"Regional";10/02/12;"PB";"Bananeiras, Barra de Santana, Cabaceiras, Esperança, Pedras de Fogo, Queimadas, Santa Cecília, São Domingos do Cariri, São José dos Ramos";9;"SIM";"FINALIZADO";7;11;10;3;0;31;7;5;2;6;20;7;8;3;18
+905;"Belford Roxo";"Municipal";10/02/12;"RJ";"Belford Roxo";1;"SIM";"FINALIZADO";54;36;12;18;0;120;5;5;5;5;20;11;4;1;16
+906;"Boituva ";"Municipal";10/02/12;"SP";"Boituva ";1;"SIM";"FINALIZADO";72;14;0;0;0;86;5;5;5;5;20;6;3;1;10
+907;"Cabedelo";"Municipal";10/02/12;"PB";"Cabedelo";1;"SIM";"FINALIZADO";36;4;1;2;5;48;6;5;1;8;20;2;1;1;4
+908;"Capetinga";"Regional";10/02/12;"MG";"Capetinga, Capitólio, Carmo do Rio Claro, Cássia, Claraval, Delfinópolis, Fortaleza de Minas, Guapé, Ibiraci, Itaú de Minas, Passos, Pratápolis, São João Batista do Glória, São José da Barra, São Sebastião do Paraíso, São Tomás de Aquino";16;"SIM";"FINALIZADO";66;32;11;0;0;109;5;5;4;5;19;7;6;3;16
+909;"Caratinga";"Municipal";10/02/12;"MG";"Caratinga";1;"SIM";"FINALIZADO";221;242;65;16;38;582;4;4;4;7;19;3;2;1;6
+910;"Carmópolis";"Municipal";10/02/12;"SE";"Carmópolis";1;"SIM";"FINALIZADO";25;27;3;0;0;55;5;6;4;5;20;5;1;2;8
+911;"Caxias do Sul";"Municipal";10/02/12;"RS";"Caxias do Sul";1;"SIM";"FINALIZADO";31;25;11;10;1;78;3;3;4;4;14;6;3;1;10
+912;"Diadema ";"Municipal";10/02/12;"SP";"Diadema ";1;"SIM";"FINALIZADO";19;53;24;10;0;106;5;3;4;4;16;13;12;4;29
+913;"Ipatinga";"Municipal";10/02/12;"MG";"Ipatinga";1;"SIM";"FINALIZADO";67;139;14;4;2;226;5;5;5;5;20;5;3;1;9
+914;"Irecê";"Municipal";10/02/12;"BA";"Irecê";1;"SIM";"FINALIZADO";53;59;26;4;5;147;5;5;5;5;20;8;6;2;16
+915;"Jundiaí ";"Municipal";10/02/12;"SP";"Jundiaí ";1;"SIM";"FINALIZADO";88;28;13;0;3;132;5;3;6;6;20;6;2;2;10
+916;"Limoeiro de Anadia ";"Municipal";10/02/12;"AL";"Limoeiro de Anadia ";1;"SIM";"FINALIZADO";60;30;10;10;10;120;4;4;7;5;20;6;3;1;10
+917;"Luís Eduardo Magalhães ";"Municipal";10/02/12;"BA";"Luís Eduardo Magalhães ";1;"SIM";"FINALIZADO";15;37;8;15;5;80;5;5;5;5;20;5;5;1;11
+918;"Macapá ";"Livre";10/02/12;"AP";"Macapá - Museu Sacaca";0;"SIM";"FINALIZADO";38;4;6;0;0;48;10;0;0;0;10;0;0;0;0
+919;"Maricá";"Municipal";10/02/12;"RJ";"Maricá";1;"SIM";"FINALIZADO";18;19;5;0;1;43;3;3;3;3;12;3;2;1;6
+920;"Mendes";"Municipal";10/02/12;"RJ";"Mendes";1;"SIM";"FINALIZADO";23;12;4;11;5;55;4;5;7;4;20;2;1;1;4
+921;"Milagres";"Municipal";10/02/12;"BA";"Milagres";1;"SIM";"FINALIZADO";42;30;12;9;7;100;5;5;5;5;20;1;1;1;3
+922;"Mira Estrela";"Municipal";10/02/12;"SP";"Mira Estrela";1;"SIM";"FINALIZADO";38;24;5;7;0;74;3;3;3;3;12;1;1;1;3
+923;"Miracema";"Municipal";10/02/12;"RJ";"Miracema";1;"SIM";"FINALIZADO";13;4;6;10;2;35;2;2;3;4;11;2;1;1;4
+924;"Niterói";"Regional";10/02/12;"RJ";"Niterói, Mangaratiba";2;"SIM";"FINALIZADO";79;4;5;2;0;90;4;6;4;6;20;14;4;3;21
+925;"Paracambi";"Municipal";10/02/12;"RJ";"Paracambi";1;"SIM";"FINALIZADO";48;21;16;1;0;86;5;5;5;5;20;3;1;1;5
+926;"Penápolis ";"Municipal";10/02/12;"SP";"Penápolis ";1;"SIM";"FINALIZADO";15;12;10;132;1;170;4;4;4;6;18;3;1;1;5
+927;"Picos";"Regional";10/02/12;"PI";"Picos, Bocaina, Monsenhor Hipólito,São João da Canabrava, São João da Varjota e Paquetá. ";6;"SIM";"FINALIZADO";141;24;96;26;3;290;7;4;4;5;20;30;11;5;46
+928;"Pinheiral ";"Municipal";10/02/12;"RJ";"Pinheiral ";1;"SIM";"FINALIZADO";9;15;2;9;27;62;6;4;5;5;20;2;1;1;4
+929;"Piracaia";"Municipal";10/02/12;"SP";"Piracaia";1;"SIM";"FINALIZADO";11;29;4;2;1;47;5;5;5;5;20;3;1;1;5
+930;"Propriá";"Municipal";10/02/12;"SE";"Propriá";1;"SIM";"FINALIZADO";86;64;12;0;11;173;4;6;6;4;20;8;5;4;17
+931;"Rio Bonito ";"Municipal";10/02/12;"RJ";"Rio Bonito ";1;"SIM";"FINALIZADO";120;30;20;20;148;338;4;3;5;8;20;3;1;1;5
+932;"Rio das Flores ";"Municipal";10/02/12;"RJ";"Rio das Flores ";1;"SIM";"FINALIZADO";29;74;4;1;1;109;5;5;5;5;20;2;2;2;6
+933;"Santa Luzia";"Municipal";10/02/12;"MG";"Santa Luzia";1;"SIM";"FINALIZADO";7;77;2;5;0;91;5;5;4;6;20;6;2;1;9
+934;"Santa Rosa do Purus";"Municipal";10/02/12;"AC";"Santa Rosa do Purus";1;"SIM";"FINALIZADO";9;3;4;14;0;30;4;4;4;4;16;5;4;0;9
+935;"Santos";"Municipal";10/02/12;"SP";"Santos";1;"SIM";"FINALIZADO";88;36;7;2;8;141;6;5;5;4;20;12;6;2;20
+936;"São Carlos";"Municipal";10/02/12;"SP";"São Carlos";1;"SIM";"FINALIZADO";104;55;19;12;2;192;6;5;4;5;20;3;1;1;5
+937;"São Domingos do Pombal";"Municipal";10/02/12;"PB";"São Domingos do Pombal";1;"SIM";"FINALIZADO";16;9;4;1;0;30;3;5;2;2;12;1;0;0;1
+938;"São João del Rei";"Municipal";10/02/12;"MG";"São João del Rei";1;"SIM";"FINALIZADO";17;8;3;3;2;33;5;4;3;5;17;3;1;1;5
+939;"São José da Lapa";"Municipal";10/02/12;"MG";"São José da Lapa";1;"SIM";"FINALIZADO";23;13;3;0;0;39;5;3;6;6;20;2;2;1;5
+940;"Sinop";"Municipal";10/02/12;"MT";"Sinop";1;"SIM";"FINALIZADO";92;18;31;0;10;151;4;3;3;10;20;16;0;0;16
+941;"Sumidouro";"Municipal";10/02/12;"RJ";"Sumidouro";1;"SIM";"FINALIZADO";6;3;1;11;30;51;5;5;5;5;20;1;1;1;3
+942;"Taiobeiras";"Municipal";10/02/12;"MG";"Taiobeiras";1;"SIM";"FINALIZADO";23;37;10;35;27;132;3;3;3;3;12;6;4;2;12
+943;"Uberaba";"Regional";10/02/12;"MG";"Uberaba, Água Comprida, Campo Florido, Comendador Gomes, Conceição das Alagoas, Conquista, Delta, Nova Ponte, Planura, Sacramento, Santa Juliana, Veríssimo ";12;"SIM";"FINALIZADO";18;29;31;20;74;172;7;4;4;5;20;6;4;2;12
+944;"Uberlândia ";"Municipal";10/02/12;"MG";"Uberlândia ";1;"SIM";"FINALIZADO";58;7;3;5;2;75;4;4;4;4;16;9;4;1;14
+945;"Vermelho Novo";"Municipal";10/02/12;"MG";"Vermelho Novo";1;"SIM";"FINALIZADO";29;8;4;0;0;41;5;5;5;5;20;1;1;1;3
+946;"Volta Redonda";"Municipal";10/02/12;"RJ";"Volta Redonda";1;"SIM";"FINALIZADO";38;15;10;3;2;68;7;6;3;4;20;6;3;1;10
+947;"Baião";"Regional";11/02/12;"PA";"Baião, Barcarena, Cametá, Limoeiro do Ajuru, Mocajuba, Moju, Oeiras do Pará";7;"SIM";"FINALIZADO";54;28;17;9;0;108;5;5;5;5;20;19;11;4;34
+948;"Boa Esperança";"Municipal";11/02/12;"MG";"Boa Esperança";1;"SIM";"FINALIZADO";61;31;11;21;12;136;4;2;1;3;10;1;1;1;3
+949;"Brasília";"Regional";11/02/12;"DF";"Brasília, Sudoeste/Octogonal";1;"SIM";"FINALIZADO";122;35;24;0;0;181;5;5;3;7;20;33;0;7;40
+950;"Ceilândia";"Municipal";11/02/12;"DF";"Ceilândia";1;"SIM";"FINALIZADO";115;18;20;0;0;153;1;4;8;7;20;51;0;9;60
+951;"Cotia";"Livre";11/02/12;"SP";"Cotia";0;"SIM";"FINALIZADO";20;0;0;0;0;20;1;1;2;6;10;0;0;0;0
+952;"Eldorado do Sul";"Municipal";11/02/12;"RS";"Eldorado do Sul";1;"SIM";"FINALIZADO";27;1;1;3;1;33;4;4;1;1;10;7;1;1;9
+953;"Gurupá ";"Municipal";11/02/12;"PA";"Gurupá ";1;"SIM";"FINALIZADO";77;6;6;10;5;104;4;4;3;3;14;2;1;1;4
+954;"Japeri";"Municipal";11/02/12;"RJ";"Japeri";1;"SIM";"FINALIZADO";65;62;15;60;20;222;4;4;3;9;20;3;1;1;5
+955;"Juiz de Fora";"Municipal";11/02/12;"MG";"Juiz de Fora";1;"SIM";"FINALIZADO";56;15;8;3;26;108;4;6;3;5;18;9;4;2;15
+956;"Monte Alto";"Municipal";11/02/12;"SP";"Monte Alto";1;"SIM";"FINALIZADO";21;16;45;2;0;84;5;5;5;5;20;4;4;0;8
+957;"Osasco ";"Municipal";11/02/12;"SP";"Osasco ";1;"SIM";"FINALIZADO";33;112;22;8;21;196;5;4;5;4;18;6;5;2;13
+958;"Petrópolis";"Municipal";11/02/12;"RJ";"Petrópolis";1;"SIM";"FINALIZADO";22;29;9;1;1;62;5;5;5;5;20;6;3;1;10
+959;"Porto Real";"Municipal";11/02/12;"RJ";"Porto Real";1;"SIM";"FINALIZADO";4;4;11;0;0;19;3;2;2;3;10;2;1;1;4
+960;"Recanto das Emas";"Regional";11/02/12;"DF";"Recanto das Emas, Riacho Fundo, Riacho Fundo II";3;"SIM";"FINALIZADO";132;38;59;0;0;229;7;4;6;3;20;21;0;4;25
+961;"Resende";"Municipal";11/02/12;"RJ";"Resende";1;"SIM";"FINALIZADO";47;97;24;3;0;171;5;6;3;6;20;3;2;1;6
+962;"São José do Rio Preto ";"Municipal";11/02/12;"SP";"São José do Rio Preto ";1;"SIM";"FINALIZADO";41;17;7;10;8;83;2;6;6;6;20;6;3;1;10
+963;"São Paulo";"Livre";11/02/12;"SP";"São Paulo";0;"SIM";"FINALIZADO";13;0;0;0;0;13;1;5;0;4;10;0;0;0;0
+964;"São Pedro da Aldeia";"Municipal";11/02/12;"RJ";"São Pedro da Aldeia";1;"SIM";"FINALIZADO";121;109;11;5;2;248;5;4;5;5;19;3;1;1;5
+965;"Sobradinho";"Regional";11/02/12;"DF";"Sobradinho, Sobradinho II";1;"SIM";"FINALIZADO";156;22;27;0;0;205;4;7;2;7;20;21;0;3;24
+966;"Teresópolis ";"Municipal";11/02/12;"RJ";"Teresópolis ";1;"SIM";"FINALIZADO";20;4;7;10;2;43;3;5;4;8;20;3;2;1;6
+967;"Valinhos";"Livre";11/02/12;"SP";"Valinhos";0;"SIM";"FINALIZADO";23;2;0;0;0;25;5;0;5;0;10;0;0;0;0
+968;"Ribeirão das Neves ";"Municipal";12/02/12;"MG";"Ribeirão das Neves ";1;"SIM";"FINALIZADO";45;0;2;5;2;54;5;5;4;2;16;20;0;2;22
+969;"Apucarana";"Regional";13/02/12;"PR";"Apucarana, Arapuã, Ariranha do Ivaí, Bom Sucesso, Borrazópolis, Califórnia, Cambira, Cruzmaltina, Faxinal, Godoy Moreira, Grandes Rios, Ivaiporã, Jandaia do Sul, Jardim Alegre, Kaloré, Lidianópolis, Lunardelli, Marilândia do Sul, Marumbi, Mauá da Serra, Novo Itacolomi, Rio Bom, Rio Branco do Ivaí, São João do Ivaí, São Pedro do Ivaí ";25;"SIM";"FINALIZADO";35;28;10;15;12;100;5;5;5;5;20;7;5;2;14
+970;"Barão de Cocais";"Municipal";13/02/12;"MG";"Barão de Cocais";1;"SIM";"FINALIZADO";48;24;8;4;17;101;5;5;5;5;20;3;2;2;7
+971;"Cabo Frio ";"Municipal";13/02/12;"RJ";"Cabo Frio ";1;"SIM";"FINALIZADO";72;23;12;17;3;127;3;6;5;6;20;3;2;1;6
+972;"Cachoeiras de Macacu ";"Municipal";13/02/12;"RJ";"Cachoeiras de Macacu ";1;"SIM";"FINALIZADO";36;34;3;73;63;209;1;1;2;4;8;3;1;1;5
+973;"Contagem ";"Municipal";13/02/12;"MG";"Contagem ";1;"SIM";"FINALIZADO";41;33;28;2;1;105;4;4;3;3;14;7;5;3;15
+974;"Itabira";"Municipal";13/02/12;"MG";"Itabira";1;"SIM";"FINALIZADO";60;29;10;14;8;121;4;6;4;6;20;5;3;1;9
+975;"Jaguaquara";"Municipal";13/02/12;"BA";"Jaguaquara";1;"SIM";"FINALIZADO";34;61;8;2;21;126;5;5;5;5;20;6;3;1;10
+976;"Narandiba";"Municipal";13/02/12;"SP";"Narandiba";1;"SIM";"FINALIZADO";53;15;1;2;3;74;1;7;1;1;10;1;1;1;3
+977;"Nova Friburgo";"Municipal";13/02/12;"RJ";"Nova Friburgo";1;"SIM";"FINALIZADO";8;7;2;54;1;72;5;5;5;5;20;3;2;1;6
+978;"Oliveira";"Municipal";13/02/12;"MG";"Oliveira";1;"SIM";"FINALIZADO";0;5;0;2;0;7;1;1;1;1;4;0;1;0;1
+979;"Parati";"Municipal";13/02/12;"RJ";"Parati";1;"SIM";"FINALIZADO";29;47;12;88;29;205;5;5;7;3;20;3;1;1;5
+980;"Rio de Janeiro";"Municipal";13/02/12;"RJ";"Rio de Janeiro";1;"SIM";"FINALIZADO";163;74;24;0;28;289;5;4;1;10;20;52;13;7;72
+981;"São Leopoldo";"Municipal";13/02/12;"RS";"São Leopoldo";1;"SIM";"FINALIZADO";42;21;6;10;78;157;3;4;3;3;13;17;9;3;29
+982;"São Miguel do Aleixo";"Municipal";13/02/12;"SE";"São Miguel do Aleixo";1;"SIM";"FINALIZADO";25;15;15;10;7;72;4;4;4;4;16;7;2;3;12
+983;"Ouro Branco";"Municipal";14/02/12;"MG";"Ouro Branco";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+984;"Taperoá ";"Municipal";14/02/12;"BA";"Taperoá ";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+985;"Araraquara ";"Municipal";14/02/12;"SP";"Araraquara ";1;"SIM";"FINALIZADO";48;44;15;0;0;107;5;5;5;5;20;6;3;1;10
+986;"Araruama ";"Municipal";14/02/12;"RJ";"Araruama ";1;"SIM";"FINALIZADO";72;36;12;36;38;194;4;4;5;7;20;3;2;1;6
+987;"Ariquemes";"Regional";14/02/12;"RO";"Ariquemes, Alto Paraíso, Cujubim, Campo Novo, Itapoã d'Oeste, Machadinho, Monte negro, Theobroma";8;"SIM";"FINALIZADO";9;26;14;2;0;51;5;5;6;4;20;7;6;8;21
+988;"Concórdia do Pará";"Municipal";14/02/12;"PA";"Concórdia do Pará";1;"SIM";"FINALIZADO";183;28;10;11;12;244;5;5;5;5;20;4;0;0;4
+989;"Conselheiro Lafaiete";"Regional";14/02/12;"MG";"Conselheiro Lafaiete, Belo Vale, Congonhas, Entre Rios de Minas, Jeceaba, Ouro Branco, Sõa Brás do Suaçuí";7;"SIM";"FINALIZADO";44;72;16;0;0;132;3;5;6;5;19;8;6;6;20
+990;"Cordeiro ";"Municipal";14/02/12;"RJ";"Cordeiro ";1;"SIM";"FINALIZADO";18;32;8;27;23;108;5;5;5;5;20;1;1;1;3
+991;"Divina Pastora";"Municipal";14/02/12;"SE";"Divina Pastora";1;"SIM";"FINALIZADO";60;24;7;0;0;91;4;4;4;4;16;1;1;1;3
+992;"Dona Inês";"Municipal";14/02/12;"PB";"Dona Inês";1;"SIM";"FINALIZADO";51;14;32;5;0;102;1;1;2;4;8;1;0;1;2
+993;"Itajobi ";"Municipal";14/02/12;"SP";"Itajobi ";1;"SIM";"FINALIZADO";24;12;4;195;73;308;2;8;7;3;20;3;1;1;5
+994;"Leme do Prado";"Municipal";14/02/12;"MG";"Leme do Prado";1;"SIM";"FINALIZADO";48;19;10;5;3;85;1;1;3;1;6;1;1;1;3
+995;"Marapoama";"Municipal";14/02/12;"SP";"Marapoama";1;"SIM";"FINALIZADO";27;13;5;3;3;51;1;1;1;3;6;0;1;1;2
+996;"Miguel Pereira";"Regional";14/02/12;"RJ";"Miguel Pereira, Paty do Alferes, Vassouras ";3;"SIM";"FINALIZADO";34;26;19;3;3;85;3;4;7;6;20;7;3;3;13
+997;"Murici";"Regional";14/02/12;"AL";"Murici, Branquinha";2;"SIM";"FINALIZADO";53;30;9;19;10;121;4;5;6;5;20;10;5;2;17
+998;"Nova Castilho";"Regional";14/02/12;"SP";"Nova Castilho, São João de Iracema";2;"SIM";"FINALIZADO";35;9;49;0;0;93;6;3;4;3;16;4;1;0;5
+999;"Nova Cruz";"Regional";14/02/12;"RN";"Nova Cruz";1;"SIM";"FINALIZADO";21;27;13;5;0;66;5;6;3;6;20;10;8;5;23
+1000;"Paulista";"Municipal";14/02/12;"PE";"Paulista";1;"SIM";"FINALIZADO";56;39;8;26;0;129;7;7;3;3;20;16;11;2;29
+1001;"Paulo Afonso ";"Municipal";14/02/12;"BA";"Paulo Afonso ";1;"SIM";"FINALIZADO";28;56;4;13;7;108;5;5;5;5;20;1;0;0;1
+1002;"Poços de Caldas";"Municipal";14/02/12;"MG";"Poços de Caldas";1;"SIM";"FINALIZADO";87;42;6;0;0;135;5;5;4;6;20;10;6;2;18
+1003;"Recife ";"Municipal";14/02/12;"PE";"Recife ";1;"SIM";"FINALIZADO";85;47;14;10;8;164;1;9;4;6;20;29;14;9;52
+1004;"Santo Antônio de Jesus";"Municipal";14/02/12;"BA";"Santo Antônio de Jesus";1;"SIM";"FINALIZADO";45;49;7;50;43;194;7;4;4;5;20;12;6;2;20
+1005;"São Bento do Una";"Municipal";14/02/12;"PE";"São Bento do Una";1;"SIM";"FINALIZADO";75;52;25;7;2;161;3;4;4;1;12;1;1;1;3
+1006;"São José de Ubá ";"Municipal";14/02/12;"RJ";"São José de Ubá ";1;"SIM";"FINALIZADO";48;40;15;10;8;121;5;5;5;5;20;2;2;2;6
+1007;"Sete Lagoas";"Municipal";14/02/12;"MG";"Sete Lagoas";1;"SIM";"FINALIZADO";86;96;28;7;0;217;6;4;4;6;20;7;5;2;14
+1008;"Tanguá ";"Municipal";14/02/12;"RJ";"Tanguá ";1;"SIM";"FINALIZADO";3;1;1;0;0;5;6;5;5;4;20;3;1;1;5
+1009;"União dos Palmares ";"Municipal";14/02/12;"AL";"União dos Palmares ";1;"SIM";"FINALIZADO";31;26;8;2;0;67;4;6;6;4;20;12;2;2;16
+1010;"Varginha";"Municipal";14/02/12;"MG";"Varginha";1;"SIM";"FINALIZADO";26;36;12;1;18;93;9;3;5;3;20;5;2;1;8
+1011;"Ituberá";"Municipal";15/02/12;"BA";"Ituberá";1;"SIM";"FINALIZADO";21;53;12;3;3;92;5;5;5;5;20;4;3;1;8
+1012;"Redenção";"Municipal";15/02/12;"PA";"Redenção";1;"SIM";"FINALIZADO";28;83;6;19;6;142;6;5;3;3;17;6;3;1;10
+1013;"Teixeira";"Municipal";15/02/12;"PB";"Teixeira";1;"SIM";"NÃO RELATADA";;;;;;;;;;;0;;;;0
+1014;"Angatuba ";"Municipal";15/02/12;"SP";"Angatuba ";1;"SIM";"FINALIZADO";12;6;2;15;2;37;1;3;4;1;9;2;0;0;2
+1015;"Arroio do Padre";"Regional";15/02/12;"RS";"Arroio do Padre, Arroio Grande, Canguçu, Capão do Leão, Cerrito, Chuí, Herval, Morro Redondo, Pedras Altas, Pedro Osório, Pelotas, Pinheiro Machado, Piratini, Santa Vitória do Palmar, São José do Norte, São Lourenço do Sul, Turuçu";17;"SIM";"FINALIZADO";121;64;24;5;2;216;;;;;0;14;8;4;26
+1016;"Barueri ";"Municipal";15/02/12;"SP";"Barueri ";1;"SIM";"FINALIZADO";28;17;6;0;0;51;5;3;4;5;17;3;1;1;5
+1017;"Belém do Brejo do Cruz";"Municipal";15/02/12;"PB";"Belém do Brejo do Cruz";1;"SIM";"FINALIZADO";32;27;9;3;2;73;5;5;5;5;20;2;0;0;2
+1018;"Calumbi";"Regional";15/02/12;"PE";"Calumbi, Santa Cruz da Baixa Verde, São José do Belmonte, Serra Talhada, Triunfo";5;"SIM";"FINALIZADO";91;12;4;0;0;107;4;5;5;6;20;6;2;1;9
+1019;"Duque de Caxias";"Municipal";15/02/12;"RJ";"Duque de Caxias";1;"SIM";"FINALIZADO";120;60;20;12;30;242;4;5;7;4;20;10;4;2;16
+1020;"General Maynard";"Municipal";15/02/12;"SE";"General Maynard";1;"SIM";"FINALIZADO";28;44;14;4;0;90;5;2;3;10;20;9;1;3;13
+1021;"Granito";"Municipal";15/02/12;"PE";"Granito";1;"SIM";"FINALIZADO";46;21;8;6;0;81;5;5;5;5;20;6;3;1;10
+1022;"Holambra ";"Livre";15/02/12;"SP";"Holambra ";0;"SIM";"FINALIZADO";32;6;1;0;0;39;8;0;0;2;10;0;0;0;0
+1023;"Itapetininga ";"Municipal";15/02/12;"SP";"Itapetininga ";1;"SIM";"FINALIZADO";13;3;3;4;2;25;6;6;3;2;17;0;1;0;1
+1024;"Itiquira";"Municipal";15/02/12;"MT";"Itiquira";1;"SIM";"FINALIZADO";1;1;1;1;1;5;4;2;4;10;20;0;1;0;1
+1025;"Jaguarão";"Municipal";15/02/12;"RS";"Jaguarão";1;"SIM";"FINALIZADO";5;28;3;0;0;36;2;2;5;2;11;1;2;1;4
+1026;"Macapá ";"Livre";15/02/12;"AP";"Macapá - FAMA";0;"SIM";"FINALIZADO";105;11;2;0;0;118;0;0;0;10;10;0;0;0;0
+1027;"Santo Antônio de Pádua ";"Municipal";15/02/12;"RJ";"Santo Antônio de Pádua ";1;"SIM";"FINALIZADO";14;7;20;11;2;54;6;5;4;5;20;3;1;1;5
+1028;"Serrolândia ";"Municipal";15/02/12;"BA";"Serrolândia ";1;"SIM";"FINALIZADO";6;23;9;1;8;47;5;1;5;5;16;2;2;2;6
+1029;"Cordeiros";"Municipal";16/02/12;"BA";"Cordeiros";1;"SIM";"FINALIZADO";70;40;10;5;0;125;1;1;1;1;4;0;1;0;1
+1030;"Armação dos Búzios";"Municipal";16/02/12;"RJ";"Armação dos Búzios";1;"SIM";"FINALIZADO";60;30;23;10;0;123;5;5;6;4;20;4;2;1;7
+1031;"Chapada dos Guimarães";"Municipal";16/02/12;"MT";"Chapada dos Guimarães";1;"SIM";"FINALIZADO";0;0;0;0;1;1;6;3;1;5;15;1;0;0;1
+1032;"Curitiba";"Livre";16/02/12;"PR";"Curitiba";0;"SIM";"FINALIZADO";1;39;0;0;0;40;0;0;0;10;10;0;0;0;0
+1033;"Gararu";"Municipal";16/02/12;"SE";"Gararu";1;"SIM";"FINALIZADO";115;8;10;16;12;161;2;5;6;7;20;9;2;2;13
+1034;"Itaguaí";"Municipal";16/02/12;"RJ";"Itaguaí";1;"SIM";"FINALIZADO";15;5;3;10;10;43;2;1;2;3;8;2;1;2;5
+1035;"Macapá ";"Livre";16/02/12;"AP";"Macapá - CRC";0;"SIM";"FINALIZADO";30;3;1;0;0;34;0;0;0;10;10;0;0;0;0
+1036;"Natal";"Regional";16/02/12;"RN";"Natal";1;"SIM";"FINALIZADO";113;27;15;8;10;173;6;5;6;3;20;40;13;7;60
+1037;"Nova Iguaçu ";"Municipal";16/02/12;"RJ";"Nova Iguaçu ";1;"SIM";"FINALIZADO";74;59;7;5;0;145;6;6;4;4;20;11;4;1;16
+1038;"Nova Timboteua";"Municipal";16/02/12;"PA";"Nova Timboteua";1;"SIM";"FINALIZADO";20;19;9;16;10;74;4;4;5;2;15;1;1;1;3
+1039;"Palmas";"Livre";16/02/12;"TO";"Palmas";0;"SIM";"FINALIZADO";10;0;10;0;0;20;0;0;7;0;7;0;0;0;0
+1040;"Santa Fé do Sul";"Municipal";16/02/12;"SP";"Santa Fé do Sul";1;"SIM";"FINALIZADO";24;35;4;0;0;63;3;4;5;5;17;2;1;0;3
+1041;"Taquarivarí";"Municipal";16/02/12;"SP";"Taquarivarí";1;"SIM";"FINALIZADO";21;10;2;5;2;40;3;4;1;6;14;0;4;0;4
+1042;"Taubaté";"Municipal";16/02/12;"SP";"Taubaté";1;"SIM";"FINALIZADO";18;24;9;8;38;97;5;4;4;7;20;3;1;1;5
+1043;"Vargem Grande do Sul ";"Municipal";16/02/12;"SP";"Vargem Grande do Sul ";1;"SIM";"FINALIZADO";18;11;4;1;0;34;2;2;2;5;11;5;3;2;10
+1044;"Serra do Navio";"Municipal";17/02/12;"AP";"Serra do Navio";1;"SIM";"NÃO RELATADA";;;;;;;;;;;0;;;;0
+1045;"Branco do Sul";"Municipal";17/02/12;"AP";"Branco do Sul, São José dos Pinhais, Tunas do Paraná";1;"SIM";"FINALIZADO";13;12;0;0;0;25;5;6;1;3;15;6;3;1;10
+1046;"Calçoene";"Municipal";17/02/12;"AP";"Calçoene";1;"SIM";"FINALIZADO";32;15;13;4;3;67;3;4;3;10;20;6;3;1;10
+1047;"Campos de Julho";"Municipal";17/02/12;"MT";"Campos de Julho";1;"SIM";"FINALIZADO";1;0;0;0;0;0;1;2;9;6;18;0;1;0;1
+1048;"Curitiba";"Livre";17/02/12;"PR";"Curitiba";0;"SIM";"FINALIZADO";17;2;0;0;0;19;4;2;2;1;9;0;0;0;0
+1049;"Garanhuns";"Municipal";17/02/12;"PE";"Garanhuns";1;"SIM";"FINALIZADO";25;30;7;5;10;77;2;4;5;5;16;6;3;1;10
+1050;"Juquiá";"Municipal";17/02/12;"SP";"Juquiá";1;"SIM";"FINALIZADO";26;11;6;31;11;85;2;3;2;1;8;0;0;1;1
+1051;"Limeira";"Municipal";17/02/12;"SP";"Limeira";1;"SIM";"FINALIZADO";55;0;0;0;0;55;2;2;1;1;6;12;0;0;12
+1052;"Marília";"Municipal";17/02/12;"SP";"Marília";1;"SIM";"FINALIZADO";22;0;5;6;0;33;9;5;4;2;20;5;0;5;10
+1053;"Oiapoque";"Municipal";17/02/12;"AP";"Oiapoque";1;"SIM";"FINALIZADO";42;31;13;3;3;92;3;5;5;7;20;12;6;2;20
+1054;"São João do Araguaia";"Municipal";17/02/12;"PA";"São João do Araguaia";1;"SIM";"FINALIZADO";57;14;5;11;11;98;2;4;2;4;12;1;1;0;2
+1055;"Sete Barras";"Municipal";17/02/12;"SP";"Sete Barras";1;"SIM";"FINALIZADO";19;4;6;1;0;30;6;6;5;3;20;6;2;2;10
+1056;"Gracho Cardoso";"Municipal";21/02/12;"SE";"Gracho Cardoso";1;"SIM";"FINALIZADO";22;15;2;10;4;53;6;2;7;5;20;9;2;2;13
+1057;"Adamantina ";"Municipal";23/02/12;"SP";"Adamantina ";1;"SIM";"FINALIZADO";36;24;24;10;5;99;5;5;5;5;20;1;2;2;5
+1058;"Entre Rios ";"Municipal";23/02/12;"BA";"Entre Rios ";1;"SIM";"FINALIZADO";88;31;6;21;0;146;5;4;4;7;20;7;3;2;12
+1059;"Frei Paulo";"Municipal";23/02/12;"SE";"Frei Paulo";1;"SIM";"FINALIZADO";17;54;8;13;0;92;3;6;5;6;20;6;1;2;9
+1060;"Guaratinguetá";"Municipal";23/02/12;"SP";"Guaratinguetá";1;"SIM";"FINALIZADO";10;5;1;1;1;18;5;5;5;5;20;3;1;1;5
+1061;"Pinhão";"Municipal";23/02/12;"SE";"Pinhão";1;"SIM";"FINALIZADO";80;31;7;8;14;140;7;4;5;4;20;3;4;1;8
+1062;"Regente Feijó";"Municipal";23/02/12;"SP";"Regente Feijó";1;"SIM";"FINALIZADO";30;15;3;48;0;96;2;2;1;2;7;6;2;2;10
+1063;"Cardoso";"Municipal";24/02/12;"SP";"Cardoso";1;"SIM";"FINALIZADO";25;56;0;20;5;106;2;1;1;1;5;1;1;0;2
+1064;"Paranhos";"Livre";24/02/12;"MS";"Paranhos";0;"SIM";"FINALIZADO";2;9;1;0;0;12;3;3;4;3;13;0;0;0;0
+1065;"Anhumas";"Municipal";24/02/12;"SP";"Anhumas";1;"SIM";"FINALIZADO";35;31;13;0;0;79;2;2;3;1;8;4;2;2;8
+1066;"Itapura";"Municipal";24/02/12;"SP";"Itapura";1;"SIM";"FINALIZADO";7;11;13;0;0;31;2;2;1;1;6;1;1;0;2
+1067;"Nova União";"Municipal";24/02/12;"RO";"Nova União";1;"SIM";"FINALIZADO";14;9;5;0;0;28;5;3;2;3;13;1;1;1;3
+1068;"Ourinhos";"Municipal";24/02/12;"SP";"Ourinhos";1;"SIM";"FINALIZADO";23;65;16;9;0;113;5;2;8;5;20;3;1;1;5
+1069;"Palmeira dos Índios ";"Municipal";24/02/12;"AL";"Palmeira dos Índios ";1;"SIM";"FINALIZADO";120;60;11;20;5;216;5;7;2;6;20;11;6;2;19
+1070;"Planalto";"Municipal";24/02/12;"BA";"Planalto";1;"SIM";"FINALIZADO";20;10;15;5;0;50;1;1;1;1;4;1;1;1;3
+1071;"Porto da Folha";"Municipal";24/02/12;"SE";"Porto da Folha";1;"SIM";"FINALIZADO";141;22;3;1;0;167;6;5;4;5;20;7;3;2;12
+1072;"Porto Ferreira";"Municipal";24/02/12;"SP";"Porto Ferreira";1;"SIM";"FINALIZADO";19;18;7;4;10;58;8;2;3;7;20;5;3;2;10
+1073;"Registro";"Municipal";24/02/12;"SP";"Registro";1;"SIM";"FINALIZADO";36;26;12;0;0;74;5;3;2;4;14;3;1;1;5
+1074;"São José dos Campos";"Livre";24/02/12;"SP";"São José dos Campos";0;"SIM";"FINALIZADO";15;1;0;0;0;16;0;2;0;0;2;0;0;0;0
+1075;"São Vicente ";"Municipal";24/02/12;"SP";"São Vicente ";1;"SIM";"FINALIZADO";52;16;12;5;7;92;3;6;5;4;18;6;2;2;10
+1076;"Várzea Paulista ";"Municipal";24/02/12;"SP";"Várzea Paulista ";1;"SIM";"FINALIZADO";28;72;21;4;17;142;5;5;5;5;20;3;2;1;6
+1077;"Vitória da Conquista ";"Municipal";24/02/12;"BA";"Vitória da Conquista ";1;"SIM";"FINALIZADO";61;38;22;3;4;128;5;5;5;5;20;12;6;2;20
+1078;"Votuporanga";"Regional";24/02/12;"SP";"Votuporanga, Álvares Florence, Américo de Campos, Cosmorama, Floreal, Gastão Vidigal, General Salgado, Macaubal, Magda, Monções, Nhandeara, Pontes Gestal, Riolândia, Sebastianópolis do Sul, Valentim Gentil";15;"SIM";"FINALIZADO";44;61;20;11;0;136;5;5;5;5;20;22;6;3;31
+1079;"Boa Vista";"Estadual";24/02/12;"RR";"Boa Vista";0;"SIM";"FINALIZADO";38;11;5;57;4;115;2;4;2;12;20;18;7;3;28
+1080;"Paulínia";"Municipal";25/02/12;"SP";"Paulínia";1;"SIM";"FINALIZADO";37;2;3;1;0;43;6;2;8;4;20;2;1;2;5
+1081;"Porto Feliz";"Municipal";25/02/12;"SP";"Porto Feliz";1;"SIM";"FINALIZADO";78;105;12;10;5;210;5;5;5;5;20;3;2;0;5
+1082;"Presidente Prudente";"Regional";25/02/12;"SP";"Presidente Prudente, Nates";3;"SIM";"FINALIZADO";25;6;11;34;3;79;8;5;3;4;20;9;5;1;15
+1083;"Ribeirão Grande";"Municipal";25/02/12;"SP";"Ribeirão Grande";1;"SIM";"FINALIZADO";83;38;10;0;0;131;3;5;4;2;14;7;7;0;14
+1084;"Santa Bárbara d'Oeste ";"Municipal";25/02/12;"SP";"Santa Bárbara d'Oeste ";1;"SIM";"FINALIZADO";14;10;3;0;0;27;5;3;4;8;20;2;2;2;6
+1085;"São Paulo";"Livre";25/02/12;"SP";"São Paulo";0;"SIM";"FINALIZADO";18;0;0;0;0;18;3;4;1;2;10;0;0;0;0
+1086;"Suzano ";"Municipal";25/02/12;"SP";"Suzano ";1;"SIM";"FINALIZADO";118;60;11;12;0;201;7;4;3;6;20;10;7;4;21
+1087;"Vitória da Conquista ";"Livre";25/02/12;"BA";"Vitória da Conquista ";0;"SIM";"FINALIZADO";25;8;0;0;0;33;0;0;0;3;3;0;0;0;0
+1088;"Candeias do Jamari";"Municipal";26/02/12;"RO";"Candeias do Jamari";1;"SIM";"FINALIZADO";35;4;10;5;5;59;5;5;4;6;20;1;1;1;3
+1089;"Carnaubeira da Penha";"Municipal";26/02/12;"PE";"Carnaubeira da Penha";1;"SIM";"FINALIZADO";193;1;5;1;0;200;4;1;4;3;12;2;1;1;4
+1090;"Mauá ";"Municipal";26/02/12;"SP";"Mauá ";1;"SIM";"FINALIZADO";72;30;32;10;9;153;3;4;6;7;20;3;1;1;5
+1091;"Araci";"Municipal";27/02/12;"BA";"Araci";1;"SIM";"FINALIZADO";52;26;10;12;12;112;5;5;5;5;20;3;2;1;6
+1092;"Caculé ";"Municipal";27/02/12;"BA";"Caculé ";1;"SIM";"FINALIZADO";75;14;5;31;7;132;1;2;3;2;8;0;1;0;1
+1093;"Caraguatatuba";"Municipal";27/02/12;"SP";"Caraguatatuba";1;"SIM";"FINALIZADO";115;64;19;28;8;234;5;5;5;5;20;3;1;1;5
+1094;"Espírito Santo do Pinhal";"Municipal";27/02/12;"SP";"Espírito Santo do Pinhal";1;"SIM";"FINALIZADO";38;30;24;4;0;96;4;3;4;9;20;6;2;2;10
+1095;"Eunápolis";"Municipal";27/02/12;"BA";"Eunápolis";1;"SIM";"FINALIZADO";27;90;13;9;4;143;5;4;5;2;16;3;2;1;6
+1096;"Feira de Santana ";"Municipal";27/02/12;"BA";"Feira de Santana ";1;"SIM";"FINALIZADO";44;30;8;5;29;116;4;5;5;6;20;16;8;3;27
+1097;"Lençóis Paulista";"Municipal";27/02/12;"SP";"Lençóis Paulista";1;"SIM";"FINALIZADO";13;17;3;0;2;35;4;4;5;7;20;4;2;1;7
+1098;"Lindóia";"Municipal";27/02/12;"SP";"Lindóia";1;"SIM";"FINALIZADO";8;27;15;0;0;50;5;5;5;5;20;3;1;1;5
+1099;"Maraú";"Municipal";27/02/12;"BA";"Maraú";1;"SIM";"FINALIZADO";25;5;8;5;5;48;4;4;7;5;20;1;1;1;3
+1100;"Mata de São João";"Municipal";27/02/12;"BA";"Mata de São João";1;"SIM";"FINALIZADO";113;14;8;5;0;140;4;5;4;4;17;3;1;0;4
+1101;"Messias";"Regional";27/02/12;"AL";"Messias, Paripueira, Santa Luzia do Norte ";3;"SIM";"FINALIZADO";44;23;26;9;7;109;4;4;3;9;20;6;3;1;10
+1102;"Nova Odessa";"Municipal";27/02/12;"SP";"Nova Odessa";1;"SIM";"FINALIZADO";10;5;3;2;4;24;5;3;8;4;20;1;1;1;3
+1103;"Santo Amaro";"Municipal";27/02/12;"BA";"Santo Amaro";1;"SIM";"FINALIZADO";85;45;3;0;1;134;5;5;5;5;20;7;4;1;12
+1104;"São Paulo";"Municipal";27/02/12;"SP";"São Paulo";1;"SIM";"FINALIZADO";233;51;78;10;0;372;5;5;5;5;20;44;11;8;63
+1105;"Água Clara";"Regional";28/02/12;"MS";"Água Clara, Aparecida do Taboado, Cassilândia, Inocência, Paranaíba, Santa Rita do Pardo, Selvíria, Três Lagoas";8;"SIM";"FINALIZADO";35;32;31;9;5;112;5;5;5;5;20;18;9;3;30
+1106;"Águas de Lindóia";"Municipal";28/02/12;"SP";"Águas de Lindóia";1;"SIM";"FINALIZADO";3;37;2;0;0;42;5;5;5;5;20;3;1;1;5
+1107;"Alagoinha";"Regional";28/02/12;"PE";"Alagoinha, Arcoverde, Belo Jardim, Brejo da Madre de Deus, Buíque, Jataúba, Pedra, Pesqueira, Poção, Sanharó, Sertânia, Tupanatinga, Venturosa ";13;"SIM";"FINALIZADO";31;107;7;5;1;151;6;5;5;4;20;6;3;1;10
+1108;"Araras";"Municipal";28/02/12;"SP";"Araras";1;"SIM";"FINALIZADO";37;21;12;14;0;84;2;3;6;5;16;2;2;1;5
+1109;"Bauru ";"Municipal";28/02/12;"SP";"Bauru ";1;"SIM";"FINALIZADO";53;45;3;7;0;108;4;9;2;5;20;6;2;2;10
+1110;"Bocaina";"Municipal";28/02/12;"SP";"Bocaina";1;"SIM";"FINALIZADO";6;3;3;2;1;15;1;1;1;1;4;0;1;0;1
+1111;"Cabo de Santo Agostinho ";"Municipal";28/02/12;"PE";"Cabo de Santo Agostinho ";1;"SIM";"FINALIZADO";54;30;5;10;2;101;5;5;5;5;20;3;2;1;6
+1112;"Canapi";"Municipal";28/02/12;"AL";"Canapi";1;"SIM";"FINALIZADO";66;40;11;10;5;132;2;5;5;8;20;2;3;1;6
+1113;"Dom Macedo Costa ";"Municipal";28/02/12;"BA";"Dom Macedo Costa ";1;"SIM";"FINALIZADO";34;19;12;10;14;89;5;5;5;5;20;4;1;0;5
+1114;"Flexeiras";"Municipal";28/02/12;"AL";"Flexeiras";1;"SIM";"FINALIZADO";32;22;26;7;0;87;4;4;4;4;16;7;0;1;8
+1115;"Francisco Morato";"Municipal";28/02/12;"SP";"Francisco Morato";1;"SIM";"FINALIZADO";59;98;16;20;3;196;5;5;5;3;18;10;5;2;17
+1116;"Ibirá";"Municipal";28/02/12;"SP";"Ibirá";1;"SIM";"FINALIZADO";7;11;4;3;0;25;2;1;3;3;9;3;1;1;5
+1117;"Igarassu";"Municipal";28/02/12;"PE";"Igarassu";1;"SIM";"FINALIZADO";38;19;4;13;0;74;5;5;4;4;18;17;9;3;29
+1118;"Ilhabela";"Municipal";28/02/12;"SP";"Ilhabela";1;"SIM";"FINALIZADO";69;38;4;10;2;123;3;4;8;5;20;3;2;1;6
+1119;"Itapecerica da Serra";"Municipal";28/02/12;"SP";"Itapecerica da Serra";1;"SIM";"FINALIZADO";50;20;2;3;2;77;5;5;5;5;20;3;1;1;5
+1120;"Macapá";"Municipal";28/02/12;"AP";"Macapá";1;"SIM";"FINALIZADO";120;60;20;15;99;314;5;6;3;6;20;59;27;4;90
+1121;"Mirassol";"Municipal";28/02/12;"SP";"Mirassol";1;"SIM";"FINALIZADO";5;8;1;3;8;25;2;1;1;1;5;2;0;0;2
+1122;"Pindamonhangaba ";"Municipal";28/02/12;"SP";"Pindamonhangaba ";1;"SIM";"FINALIZADO";21;18;7;3;4;53;1;1;1;1;4;3;2;1;6
+1123;"Ponta Porã";"Regional";28/02/12;"MS";"Ponta Porã, Amambaí, Aral Moreira, Laguna Carapã, Sete Quedas";5;"SIM";"FINALIZADO";41;19;12;5;3;80;5;5;3;7;20;15;8;5;28
+1124;"Ribeirão Pires";"Municipal";28/02/12;"SP";"Ribeirão Pires";1;"SIM";"FINALIZADO";38;9;12;3;0;62;7;2;6;5;20;6;1;3;10
+1125;"São José dos Campos";"Municipal";28/02/12;"SP";"São José dos Campos";1;"SIM";"FINALIZADO";37;10;8;72;10;137;5;5;5;5;20;6;3;1;10
+1126;"Soure";"Municipal";28/02/12;"PA";"Soure";1;"SIM";"FINALIZADO";28;12;19;2;1;62;1;2;2;1;6;2;2;1;5
+1127;"Planaltino";"Municipal";29/02/12;"BA";"Planaltino";1;"SIM";"FINALIZADO";44;20;8;4;0;76;1;1;1;1;4;1;0;0;1
+1128;"Alfredo Marcondes";"Municipal";29/02/12;"SP";"Alfredo Marcondes";1;"SIM";"FINALIZADO";23;9;5;1;1;39;3;2;3;3;11;3;2;2;7
+1129;"Alfredo Marcondes";"Livre";29/02/12;"SP";"Alfredo Marcondes";0;"SIM";"FINALIZADO";23;9;5;0;0;37;3;2;3;2;10;0;0;0;0
+1130;"Andradina";"Regional";29/02/12;"SP";"Andradina, Bento de Abreu, Castilho, Guaraçaí, Guararapes, Ilha Solteira, Lavínia, Mirandópolis, Murutinga do Sul, Nova Independência, Rubiácea, Sud Mennucci, Valparaíso ";13;"SIM";"FINALIZADO";22;64;41;0;0;127;3;4;2;11;20;3;1;1;5
+1131;"Belo Horizonte ";"Livre";29/02/12;"MG";"Belo Horizonte - CGU";0;"SIM";"FINALIZADO";2;83;0;0;0;85;0;0;0;10;10;0;0;0;0
+1132;"Breves";"Municipal";29/02/12;"PA";"Breves";1;"SIM";"FINALIZADO";13;12;3;33;0;61;5;5;5;5;20;8;4;1;13
+1133;"Cordeirópolis";"Municipal";29/02/12;"SP";"Cordeirópolis";1;"SIM";"FINALIZADO";96;24;8;1;2;131;5;4;5;6;20;5;2;2;9
+1134;"Cruzeiro ";"Municipal";29/02/12;"SP";"Cruzeiro ";1;"SIM";"FINALIZADO";67;12;9;1;1;90;1;3;2;1;7;2;2;1;5
+1135;"Delmiro Gouveia ";"Municipal";29/02/12;"AL";"Delmiro Gouveia ";1;"SIM";"FINALIZADO";90;45;15;17;16;183;4;4;6;6;20;11;6;4;21
+1136;"Girau do Ponciano ";"Municipal";29/02/12;"AL";"Girau do Ponciano ";1;"SIM";"FINALIZADO";72;57;21;30;11;191;9;5;3;3;20;5;4;1;10
+1137;"Inhambupe";"Municipal";29/02/12;"BA";"Inhambupe";1;"SIM";"FINALIZADO";39;92;10;5;5;151;6;5;6;3;20;4;3;1;8
+1138;"Itatiba";"Municipal";29/02/12;"SP";"Itatiba";1;"SIM";"FINALIZADO";45;24;4;2;2;77;3;3;3;3;12;4;2;1;7
+1139;"Jaciara";"Municipal";29/02/12;"MT";"Jaciara";1;"SIM";"FINALIZADO";16;12;2;0;0;30;1;1;1;1;4;3;1;1;5
+1140;"Limoeiro";"Municipal";29/02/12;"PE";"Limoeiro";1;"SIM";"FINALIZADO";54;22;10;3;0;89;5;5;5;5;20;3;2;0;5
+1141;"Mogi Guaçu";"Municipal";29/02/12;"SP";"Mogi Guaçu";1;"SIM";"FINALIZADO";3;5;2;4;2;16;2;3;2;2;9;0;1;0;1
+1142;"Mongaguá";"Municipal";29/02/12;"SP";"Mongaguá";1;"SIM";"FINALIZADO";38;33;15;10;6;102;5;5;5;5;20;3;1;1;5
+1143;"Nova Soure";"Municipal";29/02/12;"BA";"Nova Soure";1;"SIM";"FINALIZADO";59;28;11;8;0;106;7;4;5;4;20;2;2;2;6
+1144;"Pedro de Toledo";"Municipal";29/02/12;"SP";"Pedro de Toledo";1;"SIM";"FINALIZADO";20;13;1;1;2;37;1;1;2;3;7;0;1;0;1
+1145;"Riacho de Santana ";"Municipal";29/02/12;"BA";"Riacho de Santana ";1;"SIM";"FINALIZADO";36;18;15;21;14;104;3;2;2;2;9;2;1;1;4
+1146;"São Sebastião";"Municipal";29/02/12;"SP";"São Sebastião";1;"SIM";"FINALIZADO";11;47;7;0;0;65;5;5;5;5;20;4;2;1;7
+1147;"Simões Filho";"Municipal";29/02/12;"BA";"Simões Filho";1;"SIM";"FINALIZADO";64;37;15;5;11;132;5;5;6;4;20;4;2;1;7
+1148;"Tremedal";"Municipal";29/02/12;"BA";"Tremedal";1;"SIM";"FINALIZADO";25;15;5;5;0;50;1;1;1;1;4;1;1;1;3
+1149;"Agrestina ";"Municipal";01/03/12;"PE";"Agrestina ";1;"SIM";"FINALIZADO";60;51;9;0;5;125;5;5;5;5;20;8;6;2;16
+1150;"Aliança";"Regional";01/03/12;"PE";"Aliança, Casinhas, Chã de Alegria, Feira Nova, Ferreiros, Machados, Passira, Paudalho, Salgadinho, Vertente do Lério";10;"SIM";"FINALIZADO";45;35;15;10;6;111;3;5;3;5;16;26;22;2;50
+1151;"Carpina";"Regional";01/03/12;"PE";"Carpina, Itaquitinga, Lagoa do Carro, Lagoa do Itaenga, Tracunhaém, Vicência ";6;"SIM";"FINALIZADO";40;26;16;1;0;83;4;6;5;5;20;6;3;2;11
+1152;"Gravatá";"Municipal";01/03/12;"PE";"Gravatá";1;"SIM";"FINALIZADO";58;28;8;5;5;104;5;5;4;6;20;1;1;1;3
+1153;"Jurema";"Municipal";01/03/12;"PE";"Jurema";1;"SIM";"FINALIZADO";9;45;7;8;0;69;3;4;5;3;15;1;1;1;3
+1154;"Petrolândia";"Livre";01/03/12;"PE";"Petrolândia";0;"SIM";"FINALIZADO";18;10;15;0;0;43;3;2;2;3;10;0;0;0;0
+1155;"Vitória de Santo Antão";"Municipal";01/03/12;"PE";"Vitória de Santo Antão";1;"SIM";"FINALIZADO";20;45;7;52;25;149;5;5;5;5;20;6;2;2;10
+1156;"Vitória";"Estadual";01/03/12;"ES";"Vitória";0;"SIM";"FINALIZADO";132;75;27;87;0;321;4;7;3;6;20;24;10;4;38
+1157;"Bom Jesus";"Municipal";02/03/12;"PI";"Bom Jesus";1;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+1158;"Bom Conselho";"Municipal";02/03/12;"PE";"Bom Conselho";1;"SIM";"FINALIZADO";12;31;3;19;0;65;1;2;3;5;11;3;1;1;5
+1159;"Bujari ";"Municipal";02/03/12;"AC";"Bujari ";1;"SIM";"FINALIZADO";6;16;5;0;0;27;4;4;5;5;18;2;3;2;7
+1160;"Cupira";"Livre";02/03/12;"PE";"Cupira";0;"SIM";"FINALIZADO";7;10;4;0;0;21;0;0;9;0;9;0;0;0;0
+1161;"Goiana";"Regional";02/03/12;"PE";"Goiana, Condado, Itaquitinga, Timbaúba";4;"SIM";"FINALIZADO";36;102;7;0;0;145;4;4;4;7;19;2;1;1;4
+1162;"Jaboatão dos Guararapes";"Municipal";02/03/12;"PE";"Jaboatão dos Guararapes";1;"SIM";"FINALIZADO";61;46;11;4;2;124;5;5;5;5;20;24;12;4;40
+1163;"Olinda";"Municipal";02/03/12;"PE";"Olinda";1;"SIM";"FINALIZADO";102;57;8;2;3;172;5;5;5;5;20;7;4;1;12
+1164;"Parnamirim";"Municipal";02/03/12;"PE";"Parnamirim";1;"SIM";"FINALIZADO";45;26;7;3;0;81;5;5;5;5;20;3;2;2;7
+1165;"Serrita";"Municipal";02/03/12;"PE";"Serrita";1;"SIM";"FINALIZADO";62;39;8;4;11;124;4;6;5;5;20;2;2;2;6
+1166;"Sorriso";"Livre";03/03/12;"MT";"Sorriso";0;"SIM";"FINALIZADO";2;1;28;0;0;31;0;7;0;0;7;0;0;0;0
+1167;"Maceió";"Livre";05/03/12;"AL";"Maceió";0;"SIM";"FINALIZADO";0;21;0;0;0;21;0;0;0;10;10;0;0;0;0
+1168;"São Luís";"Estadual";06/03/12;"MA";"São Luís";0;"SIM";"FINALIZADO";178;89;28;186;69;550;3;4;6;7;20;30;12;5;47
+1169;"São Raimundo Nonato";"Regional";07/03/12;"PI";"São Raimundo Nonato, Anísio de Abreu, Bonfim do Piauí, Caracol, Coronel José Dias, Dirceu Arcoverde, Dom Inocêncio, Fartura do Piauí, Guaribas, Jurema, São Braz do Piauí,São Lourenço do Piauí, Várzea Branca";13;"SIM";"FINALIZADO";142;25;24;5;16;212;6;3;5;6;20;7;3;1;11
+1170;"Canhoba";"Municipal";08/03/12;"SE";"Canhoba";1;"SIM";"FINALIZADO";22;7;10;0;0;39;6;7;4;3;20;7;3;2;12
+1171;"Macapá ";"Livre";08/03/12;"AP";"Macapá - UEAP - Calouros";0;"SIM";"FINALIZADO";140;3;0;0;0;143;0;0;0;10;10;0;0;0;0
+1172;"Maceió";"Livre";08/03/12;"AL";"Maceió";0;"SIM";"FINALIZADO";20;0;0;0;0;20;0;0;0;10;10;0;0;0;0
+1173;"Rio de Janeiro ";"Livre";08/03/12;"RJ";"Rio de Janeiro - COE";0;"SIM";"FINALIZADO";6;3;1;0;0;10;4;3;1;1;9;0;0;0;0
+1174;"Rio de Janeiro ";"Livre";08/03/12;"RJ";"Rio de Janeiro - CRC";0;"SIM";"FINALIZADO";0;10;0;0;0;10;1;1;1;1;4;0;0;0;0
+1175;"Volta Redonda";"Livre";08/03/12;"RJ";"Volta Redonda";0;"SIM";"FINALIZADO";21;0;1;0;0;22;0;10;0;0;10;0;0;0;0
+1176;"Aracaju";"Municipal";09/03/12;"SE";"Aracaju";1;"SIM";"FINALIZADO";162;71;38;4;1;276;1;5;5;9;20;7;1;2;10
+1177;"João Pessoa";"Livre";09/03/12;"PB";"João Pessoa";0;"SIM";"FINALIZADO";5;11;9;0;0;25;0;0;10;0;10;0;0;0;0
+1178;"Brasília";"Estadual";09/03/12;"DF";"Brasília";0;"SIM";"FINALIZADO";218;94;38;0;52;402;6;7;3;4;20;17;7;3;27
+1179;"Maués";"Livre";10/03/12;"AM";"Maués";0;"SIM";"FINALIZADO";31;2;2;0;0;35;2;2;2;4;10;0;0;0;0
+1180;"Queimados";"Livre";10/03/12;"RJ";"Queimados";0;"SIM";"FINALIZADO";69;0;4;0;0;73;2;2;2;4;10;0;0;0;0
+1181;"São Paulo";"Livre";10/03/12;"SP";"São Paulo";0;"SIM";"FINALIZADO";47;1;8;0;0;56;0;10;0;0;10;0;0;0;0
+1182;"Manaus";"Livre";13/03/12;"AM";"Manaus";0;"SIM";"FINALIZADO";1;0;23;0;0;24;0;0;8;3;11;0;0;0;0
+1183;"Manaus ";"Livre";14/03/12;"AM";"Manaus - IFAM";0;"SIM";"FINALIZADO";0;0;1;0;0;1;0;0;3;0;3;0;0;0;0
+1184;"Manaus";"Livre";14/03/12;"AM";"Manaus";0;"SIM";"FINALIZADO";59;3;0;0;0;62;10;0;0;0;10;0;0;0;0
+1185;"Belo Horizonte";"Estadual";14/03/12;"MG";"Belo Horizonte";0;"SIM";"FINALIZADO";183;124;78;81;31;497;6;4;4;6;20;36;14;6;56
+1186;"Natal";"Estadual";14/03/12;"RN";"Natal";0;"SIM";"FINALIZADO";96;44;29;73;3;245;5;4;4;7;20;24;10;4;38
+1187;"Teresina";"Livre";15/03/12;"PI";"Teresina";0;"SIM";"FINALIZADO";73;0;0;0;0;73;0;8;0;0;8;0;0;0;0
+1188;"Terezinha";"Municipal";15/03/12;"PE";"Terezinha";1;"SIM";"FINALIZADO";1;19;4;2;0;26;1;1;1;1;4;1;2;0;3
+1189;"João Pessoa";"Estadual";15/03/12;"PB";"João Pessoa";0;"SIM";"FINALIZADO";92;62;22;75;49;300;6;4;3;7;20;24;10;4;38
+1190;"Porto Alegre";"Estadual";15/03/12;"RS";"Porto Alegre";0;"SIM";"FINALIZADO";305;353;98;0;100;856;7;4;5;4;20;36;14;6;56
+1191;"Dourados";"Livre";16/03/12;"MS";"Dourados";0;"SIM";"FINALIZADO";5;0;0;0;0;5;8;0;0;0;8;0;0;0;0
+1192;"Dourados";"Livre";16/03/12;"MS";"Dourados";0;"SIM";"FINALIZADO";4;0;0;0;0;4;3;0;0;0;3;0;0;0;0
+1193;"Recife";"Livre";16/03/12;"PE";"Recife";0;"SIM";"FINALIZADO";1;19;0;0;0;20;0;0;0;10;10;0;0;0;0
+1194;"São Paulo";"Livre";16/03/12;"SP";"São Paulo";0;"SIM";"FINALIZADO";50;60;18;0;0;128;2;5;1;2;10;0;0;0;0
+1195;"Montes Altos ";"Livre";17/03/12;"MA";"Montes Altos - Aldeia indígena Kirikati";0;"SIM";"NÃO RELATADA";;;;;;;;;;;0;;;;0
+1196;"Balsas";"Livre";17/03/12;"MA";"Balsas";0;"SIM";"FINALIZADO";0;0;60;0;0;60;0;0;10;0;10;0;0;0;0
+1197;"Parintins";"Livre";17/03/12;"AM";"Parintins";0;"SIM";"FINALIZADO";58;5;8;0;0;71;2;2;4;2;10;0;0;0;0
+1198;"Rio Grande da Serra";"Livre";17/03/12;"SP";"Rio Grande da Serra";0;"SIM";"FINALIZADO";47;23;10;0;0;80;1;4;3;2;10;0;0;0;0
+1199;"Santos";"Livre";17/03/12;"SP";"Santos";0;"SIM";"FINALIZADO";32;3;2;0;0;37;2;6;0;2;10;0;0;0;0
+1200;"Curitiba";"Estadual";17/03/12;"PR";"Curitiba";0;"SIM";"FINALIZADO";288;159;51;33;48;579;6;5;2;7;20;36;14;6;56
+1201;"Rio de Janeiro";"Estadual";17/03/12;"RJ";"Rio de Janeiro";0;"SIM";"FINALIZADO";210;92;50;83;24;459;3;6;5;6;20;36;14;6;56
+1202;"Brasilia Edemocracia";"Virtual";19/03/12;"DF";"Brasilia";0;"SIM";"FINALIZADO";2690;0;0;0;0;2690;20;20;20;20;80;0;0;0;0
+1203;"Abel Figueiredo";"Livre";19/03/12;"PA";"Abel Figueiredo";0;"SIM";"FINALIZADO";20;5;8;0;0;33;0;0;0;1;1;0;0;0;0
+1204;"Parintins";"Livre";19/03/12;"AM";"Parintins";0;"SIM";"FINALIZADO";150;8;5;0;0;163;2;8;0;0;10;0;0;0;0
+1205;"Belo Horizonte ";"Livre";20/03/12;"MG";"Belo Horizonte - UNA";0;"SIM";"FINALIZADO";18;0;0;0;0;18;7;0;0;0;7;0;0;0;0
+1206;"Belo Horizonte ";"Livre";20/03/12;"MG";"Belo Horizonte - UNA - Aimorés";0;"SIM";"FINALIZADO";21;0;0;0;0;21;5;0;0;0;5;0;0;0;0
+1207;"Cuiabá";"Estadual";20/03/12;"MT";"Cuiabá";0;"SIM";"FINALIZADO";100;41;30;5;5;181;5;5;5;5;20;24;10;4;38
+1208;"Curitiba";"Livre";20/03/12;"PR";"Curitiba";0;"SIM";"FINALIZADO";8;4;1;0;0;13;2;3;2;3;10;0;0;0;0
+1209;"Florianópolis";"Livre";20/03/12;"SC";"Florianópolis";0;"SIM";"FINALIZADO";13;1;8;0;0;22;0;5;5;0;10;0;0;0;0
+1210;"Maceió ";"Livre";20/03/12;"AL";"Maceió - SEAS";0;"SIM";"FINALIZADO";0;36;0;0;0;36;0;0;0;10;10;0;0;0;0
+1211;"Maracaju";"Livre";20/03/12;"MS";"Maracaju";0;"SIM";"FINALIZADO";27;20;17;0;0;64;1;4;2;3;10;0;0;0;0
+1212;"São Luís";"Livre";20/03/12;"MA";"São Luís";0;"SIM";"FINALIZADO";86;0;0;0;0;86;0;0;0;10;10;0;0;0;0
+1213;"São Luís";"Livre";20/03/12;"MA";"São Luís";0;"SIM";"FINALIZADO";60;0;0;0;0;60;10;0;0;0;10;0;0;0;0
+1214;"Belo Horizonte";"Livre";21/03/12;"MG";"Belo Horizonte";0;"SIM";"FINALIZADO";18;0;0;0;0;18;0;0;0;10;10;0;0;0;0
+1215;"Belo Horizonte ";"Livre";21/03/12;"MG";"Belo Horizonte - UNA - Direito - Manhã";0;"SIM";"FINALIZADO";16;2;0;0;0;18;10;0;0;0;10;0;0;0;0
+1216;"Guarapari";"Livre";21/03/12;"ES";"Guarapari";0;"SIM";"FINALIZADO";22;0;1;0;0;23;0;10;0;0;10;0;0;0;0
+1217;"Maceió ";"Livre";21/03/12;"AL";"Maceió - Faculdade Maurício de Nassau";0;"SIM";"FINALIZADO";121;0;0;0;0;121;0;0;0;10;10;0;0;0;0
+1218;"São Cristóvão";"Livre";21/03/12;"SE";"São Cristóvão";0;"SIM";"FINALIZADO";0;0;12;0;0;12;0;0;10;0;10;0;0;0;0
+1219;"Angical do Piauí";"Livre";22/03/12;"PI";"Angical do Piauí";0;"SIM";"FINALIZADO";50;5;1;0;0;56;0;0;0;10;10;0;0;0;0
+1220;"Aracaju";"Livre";22/03/12;"SE";"Aracaju";0;"SIM";"FINALIZADO";54;0;0;0;0;54;4;5;0;1;10;0;0;0;0
+1221;"Cruzeiro do Sul";"Livre";22/03/12;"AC";"Cruzeiro do Sul";0;"SIM";"FINALIZADO";26;0;0;0;0;26;0;0;0;10;10;0;0;0;0
+1222;"Fortaleza";"Livre";22/03/12;"CE";"Fortaleza";0;"SIM";"FINALIZADO";22;68;0;0;0;90;3;3;0;4;10;0;0;0;0
+1223;"Sertãozinho";"Livre";22/03/12;"PB";"Sertãozinho";0;"SIM";"FINALIZADO";56;48;10;0;0;114;2;3;2;3;10;0;0;0;0
+1224;"Palmas";"Estadual";22/03/12;"TO";"Palmas";0;"SIM";"FINALIZADO";78;46;17;113;103;357;8;5;4;3;20;18;7;3;28
+1225;"Ananindeua";"Livre";23/03/12;"PA";"Ananindeua";0;"SIM";"FINALIZADO";0;0;79;0;0;79;6;0;4;0;10;0;0;0;0
+1226;"Aracaju";"Livre";23/03/12;"SE";"Aracaju";0;"SIM";"FINALIZADO";28;0;0;0;0;28;0;10;0;0;10;0;0;0;0
+1227;"Crateús";"Livre";23/03/12;"CE";"Crateús";0;"SIM";"FINALIZADO";34;1;33;0;0;68;0;4;3;3;10;0;0;0;0
+1228;"Cruzeiro do Sul";"Livre";23/03/12;"AC";"Cruzeiro do Sul";0;"SIM";"FINALIZADO";0;0;15;0;0;15;0;0;10;0;10;0;0;0;0
+1229;"Recife ";"Livre";23/03/12;"PE";"Recife - UFPE";0;"SIM";"FINALIZADO";63;0;0;0;0;63;10;0;0;0;10;0;0;0;0
+1230;"São Paulo";"Livre";23/03/12;"SP";"São Paulo";0;"SIM";"FINALIZADO";11;4;24;0;0;39;2;3;3;2;10;0;0;0;0
+1231;"Turiaçu";"Livre";23/03/12;"MA";"Turiaçu";0;"SIM";"FINALIZADO";41;24;1;0;0;66;0;0;0;10;10;0;0;0;0
+1232;"Assis";"Livre";24/03/12;"SP";"Assis";0;"SIM";"FINALIZADO";63;16;9;0;0;88;2;3;2;3;10;0;0;0;0
+1233;"Uiramutã ";"Livre";24/03/12;"RR";"Uiramutã ";0;"SIM";"FINALIZADO";305;12;8;0;0;325;2;4;3;1;10;0;0;0;0
+1234;"Blumenau";"Livre";26/03/12;"SC";"Blumenau";0;"SIM";"FINALIZADO";52;13;2;0;0;67;0;0;0;10;10;0;0;0;0
+1235;"Brusque";"Livre";26/03/12;"SC";"Brusque";0;"SIM";"FINALIZADO";18;0;5;0;0;23;0;4;6;0;10;0;0;0;0
+1236;"Guarapuava";"Livre";26/03/12;"PR";"Guarapuava";0;"SIM";"FINALIZADO";29;0;0;0;0;29;0;0;0;7;7;0;0;0;0
+1237;"Maceió";"Livre";26/03/12;"AL";"Maceió";0;"SIM";"FINALIZADO";3;2;7;0;0;12;0;0;10;0;10;0;0;0;0
+1238;"Maceió ";"Livre";26/03/12;"AL";"Maceió - UFAL";0;"SIM";"FINALIZADO";170;2;0;0;0;172;0;10;0;0;10;0;0;0;0
+1239;"Recife";"Livre";26/03/12;"PE";"Recife";0;"SIM";"FINALIZADO";18;5;15;0;0;38;2;3;2;3;10;0;0;0;0
+1240;"Caldas Novas";"Livre";27/03/12;"GO";"Caldas Novas";0;"SIM";"FINALIZADO";145;7;0;0;0;152;0;0;0;10;10;0;0;0;0
+1241;"Caldas Novas";"Livre";27/03/12;"GO";"Caldas Novas";0;"SIM";"FINALIZADO";0;0;16;0;0;16;0;0;8;0;8;0;0;0;0
+1242;"Feijó";"Livre";27/03/12;"AC";"Feijó";0;"SIM";"FINALIZADO";40;2;4;0;0;46;0;0;0;10;10;0;0;0;0
+1243;"Uruçuí";"Livre";27/03/12;"PI";"Uruçuí";0;"SIM";"FINALIZADO";0;0;54;0;0;54;0;0;10;0;10;0;0;0;0
+1244;"Porto Real do Colégio";"Livre";28/03/12;"AL";"Porto Real do Colégio";0;"SIM";"NÃO RELATADA";;;;;;0;;;;;0;;;;0
+1245;"Barra de São Francisco";"Livre";28/03/12;"ES";"Barra de São Francisco";0;"SIM";"FINALIZADO";3;9;0;0;0;12;0;10;0;0;10;0;0;0;0
+1246;"Belo Horizonte";"Livre";28/03/12;"MG";"Belo Horizonte";0;"SIM";"FINALIZADO";10;60;38;0;0;108;0;0;10;0;10;0;0;0;0
+1247;"Belo Horizonte";"Livre";28/03/12;"MG";"Belo Horizonte";0;"SIM";"FINALIZADO";32;2;0;0;0;34;10;0;0;0;10;0;0;0;0
+1248;"Bom Jardim";"Livre";28/03/12;"RJ";"Bom Jardim";0;"SIM";"FINALIZADO";3;3;20;0;0;26;0;0;10;0;10;0;0;0;0
+1249;"Caruaru ";"Livre";28/03/12;"PE";"Caruaru - Faculdade Asces";0;"SIM";"FINALIZADO";126;3;4;0;0;133;6;4;0;0;10;0;0;0;0
+1250;"Caruaru ";"Livre";28/03/12;"PE";"Caruaru - Faculdade Asces";0;"SIM";"FINALIZADO";127;2;2;0;0;131;2;6;0;2;10;0;0;0;0
+1251;"Catalão ";"Livre";28/03/12;"GO";"Catalão - UFG";0;"SIM";"FINALIZADO";238;0;0;0;0;238;0;0;0;10;10;0;0;0;0
+1252;"Curitiba";"Livre";28/03/12;"PR";"Curitiba";0;"SIM";"FINALIZADO";20;0;0;0;0;20;0;5;0;5;10;0;0;0;0
+1253;"Fortaleza";"Livre";28/03/12;"CE";"Fortaleza";0;"SIM";"FINALIZADO";46;1;43;0;0;90;0;6;4;0;10;0;0;0;0
+1254;"João Pessoa";"Livre";28/03/12;"PB";"João Pessoa";0;"SIM";"FINALIZADO";113;0;0;0;0;113;10;0;0;0;10;0;0;0;0
+1255;"Piraquara";"Livre";28/03/12;"PR";"Piraquara";0;"SIM";"FINALIZADO";7;2;21;0;0;30;0;0;10;0;10;0;0;0;0
+1256;"Porto Alegre";"Livre";28/03/12;"RS";"Porto Alegre";0;"SIM";"FINALIZADO";40;0;0;0;0;40;10;0;0;0;10;0;0;0;0
+1257;"São José";"Livre";28/03/12;"SC";"São José";0;"SIM";"FINALIZADO";11;1;1;0;0;13;0;7;0;0;7;0;0;0;0
+1258;"São Paulo";"Livre";28/03/12;"SP";"São Paulo";0;"SIM";"FINALIZADO";20;1;0;0;0;21;4;2;0;4;10;0;0;0;0
+1259;"Aracaju";"Estadual";28/03/12;"SE";"Aracaju";0;"SIM";"FINALIZADO";217;63;74;33;63;450;6;4;5;5;20;18;7;3;28
+1260;"Macapá";"Estadual";29/03/12;"AP";"Macapá";0;"SIM";"FINALIZADO";90;47;19;21;6;183;3;4;5;8;20;18;7;3;28
+1261;"Salvador";"Estadual";29/03/12;"BA";"Salvador";0;"SIM";"FINALIZADO";174;118;39;47;67;445;5;5;2;8;20;36;14;6;56
+1262;"Campo Grande";"Estadual";29/03/12;"MS";"Campo Grande";0;"SIM";"FINALIZADO";125;78;25;83;20;331;6;4;1;9;20;18;7;3;28
+1263;"Belém";"Estadual";29/03/12;"PA";"Belém";0;"SIM";"FINALIZADO";369;137;63;245;343;1157;7;5;3;5;20;30;12;5;47
+1264;"Afogados da Ingazeira";"Livre";29/03/12;"PE";"Afogados da Ingazeira";0;"SIM";"FINALIZADO";85;0;0;0;0;85;0;0;10;0;10;0;0;0;0
+1265;"Brasília";"Livre";29/03/12;"DF";"Brasília";0;"SIM";"FINALIZADO";9;0;0;0;0;9;0;0;0;10;10;0;0;0;0
+1266;"Coroatá";"Livre";29/03/12;"MA";"Coroatá";0;"SIM";"FINALIZADO";19;18;183;0;0;220;0;0;10;0;10;0;0;0;0
+1267;"Curitiba";"Livre";29/03/12;"PR";"Curitiba";0;"SIM";"FINALIZADO";22;0;0;0;0;22;5;5;0;0;10;0;0;0;0
+1268;"Itabira";"Livre";29/03/12;"MG";"Itabira";0;"SIM";"FINALIZADO";7;0;0;0;0;7;2;2;4;2;10;0;0;0;0
+1269;"Joinville";"Livre";29/03/12;"SC";"Joinville";0;"SIM";"FINALIZADO";2;3;17;0;0;22;0;0;10;0;10;0;0;0;0
+1270;"Mamanguape";"Livre";29/03/12;"PB";"Mamanguape";0;"SIM";"FINALIZADO";240;0;0;0;0;240;0;0;0;10;10;0;0;0;0
+1271;"Mantena";"Livre";29/03/12;"MG";"Mantena";0;"SIM";"FINALIZADO";39;3;0;0;0;42;0;10;0;0;10;0;0;0;0
+1272;"Nova Friburgo";"Livre";29/03/12;"RJ";"Nova Friburgo";0;"SIM";"FINALIZADO";48;1;1;0;0;50;1;3;2;4;10;0;0;0;0
+1273;"São Paulo";"Livre";29/03/12;"SP";"São Paulo";0;"SIM";"FINALIZADO";89;0;1;0;0;90;3;5;0;2;10;0;0;0;0
+1274;"Porto Velho";"Estadual";29/03/12;"RO";"Porto Velho";0;"SIM";"FINALIZADO";70;29;28;170;8;305;6;5;4;5;20;18;7;3;28
+1275;"Maceió";"Estadual";30/03/12;"AL";"Maceió";0;"SIM";"FINALIZADO";174;77;37;66;18;372;4;5;5;6;20;24;10;4;38
+1276;"Belo Horizonte";"Livre";30/03/12;"MG";"Belo Horizonte";0;"SIM";"FINALIZADO";9;2;7;0;0;18;0;0;9;0;9;0;0;0;0
+1277;"Belo Horizonte ";"Livre";30/03/12;"MG";"Belo Horizonte - Unifenas - Direito - 10º P";0;"SIM";"FINALIZADO";18;1;0;0;0;19;6;0;0;0;6;0;0;0;0
+1278;"Belo Horizonte ";"Livre";30/03/12;"MG";"Belo Horizonte - Unifenas - Direito - 1º P";0;"SIM";"FINALIZADO";43;1;0;0;0;44;0;0;0;9;9;0;0;0;0
+1279;"Brasília";"Livre";30/03/12;"DF";"Brasília";0;"SIM";"FINALIZADO";0;49;0;0;0;49;2;2;4;2;10;0;0;0;0
+1280;"Cantá ";"Livre";30/03/12;"RR";"Cantá - Comunidade Malacacheta";0;"SIM";"FINALIZADO";42;43;4;0;0;89;2;3;3;2;10;0;0;0;0
+1281;"Florianópolis";"Livre";30/03/12;"SC";"Florianópolis";0;"SIM";"FINALIZADO";20;0;0;0;0;20;4;2;1;3;10;0;0;0;0
+1282;"Fortaleza";"Livre";30/03/12;"CE";"Fortaleza";0;"SIM";"FINALIZADO";70;0;0;0;0;70;2;2;3;3;10;0;0;0;0
+1283;"Maricá";"Livre";30/03/12;"RJ";"Maricá";0;"SIM";"FINALIZADO";28;0;14;0;0;42;0;0;0;10;10;0;0;0;0
+1284;"Monsenhor Hipólito";"Livre";30/03/12;"PI";"Monsenhor Hipólito";0;"SIM";"FINALIZADO";0;0;31;0;0;31;0;0;10;0;10;0;0;0;0
+1285;"Novo Hamburgo";"Livre";30/03/12;"RS";"Novo Hamburgo";0;"SIM";"FINALIZADO";3;0;7;0;0;10;10;0;0;0;10;0;0;0;0
+1286;"Pacaraima";"Livre";30/03/12;"RR";"Pacaraima";0;"SIM";"FINALIZADO";85;12;5;0;0;102;1;3;2;4;10;0;0;0;0
+1287;"Palhoça";"Livre";30/03/12;"SC";"Palhoça";0;"SIM";"FINALIZADO";20;1;10;0;0;31;0;5;5;0;10;0;0;0;0
+1288;"Palmas";"Livre";30/03/12;"TO";"Palmas";0;"SIM";"FINALIZADO";20;1;3;0;0;24;2;4;0;4;10;0;0;0;0
+1289;"Quatro Barras";"Livre";30/03/12;"PR";"Quatro Barras";0;"SIM";"FINALIZADO";3;4;18;0;0;25;0;0;10;0;10;0;0;0;0
+1290;"Seropédica";"Livre";30/03/12;"RJ";"Seropédica";0;"SIM";"FINALIZADO";5;8;0;0;0;13;1;0;0;0;1;0;0;0;0
+1291;"São Paulo";"Estadual";30/03/12;"SP";"São Paulo";0;"SIM";"FINALIZADO";231;123;66;22;55;497;6;7;2;5;20;48;19;8;75
+1292;"Brasília";"Livre";31/03/12;"DF";"Brasília";0;"SIM";"FINALIZADO";11;0;0;0;0;11;0;0;10;0;10;0;0;0;0
+1293;"Cametá";"Livre";31/03/12;"PA";"Cametá";0;"SIM";"FINALIZADO";91;1;1;0;0;93;4;3;1;2;10;0;0;0;0
+1294;"Massachusetts";"Livre";31/03/12;"USA";"MIT - Massachusetts, USA ";0;"SIM";"FINALIZADO";25;26;29;0;0;80;10;0;0;0;10;0;0;0;0
+1295;"Salesópolis";"Livre";31/03/12;"SP";"Salesópolis";0;"SIM";"FINALIZADO";21;6;3;0;0;30;10;0;0;0;10;0;0;0;0
+1296;"Salvador";"Livre";31/03/12;"BA";"Salvador";0;"SIM";"FINALIZADO";102;7;3;0;0;112;2;1;1;0;4;0;0;0;0
+1297;"Rio Branco";"Estadual";02/04/12;"AC";"Rio Branco";0;"SIM";"FINALIZADO";68;64;9;8;11;160;4;7;3;6;20;18;7;3;28
+1298;"Recife";"Estadual";02/04/12;"PE";"Recife";0;"SIM";"FINALIZADO";140;74;28;11;4;257;5;5;5;5;20;30;12;5;47
+1299;"Armação dos Búzios";"Livre";02/04/12;"RJ";"Armação dos Búzios";0;"SIM";"FINALIZADO";10;3;5;0;0;18;0;0;2;6;8;0;0;0;0
+1300;"Belém";"Livre";02/04/12;"PA";"Belém";0;"SIM";"FINALIZADO";52;0;0;0;0;52;10;0;0;0;10;0;0;0;0
+1301;"Campo Grande";"Livre";02/04/12;"MS";"Campo Grande";0;"SIM";"FINALIZADO";53;1;0;0;0;54;2;3;2;3;10;0;0;0;0
+1302;"Itabira";"Livre";02/04/12;"MG";"Itabira";0;"SIM";"FINALIZADO";10;1;0;0;0;11;3;2;2;3;10;0;0;0;0
+1303;"Pontal do Paraná";"Livre";02/04/12;"PR";"Pontal do Paraná";0;"SIM";"FINALIZADO";150;13;8;0;0;171;0;1;0;0;1;0;0;0;0
+1304;"Porto Alegre";"Livre";02/04/12;"RS";"Porto Alegre";0;"SIM";"FINALIZADO";0;21;0;0;0;21;10;0;0;0;10;0;0;0;0
+1305;"Florianópolis";"Estadual";02/04/12;"SC";"Florianópolis";0;"SIM";"FINALIZADO";165;85;38;45;8;341;5;5;3;7;20;30;12;5;47
+1306;"Rio de Janeiro";"Livre";02/04/12;"RJ";"Rio de Janeiro";0;"SIM";"FINALIZADO";30;19;1;0;0;50;3;2;2;3;10;0;0;0;0
+1307;"São Francisco do Conde";"Livre";02/04/12;"BA";"São Francisco do Conde";0;"SIM";"FINALIZADO";28;2;4;0;0;34;0;0;9;1;10;0;0;0;0
+1308;"São Paulo ";"Livre";02/04/12;"SP";"São Paulo - ABRACCI-ETHOS";0;"SIM";"FINALIZADO";30;1;2;0;0;33;4;2;0;4;10;0;0;0;0
+1309;"Sapucaia do Sul";"Livre";02/04/12;"RS";"Sapucaia do Sul";0;"SIM";"FINALIZADO";11;0;1;0;0;12;10;0;0;0;10;0;0;0;0
+1310;"Amarante";"Livre";03/04/12;"PI";"Amarante";0;"SIM";"FINALIZADO";32;0;0;0;0;32;0;3;0;0;3;0;0;0;0
+1311;"Anchieta";"Livre";03/04/12;"ES";"Anchieta";0;"SIM";"FINALIZADO";4;5;4;0;0;13;0;6;0;0;6;0;0;0;0
+1312;"Belém";"Livre";03/04/12;"PA";"Belém";0;"SIM";"FINALIZADO";68;0;0;0;0;68;0;10;0;0;10;0;0;0;0
+1313;"Belo Horizonte ";"Livre";03/04/12;"MG";"Belo Horizonte - MPMG";0;"SIM";"FINALIZADO";28;40;4;0;0;72;2;5;0;3;10;0;0;0;0
+1314;"Brasília";"Livre";03/04/12;"DF";"Brasília";0;"SIM";"FINALIZADO";9;0;0;0;0;9;3;3;0;4;10;0;0;0;0
+1315;"Colombo";"Livre";03/04/12;"PR";"Colombo";0;"SIM";"FINALIZADO";9;9;21;0;0;39;0;0;10;0;10;0;0;0;0
+1316;"Florianópolis";"Livre";03/04/12;"SC";"Florianópolis";0;"SIM";"FINALIZADO";10;1;1;0;0;12;0;0;0;10;10;0;0;0;0
+1317;"Florianópolis ";"Livre";03/04/12;"SC";"Florianópolis - Jurerê";0;"SIM";"FINALIZADO";21;5;3;0;0;29;2;3;3;2;10;0;0;0;0
+1318;"Fortaleza";"Livre";03/04/12;"CE";"Fortaleza";0;"SIM";"FINALIZADO";3;4;25;0;0;32;3;0;7;0;10;0;0;0;0
+1319;"Goianira";"Livre";03/04/12;"GO";"Goianira";0;"SIM";"FINALIZADO";28;0;0;0;0;28;0;0;0;10;10;0;0;0;0
+1320;"Palmas ";"Livre";03/04/12;"TO";"Palmas - Colégio Criança Esperança";0;"SIM";"FINALIZADO";18;0;2;0;0;20;3;4;0;3;10;0;0;0;0
+1321;"Pamas";"Livre";03/04/12;"TO";"Pamas";0;"SIM";"FINALIZADO";46;0;1;0;0;47;1;5;0;4;10;0;0;0;0
+1322;"Piracanjuba";"Livre";03/04/12;"GO";"Piracanjuba";0;"SIM";"FINALIZADO";4;6;7;0;0;17;0;1;0;0;1;0;0;0;0
+1323;"Rio de Janeiro ";"Livre";03/04/12;"RJ";"Rio de Janeiro - MPRJ";0;"SIM";"FINALIZADO";2;18;0;0;0;20;0;3;0;7;10;0;0;0;0
+1324;"São Paulo ";"Livre";03/04/12;"SP";"São Paulo - Câmara Municipal";0;"SIM";"FINALIZADO";35;27;0;0;0;62;10;0;0;0;10;0;0;0;0
+1325;"Teresina";"Livre";03/04/12;"PI";"Teresina";0;"SIM";"FINALIZADO";6;0;0;0;0;6;1;4;1;4;10;0;0;0;0
+1326;"Belém";"Livre";04/04/12;"PA";"Belém";0;"SIM";"FINALIZADO";18;0;0;0;0;18;1;0;3;0;4;0;0;0;0
+1327;"Campina Grande";"Livre";04/04/12;"PB";"Campina Grande";0;"SIM";"FINALIZADO";1;0;6;0;0;7;0;0;10;0;10;0;0;0;0
+1328;"Campo Grande";"Livre";04/04/12;"MS";"Campo Grande";0;"SIM";"FINALIZADO";27;6;0;0;0;33;10;0;0;0;10;0;0;0;0
+1329;"Coité do Nóia";"Livre";04/04/12;"AL";"Coité do Nóia";0;"SIM";"FINALIZADO";8;12;2;0;0;22;0;0;0;8;8;0;0;0;0
+1330;"Franca";"Livre";04/04/12;"SP";"Franca";0;"SIM";"FINALIZADO";2;7;4;0;0;13;3;2;2;3;10;0;0;0;0
+1331;"Goiânia";"Livre";04/04/12;"GO";"Goiânia";0;"SIM";"FINALIZADO";0;0;16;0;0;16;0;0;10;0;10;0;0;0;0
+1332;"Guarapari";"Livre";04/04/12;"ES";"Guarapari";0;"SIM";"FINALIZADO";18;0;0;0;0;18;0;10;0;0;10;0;0;0;0
+1333;"Natal";"Livre";04/04/12;"RN";"Natal";0;"SIM";"FINALIZADO";36;0;0;0;0;36;0;0;0;10;10;0;0;0;0
+1334;"Novo Hamburgo";"Livre";04/04/12;"RS";"Novo Hamburgo";0;"SIM";"FINALIZADO";1;10;0;0;0;11;5;0;0;0;5;0;0;0;0
+1335;"Osasco ";"Livre";04/04/12;"SP";"Osasco ";0;"SIM";"FINALIZADO";33;40;26;0;0;99;1;4;2;3;10;0;0;0;0
+1336;"Paripueira";"Livre";04/04/12;"AL";"Paripueira";0;"SIM";"FINALIZADO";4;2;5;0;0;11;0;0;0;10;10;0;0;0;0
+1337;"Porto Alegre";"Livre";04/04/12;"RS";"Porto Alegre";0;"SIM";"FINALIZADO";21;1;2;0;0;24;10;0;0;0;10;0;0;0;0
+1338;"Rio Branco";"Livre";04/04/12;"AC";"Rio Branco";0;"SIM";"FINALIZADO";24;0;0;0;0;24;0;0;0;10;10;0;0;0;0
+1339;"Rio Branco ";"Livre";04/04/12;"AC";"Rio Branco - Faculdade META";0;"SIM";"FINALIZADO";40;0;0;0;0;40;0;0;0;10;10;0;0;0;0
+1340;"Rio de Janeiro";"Livre";04/04/12;"RJ";"Rio de Janeiro";0;"SIM";"FINALIZADO";22;2;7;0;0;31;0;0;9;0;9;0;0;0;0
+1341;"São Paulo ";"Livre";04/04/12;"SP";"São Paulo - IFSP";0;"SIM";"FINALIZADO";82;2;0;0;0;84;3;2;1;4;10;0;0;0;0
+1342;"Armação dos Búzios";"Livre";05/04/12;"RJ";"Armação dos Búzios";0;"SIM";"FINALIZADO";28;8;14;0;0;50;4;2;1;3;10;0;0;0;0
+1343;"Campo Grande";"Livre";05/04/12;"MS";"Campo Grande";0;"SIM";"FINALIZADO";27;13;0;0;0;40;5;2;2;1;10;0;0;0;0
+1344;"Lages";"Livre";05/04/12;"SC";"Lages";0;"SIM";"FINALIZADO";18;3;4;0;0;25;2;3;1;2;8;0;0;0;0
+1345;"Belo Horizonte";"Livre";08/04/12;"MG";"Belo Horizonte";0;"SIM";"FINALIZADO";0;25;0;0;0;25;1;4;2;3;10;0;0;0;0
+1346;"São Pedro da Aldeia";"Livre";08/04/12;"RJ";"São Pedro da Aldeia";0;"SIM";"FINALIZADO";7;0;0;0;0;7;4;2;2;2;10;0;0;0;0
+1347;"Natal";"Livre";09/04/12;"RN";"Natal";0;"SIM";"FINALIZADO";5;2;5;0;0;12;0;0;0;10;10;0;0;0;0
+1348;"Rio Branco";"Livre";09/04/12;"AC";"Rio Branco";0;"SIM";"FINALIZADO";0;0;18;0;0;18;0;0;10;0;10;0;0;0;0
+1349;"Teresina";"Estadual";12/04/12;"PI";"Teresina";0;"SIM";"FINALIZADO";129;62;30;113;0;334;6;5;5;4;20;24;10;4;38
+1350;"Fortaleza";"Estadual";17/04/12;"CE";"Fortaleza";0;"SIM";"FINALIZADO";480;254;112;7;3;856;7;3;5;5;20;30;12;5;47
+1351;"Estância";"Livre";"-/4/2012";"SE";"Estância";0;"SIM";"FINALIZADO";11;0;0;0;0;11;0;0;7;0;7;0;0;0;0
+1352;"Recife";"Livre";"-/4/2012";"PE";"Recife";0;"SIM";"FINALIZADO";180;2;0;0;0;182;1;2;1;1;5;0;0;0;0
+1353;"Trajano de Morais";"Livre";"-/4/2012";"RJ";"Trajano de Morais";0;"SIM";"FINALIZADO";15;8;15;0;0;38;2;2;3;3;10;0;0;0;0
