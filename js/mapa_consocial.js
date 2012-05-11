@@ -20,7 +20,7 @@ $(function() {
 
   $.getJSON('pontos.json', function(data) {
     if (data) {
-      var i, item, marker, latlng, c;
+      var i, item, marker, latlng, c, posicoes = [];
       for (i = 0; i < data.length; i++) {
         item = data[i];
 
@@ -36,12 +36,23 @@ $(function() {
           title: item.titulo
         });
 
+        var pos = item.lat + ',' + item.lng;
+
+        if (posicoes[pos] || posicoes[pos] === 0) {
+          var incremento = ++posicoes[pos];
+          incremento = incremento / 1000
+          latlng = new google.maps.LatLng(item.lat + incremento, item.lng + incremento);
+          marker.setPosition(latlng);
+        } else {
+          posicoes[pos] = 0;
+        }
+
         marker.content = "<h1>" + item.titulo + "</h1>";
         marker.content += "<ul>";
 
         for (c = 0; c < item.campos.length; c++) {
           for (var key in item.campos[c]) {
-            marker.content += "<li><strong>" + key + "</strong>: " + item.campos[c][key];
+            marker.content += "<li><strong>" + key + "</strong>: " + (item.campos[c][key] ? item.campos[c][key] : '');
           }
         }
 
